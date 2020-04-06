@@ -1,0 +1,36 @@
+/* For handle anchor */
+p a {
+  color: #F57215 !important;
+  text-decoration: underline dotted !important;
+}
+
+a.nav-link,
+a.nav-link:hover {
+  color: #F57215;
+}
+
+a.nav-link:hover {
+  text-decoration: underline dotted;
+}
+
+/* For handle footer stay on bottom when content less than screen height */
+.page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+.content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  height: 2.5rem;            /* Footer height */
+}
+
+/* For buletin */
+#buletin li a,
+#buletin li a:hover {
+  color: #F57215;
+}

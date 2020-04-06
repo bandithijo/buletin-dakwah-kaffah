@@ -1,51 +1,10 @@
-<footer class="footer">
-  <div class="columns">
-    <div class="column">
-      <h1 class="title is-size-4">Meta</h1>
-      <a href="#">Imprint</a>
-    </div>
+<div class="container">
+  <footer class="footer">
+    &copy; {{ site.penerbit }} {{ site.time | date: '%Y' }} | {{ site.alamat }}
+  </footer>
+</div>
 
-    <div class="column">
-      <h1 class="title is-size-4">Latest Posts</h1>
-      <ul>
-        {%- for post in site.posts limit:5 -%}
-        <li>
-          <a href="{{ post.url }}">
-            {{ post.title | truncate: 35 }}
-          </a>
-        </li>
-        {%- endfor -%}
-      </ul>
-    </div>
-
-    <div class="column">
-      <h1 class="title title is-size-4">Title</h1>
-      <a href="#">Link</a>
-    </div>
-
-    <div class="column">
-      <h1 class="title title is-size-4">Kontak</h1>
-      <ul>
-        <li>
-          <span class="icon">
-            <i class="fas fa-envelope"></i>
-          </span>
-          {{ site.email }}
-        </li>
-        <li>
-          <span class="icon">
-            <i class="fab fa-twitter"></i>
-          </span>
-          @{{ site.twitter_username }}
-        </li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="has-text-centered">
-    {{ site.title }} | &copy; BanditHijo.GitHub.io
-  </div>
-</footer>
+{% include scripts.html %}
 
 {%- if page.custom_js -%}
   {%- for js_file in page.custom_js -%}
