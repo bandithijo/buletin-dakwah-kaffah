@@ -15,6 +15,11 @@ p a {
   text-decoration: underline dotted !important;
 }
 
+a:hover {
+  color: #F57215 !important;
+  text-decoration: underline dotted !important;
+}
+
 a.nav-link,
 a.nav-link:hover {
   color: #F57215;
@@ -37,7 +42,6 @@ a.card-url:hover {
   color: #000;
   text-decoration: none;
 }
-
 
 /* For buletin */
 .buletin li a,
@@ -68,6 +72,29 @@ h5.card-title {
   font-size: 1.0rem;
   font-weight: bold;
 }
+
+/* For page navigation */
+.page-navigation {
+  font-size: 1.0rem;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+/* .page-navigation a { */
+/*   display: block; */
+/*   width: 50%; */
+/*   float: left; */
+/*   margin: 1em 0; */
+/* } */
+
+/* .page-navigation .next { */
+/*   text-align: right; */
+/* } */
+
+/* .page-navigation .prev { */
+/*   text-align: left; */
+/* } */
 
 /* For badge "baru" in card image Homepage */
 .card-img-top {

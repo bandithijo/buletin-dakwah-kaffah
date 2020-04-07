@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="container my-5">
+<div class="container mt-5 mb-4">
   <h1 class="text-left">{{ page.title }}</h1>
   <hr>
   <div class="tanggal mb-5">
@@ -11,4 +11,5 @@ layout: default
   <div class="isi">
     {{ content }}
   </div>
+  {% include page-navigation.html %}
 </div>
