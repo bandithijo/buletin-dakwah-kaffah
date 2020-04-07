@@ -21,23 +21,6 @@ a.nav-link.active:hover {
   text-decoration: none;
 }
 
-/* For handle footer stay on bottom when content less than screen height */
-.page-container {
-  position: relative;
-  min-height: 100vh;
-}
-
-.content-wrap {
-  padding-bottom: 2.5rem;    /* Footer height */
-}
-
-.footer {
-  position: absolute;
-  bottom: 2.5rem;
-  width: 100%;
-  height: 2.5rem;            /* Footer height */
-}
-
 /* For buletin */
 .buletin li a,
 .buletin li a:hover {
@@ -61,6 +44,27 @@ a.nav-link.active:hover {
 
 .card-header h1 {
   margin: 0 !important;
+}
+
+h5.card-title {
+  font-weight: bold;
+}
+
+/* For handle footer stay on bottom when content less than screen height */
+.page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+.content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
+.footer {
+  position: absolute;
+  bottom: 2.5rem;
+  width: 100%;
+  height: 2.5rem;            /* Footer height */
 }
 
 /* For footer */
