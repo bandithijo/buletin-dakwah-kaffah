@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hubungi Kami
-permalink: /kontak/
+permalink: /hubungi-kami/
 ---
 
 **Marketing**: Mursyid Aziz 08787-444-1924 (WA/SMS only).
