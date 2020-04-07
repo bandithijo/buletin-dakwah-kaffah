@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meneladani Nabi Muhammad SAW dalam Membangun Negara"
+title: "Meneladani Nabi Muhammad ﷺ  dalam Membangun Negara"
 date: 2019-11-15
 datem: "15 November 2019"
 dateh: "18 Rabiul Awal 1441"
