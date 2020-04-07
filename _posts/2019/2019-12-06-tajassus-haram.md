@@ -122,8 +122,8 @@ Jadilah Anda polisi pelindung, pengayom dan pelayan rakyat, sebagaimana slogan y
   </p>
 
   <p class="text-center">
-  <i>Sungguh akan pasti datang kapada kalian para pemimpin yang menjadikan manusia-manusia terjelek sebagai orang dekatnya dan mereka biasa mengakhirkan shalat dari waktu-waktunya. Siapa di antara kalian yang mendapatkan zaman itu, maka jangan sekali kali ia menjadi pembantu mereka, menjadi polisi mereka, tukang pemungut pajak mereka dan bendahara mereka.</i>
-  <br>(<b>HR Ibnu Hibban</b>) []
+  <i>Sungguh akan pasti datang kapada kalian para pemimpin yang menjadikan manusia-manusia terjelek sebagai orang dekatnya dan mereka biasa mengakhirkan shalat dari waktu-waktunya. Siapa di antara kalian yang mendapatkan zaman itu, maka jangan sekali kali ia menjadi pembantu mereka, menjadi polisi mereka, tukang pemungut pajak mereka dan bendahara mereka.</i><br>
+  (<b>HR Ibnu Hibban</b>) []
   </p>
   </div>
 </div>

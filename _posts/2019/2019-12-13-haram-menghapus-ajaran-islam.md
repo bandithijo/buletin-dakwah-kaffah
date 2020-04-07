@@ -149,8 +149,8 @@ Perilaku menghalang-halangi manusia dari jalan Islam tentu tidak layak dilakukan
   </p>
 
   <p class="text-center">
-  <i>Aku diperintahkan (oleh Allah SWT) untuk memerangi manusia hingga mereka menyatakan, “Tidak ada tuhan kecuali Allah dan Muhammad adalah utusan Allah”, menegakkan shalat dan menunaikan zakat. Jika mereka melakukan semua itu, darah dan harta mereka terlindungi dariku, kecuali ada alasan yang dibenarkan di dalam Islam, dan hisab atas mereka diserahkan kepada Allah.</i>
-  <br>(<b>HR al-Bukhari</b>) []
+  <i>Aku diperintahkan (oleh Allah SWT) untuk memerangi manusia hingga mereka menyatakan, “Tidak ada tuhan kecuali Allah dan Muhammad adalah utusan Allah”, menegakkan shalat dan menunaikan zakat. Jika mereka melakukan semua itu, darah dan harta mereka terlindungi dariku, kecuali ada alasan yang dibenarkan di dalam Islam, dan hisab atas mereka diserahkan kepada Allah.</i><br>
+  (<b>HR al-Bukhari</b>) []
   </p>
   </div>
 </div>

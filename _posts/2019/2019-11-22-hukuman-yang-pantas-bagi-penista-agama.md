@@ -148,8 +148,8 @@ Agama ini sungguh tak akan dapat terlindungi jika umat tak memiliki pelindung ya
   </p>
 
   <p class="text-center">
-  <i>Sungguh telah datang kepada kalian seorang rasul dari kaum kalian sendiri. Berat terasa oleh dia penderitaan kalian. Dia sangat menginginkan (keimanan dan keselamatan) bagi kalian. Dia amat belas kasihan lagi penyayang kepada kaum Mukmin.</i>
-  <br>(<b>TQS at-Taubah [9]: 128</b>) []
+  <i>Sungguh telah datang kepada kalian seorang rasul dari kaum kalian sendiri. Berat terasa oleh dia penderitaan kalian. Dia sangat menginginkan (keimanan dan keselamatan) bagi kalian. Dia amat belas kasihan lagi penyayang kepada kaum Mukmin.</i><br>
+  (<b>TQS at-Taubah [9]: 128</b>) []
   </p>
   </div>
 </div>

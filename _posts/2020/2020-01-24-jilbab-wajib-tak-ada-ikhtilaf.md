@@ -132,8 +132,8 @@ Andaikan berjilbab bagi Muslimah tidak wajib, niscaya Nabi saw. akan mengizinkan
   </p>
 
   <p class="text-center">
-  <i>Siapa yang berkata tentang Kitabullah tanpa ilmu, siapkanlah tempat duduknya dari api neraka.</i>
-  <br>(<b>HR at-Tirmidzi</b>) []
+  <i>Siapa yang berkata tentang Kitabullah tanpa ilmu, siapkanlah tempat duduknya dari api neraka.</i><br>
+  (<b>HR at-Tirmidzi</b>) []
   </p>
   </div>
 </div>

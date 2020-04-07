@@ -146,8 +146,8 @@ Begitu banyak Allah SWT mengisahkan keburukan kaum Yahudi di dalam al-Quran, ter
   </p>
 
   <p class="text-center">
-  <i>Yang halal itu adalah apa saja yang Allah halalkan di dalam Kitab-Nya. Yang haram itu adalah apa saja yang telah Allah haramkan dalam Kitab-Nya…</i>
-  <br>(<b>HR at-Tirmidzi dan Ibnu Majah</b>) []
+  <i>Yang halal itu adalah apa saja yang Allah halalkan di dalam Kitab-Nya. Yang haram itu adalah apa saja yang telah Allah haramkan dalam Kitab-Nya…</i><br>
+  (<b>HR at-Tirmidzi dan Ibnu Majah</b>) []
   </p>
   </div>
 </div>
