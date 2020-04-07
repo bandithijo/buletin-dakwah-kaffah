@@ -69,6 +69,17 @@ h5.card-title {
   font-weight: bold;
 }
 
+/* For badge "baru" in card image Homepage */
+.card-img-top {
+  position: relative;
+}
+
+.card-img-top-badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
 /* For handle footer stay on bottom when content less than screen height */
 .page-container {
   position: relative;

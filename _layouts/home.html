@@ -5,18 +5,22 @@ layout: default
 <div class="container my-5">
   <div class="row">
     <!-- CARD -->
+    {% assign new_post = site.posts.first %}
     {% for post in site.posts limit: 8 %}
-    <div class="col-3 my-3 d-flex justify-content-center">
-      <div class="card" style="width: 20rem;">
-        <a class="card-url" href="{{ post.url }}">
-          <img class="card-img-top" src="/assets/images/cover/{{ post.edisi }}.jpg" alt="Card image cap">
-          <div class="card-body px-3 py-2">
-            <p class="card-text mb-1"><small class="text-muted">#{{ post.edisi }} - {{ post.date | date: "%d.%m.%Y" }}</small></p>
-            <h5 class="card-title text-left d-flex align-items-stretch">{{ post.title }}</h5>
-          </div>
-        </a>
+      <div class="col-3 my-3 d-flex justify-content-center">
+        <div class="card" style="width: 20rem;">
+          <a class="card-url" href="{{ post.url }}">
+            <img class="card-img-top" src="/assets/images/cover/{{ post.edisi }}.jpg" alt="Card image cap">
+            {% if new_post.title == post.title %}
+              <span class="card-img-top-badge badge badge-primary text-white">BARU</span>
+            {% endif %}
+            <div class="card-body p-3">
+              <p class="card-text mb-1"><small class="text-muted">#{{ post.edisi }} - {{ post.date | date: "%d.%m.%Y" }}</small></p>
+              <h5 class="card-title text-left d-flex align-items-stretch mb-0">{{ post.title }}</h5>
+            </div>
+          </a>
+        </div>
       </div>
-    </div>
     {% endfor %}
     <!-- END CARD -->
   </div>
