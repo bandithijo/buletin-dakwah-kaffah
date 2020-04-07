@@ -3,103 +3,21 @@ layout: default
 ---
 
 <div class="container my-5">
-  <div class="row my-5">
+  <div class="row">
     <!-- CARD -->
-    <div class="col-3 d-flex justify-content-center">
+    {% for post in site.posts | limit: 8 %}
+    <div class="col-3 my-3 d-flex justify-content-center">
       <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="/assets/images/cover/135.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        </div>
+        <a class="card-url" href="{{ post.url }}">
+          <img class="card-img-top" src="/assets/images/cover/{{ post.edisi }}.jpg" alt="Card image cap">
+          <div class="card-body px-3 py-2">
+            <p class="card-text mb-1"><small class="text-muted">#{{ post.edisi }} - {{ post.date | date: "%d.%m.%Y" }}</small></p>
+            <h5 class="card-title text-left d-flex align-items-stretch">{{ post.title }}</h5>
+          </div>
+        </a>
       </div>
     </div>
-    <!-- END CARD -->
-
-    <!-- CARD -->
-    <div class="col-3 d-flex justify-content-center">
-      <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="/assets/images/cover/134.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        </div>
-      </div>
-    </div>
-    <!-- END CARD -->
-
-    <!-- CARD -->
-    <div class="col-3 d-flex justify-content-center">
-      <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="/assets/images/cover/133.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        </div>
-      </div>
-    </div>
-    <!-- END CARD -->
-
-    <!-- CARD -->
-    <div class="col-3 d-flex justify-content-center">
-      <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="/assets/images/cover/132.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        </div>
-      </div>
-    </div>
-    <!-- END CARD -->
-  </div>
-
-  <div class="row my-5">
-    <!-- CARD -->
-    <div class="col-3 d-flex justify-content-center">
-      <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="/assets/images/cover/130.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        </div>
-      </div>
-    </div>
-    <!-- END CARD -->
-
-    <!-- CARD -->
-    <div class="col-3 d-flex justify-content-center">
-      <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="/assets/images/cover/129.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        </div>
-      </div>
-    </div>
-    <!-- END CARD -->
-
-    <!-- CARD -->
-    <div class="col-3 d-flex justify-content-center">
-      <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="/assets/images/cover/128.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        </div>
-      </div>
-    </div>
-    <!-- END CARD -->
-
-    <!-- CARD -->
-    <div class="col-3 d-flex justify-content-center">
-      <div class="card" style="width: 20rem;">
-        <img class="card-img-top" src="/assets/images/cover/127.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        </div>
-      </div>
-    </div>
+    {% endfor %}
     <!-- END CARD -->
   </div>
 </div>

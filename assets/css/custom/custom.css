@@ -1,3 +1,14 @@
+/* For body text */
+.text-right-arabic {
+  text-align: right;
+  font-size: 1.5rem !important;
+}
+
+.text-center-arabic {
+  text-align: center;
+  font-size: 1.5rem !important;
+}
+
 /* For handle anchor */
 p a {
   color: #F57215 !important;
@@ -20,6 +31,13 @@ a.nav-link.active {
 a.nav-link.active:hover {
   text-decoration: none;
 }
+
+a.card-url,
+a.card-url:hover {
+  color: #000;
+  text-decoration: none;
+}
+
 
 /* For buletin */
 .buletin li a,
@@ -47,6 +65,7 @@ a.nav-link.active:hover {
 }
 
 h5.card-title {
+  font-size: 1.0rem;
   font-weight: bold;
 }
 
