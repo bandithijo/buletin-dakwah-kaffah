@@ -40,7 +40,7 @@ Maknanya, apa pun yang disampaikan Nabi Muhammad saw. (al-Quran dan as-Sunnah) b
 
 <p class="text-right">
 <i>Aku (Muhammad) tidaklah mengikuti kecuali apa yang diwahyukan kepada diriku.</i><br>
-(<br>TQS al-An’am [6]: 50</p>)
+(<b>TQS al-An’am [6]: 50</b>)
 </p>
 
 Dari penjelasan tersebut, dapat dipahami dan diyakini bahwa kehujjahan Sunnah Nabi Muhammad saw. sebagai sumber hukum Islam adalah pasti (qath’i).
