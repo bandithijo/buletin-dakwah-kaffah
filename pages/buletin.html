@@ -4,10 +4,10 @@ title: Buletin
 permalink: /buletin/
 ---
 
-<ul class="buletin">
+<ul class="buletin pl-0">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.edisi }} - {{ post.date | date: '%Y.%m.%d' }} - <span class="text-dark">{{ post.title }}</span></a>
+    <li style="list-style-type:none;">
+      <a href="{{ post.url }}"><b>{{ post.edisi }} - {{ post.date | date: '%Y.%m.%d' }} - <span class="text-dark">{{ post.title }}</span></b></a>
     </li>
   {% endfor %}
 </ul>
