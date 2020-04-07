@@ -5,7 +5,7 @@ layout: default
 <div class="container my-5">
   <div class="row">
     <!-- CARD -->
-    {% for post in site.posts | limit: 8 %}
+    {% for post in site.posts limit: 8 %}
     <div class="col-3 my-3 d-flex justify-content-center">
       <div class="card" style="width: 20rem;">
         <a class="card-url" href="{{ post.url }}">
