@@ -37,7 +37,7 @@ Khusus untuk para pejabat, Islam telah menetapkan sejumlah aturan yang melarang 
 
 Pertama: Islam telah mengharamkan segala bentuk suap (risywah) untuk tujuan apapun. Suap adalah memberikan harta kepada seorang pejabat untuk menguasai hak dengan cara yang batil, atau membatalkan hak orang, atau agar haknya didahulukan dari orang lain. Nabi saw. telah melaknat para pelaku suap, baik yang menerima maupun yang memberi suap:
 
-<p class="text-right">
+<p class="text-right-arabic">
 لَعَنَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الرَّاشِي وَالْمُرْتَشِي
 </p>
 
@@ -50,7 +50,7 @@ Praktik suap (risywah) ini banyak terjadi. Contoh, kasus penyuapan oleh Harus Ma
 
 Kedua: Dalam Islam, pejabat negara juga dilarang menerima hadiah (gratifikasi). Nabi saw. pernah menegur seorang amil zakat yang beliau angkat karena terbukti menerima hadiah saat bertugas dari pihak yang dipungut zakatnya. Beliau bersabda:
 
-<p class="text-right">
+<p class="text-right-arabic">
 مَنِ اسْتَعْمَلْنَاهُ عَلَى عَمَلٍ فَرَزَقْنَاهُ رِزْقًا فَمَا أَخَذَ بَعْدَ ذَلِكَ فَهُوَ غُلُولٌ
 </p>
 
@@ -61,7 +61,7 @@ Kedua: Dalam Islam, pejabat negara juga dilarang menerima hadiah (gratifikasi). 
 
 Dalam hadis lain beliau bersabda:
 
-<p class="text-right">
+<p class="text-right-arabic">
 هَدَايَا الأُمَرَاءِ غُلُولٌ
 </p>
 
@@ -86,7 +86,7 @@ Dalam Perang Khaibar ada seorang budak dari Bani Judzam bernama Rifa’ah bin Za
 
 Namun, dengan tegas Rasulullah mengatakan:
 
-<p class="text-right">
+<p class="text-right-arabic">
 كَلاَّ، وَالَّذِى نَفْسُ مُحَمَّدٍ بِيَدِهِ، إِنَّ الشَّمْلَةَ لَتَلْتَهِبُ عَلَيْهِ نَارًا أَخَذَهَا مِنَ الْغَنَائِمِ يَوْمَ خَيْبَرَ لَمْ تُصِبْهَا
 </p>
 
@@ -124,7 +124,7 @@ Karena itu sudah saatnya umat kembali pada syariah Islam yang datang dari Allah 
   Allah ﷻ  berfirman:
   </p>
 
-  <p class="text-center">
+  <p class="text-center-arabic">
   وَمَا كَانَ لِنَبِيٍّ أَنْ يَغُلَّ وَمَنْ يَغْلُلْ يَأْتِ بِمَا غَلَّ يَوْمَ الْقِيَامَةِ ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
   </p>
 

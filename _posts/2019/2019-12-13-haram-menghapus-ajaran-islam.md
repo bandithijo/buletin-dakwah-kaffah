@@ -17,7 +17,7 @@ Suka ataupun tidak, Khilafah adalah bagian dari ajaran Islam. Sama seperti shala
 
 Banyak ulama yang sudah menjelaskan ajaran Islam tentang Khilafah. Tentang Khilafah, Imam ar-Razi menyatakan:
 
-<p class="text-right">
+<p class="text-right-arabic">
 اَلْخِلاَفَةُ أَوْ اْلإِمَامَةُ اْلعُظْمَى أَوْ إِمَارَةُ اْلمُؤْمِنِيْنَ كُلُّهَا يُؤَدِي مَعْنَى وَاحِداً وَ تَدُلُّ عَلَى وَظِيْفَةٍ وَاحِدَةٍ وَ هِيَ السُّلْطَةُ الْعُلْيَا لِلْمُسْلِمِيْنَ
 </p>
 
@@ -28,7 +28,7 @@ Banyak ulama yang sudah menjelaskan ajaran Islam tentang Khilafah. Tentang Khila
 
 Imamah/Khilafah selalu dibahas oleh semua mazhab di dalam Islam. Dalam hal ini, Syaikh Muhammad Abu Zahrah menyatakan:
 
-<p class="text-right">
+<p class="text-right-arabic">
 اَلمذَاهِبُ السِّيَاسِيَّةُ كُلُّهَا تَدُوْرُ حَوْلَ الْخِلاَفَةِ
 </p>
 
@@ -39,7 +39,7 @@ Imamah/Khilafah selalu dibahas oleh semua mazhab di dalam Islam. Dalam hal ini, 
 
 Menurut Syaikh al-Islam al-Imam al-Hafizh Abu Zakaria Yahya bin Syaraf bin Marwa an-Nawawi, menegakkan Imamah/Khilafah adalah kewajiban. Ia menyatakan:
 
-<p class="text-right">
+<p class="text-right-arabic">
 اَلْفَصْلُ الثَّانِي فِي وُجُوْبِ اْلإِمَامَةِ وَ بَيَانِ طُرُقِهَا: لاَ بُدَّ لِلأُمَّةِ مِنْ إِمَامٍ يُقِيْمُ الدِّيْنَ وَ يَنْصُرُ السُّنَّةَ وَ يَنْتَصِفُ لِلْمَظْلُوْمِيْنَ وَ يَسْتَوْفِي الْحُقُوْقَ وَ يَضَعُهَا مَوَاضِعَهَا. قُلْتُ: تَوْليِ اْلإِمَامَةِ فَرْضُ كِفَايَةٍ.
 </p>
 
@@ -52,7 +52,7 @@ Itu hanyalah sebagian kecil dari pandangan para ulama terkait Khilafah. Masih ba
 
 Begitupun materi tentang jihad. Para ulama memberikan perhatian penuh pada perkara jihad karena jihad memang banyak dinyatakan dalam al-Quran. Allah SWT, misalnya, berfirman dalam beberapa ayat berikut:
 
-<p class="text-right">
+<p class="text-right-arabic">
 فَلاَ تُطِعِ الْكَافِرِينَ وَجَاهِدْهُمْ بِهِ جِهَادًا كَبِيرًا
 </p>
 
@@ -61,7 +61,7 @@ Begitupun materi tentang jihad. Para ulama memberikan perhatian penuh pada perka
 (<b>TQS al-Furqan [25]: 52</b>)
 </p>
 
-<p class="text-right">
+<p class="text-right-arabic">
 كُتِبَ عَلَيْكُمُ الْقِتَالُ وَهُوَ كُرْهٌ لَكُمْ وَعَسَى أَنْ تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَكُمْ وَعَسَى أَنْ تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَكُمْ وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لاَ تَعْلَمُونَ
 </p>
 
@@ -70,7 +70,7 @@ Begitupun materi tentang jihad. Para ulama memberikan perhatian penuh pada perka
 (<b>TQS al-Baqarah [2]: 216</b>)
 </p>
 
-<p class="text-right">
+<p class="text-right-arabic">
 يَا أَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَى تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ (10) تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ ذَلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ (11)
 </p>
 
@@ -83,7 +83,7 @@ Secara umum istilah jihad disebutkan sebanyak 37 kali di dalam al-Quran. Hasan I
 
 Secara syar’i jihad bermakna perang (qital) di jalan Allah. Selain dalam beberapa ayat di atas, jihad dalam makna perang di jalan Allah ini antara lain dinyatakan dalam sabda Rasulullah saw., sebagaimana penuturan Anas bin Malik ra.:
 
-<p class="text-right">
+<p class="text-right-arabic">
 جَاهِدُوا الْمُشْرِكِينَ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ وَأَلْسِنَتِكُمْ
 </p>
 
@@ -94,7 +94,7 @@ Secara syar’i jihad bermakna perang (qital) di jalan Allah. Selain dalam beber
 
 Allah SWT dan Rasul-Nya mensyariatkan jihad, dengan berbagai tingkatannya, dimaksudkan agar Islam benar-benar tegak di muka bumi. Siapapun yang mengaku Muslim dituntut untuk berjihad menghadapi pelaku kekufuran, kezaliman dan kemungkaran; mengeluarkan manusia dari kegelapan kekufuran menuju cahaya Islam (min azh-zhulumat ila an-nur). Tentu sesuai dengan kadar kemampuan masing-masing. Demikian sebagaimana Rasulullah saw. jelaskan dalam hadis penuturan Ibnu Mas’ud ra.:
 
-<p class="text-right">
+<p class="text-right-arabic">
 أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَا مِنْ نَبِيٍّ بَعَثَهُ اللَّهُ فِي أُمَّةٍ قَبْلِي إِلاَّ كَانَ لَهُ مِنْ أُمَّتِهِ حَوَارِيُّونَ وَأَصْحَابٌ يَأْخُذُونَ بِسُنَّتِهِ وَيَقْتَدُونَ بِأَمْرِهِ ثُمَّ إِنَّهَا تَخْلُفُ مِنْ بَعْدِهِمْ خُلُوفٌ يَقُولُونَ مَا لاَ يَفْعَلُونَ وَيَفْعَلُونَ مَا لاَ يُؤْمَرُونَ فَمَنْ جَاهَدَهُمْ بِيَدِهِ فَهُوَ مُؤْمِنٌ وَمَنْ جَاهَدَهُمْ بِلِسَانِهِ فَهُوَ مُؤْمِنٌ وَمَنْ جَاهَدَهُمْ بِقَلْبِهِ فَهُوَ مُؤْمِنٌ وَلَيْسَ وَرَاءَ ذَلِكَ مِنْ اْلإِيمَانِ حَبَّةُ خَرْدَلٍ
 </p>
 
@@ -109,7 +109,7 @@ Langkah Kementerian Agama yang berencana menghapus materi jihad dan Khilafah dar
 
 Upaya menghilangkan materi jihad dan Khilafah dari kurikulum madrasah merupakan bentuk kemungkaran yang sangat nyata. Ini jelas tindakan yang haram. Allah SWT berfirman:
 
-<p class="text-right">
+<p class="text-right-arabic">
 إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنْزَلْنَا مِنَ الْبَيِّنَاتِ وَالْهُدَى مِنْ بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي الْكِتَابِ أُولَئِكَ يَلْعَنُهُمُ اللَّهُ وَيَلْعَنُهُمُ اللاَّعِنُونَ
 </p>
 
@@ -122,7 +122,7 @@ Mengapa menyembunyikan kebenaran diancam dengan laknat Allah SWT? Karena manusia
 
 Perilaku menghalang-halangi manusia dari jalan Islam tentu tidak layak dilakukan oleh orang yang beriman. Pasalnya, hal itu merupakan kebiasaan orang-orang kafir yang tidak sudi melihat umat Islam menaati aturan-aturan agamanya. Allah SWT berfirman:
 
-<p class="text-right">
+<p class="text-right-arabic">
 أَنْ لَعْنَةُ اللَّهِ عَلَى الظَّالِمِينَ (44) الَّذِينَ يَصُدُّونَ عَنْ سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُمْ بِاْلآخِرَةِ كَافِرُونَ (45)
 </p>
 
@@ -144,7 +144,7 @@ Perilaku menghalang-halangi manusia dari jalan Islam tentu tidak layak dilakukan
   Rasulullah ﷺ  bersabda:
   </p>
 
-  <p class="text-center">
+  <p class="text-center-arabic">
   أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَشْهَدُوا أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ وَيُقِيمُوا الصَّلاَةَ وَيُؤْتُوا الزَّكَاةَ فَإِذَا فَعَلُوا ذَلِكَ عَصَمُوا مِنِّي دِمَاءَهُمْ وَأَمْوَالَهُمْ إِلاَّ بِحَقِّ اْلإِسْلاَمِ وَحِسَابُهُمْ عَلَى اللَّهِ
   </p>
 

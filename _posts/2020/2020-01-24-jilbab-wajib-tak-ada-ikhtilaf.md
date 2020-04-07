@@ -17,7 +17,7 @@ Dalam ajaran Islam berlaku kewajiban menutup aurat bagi pria dan wanita. Batasan
 
 Kewajiban menutup aurat dan tidak melihat aurat orang lain diperintahkan Nabi saw. Di antaranya berdasarkan sabda beliau:
 
-<p class="text-right">
+<p class="text-right-arabic">
 لاَ يَنْظُرُ الرَّجُلُ إِلَى عَوْرَةِ الرَّجُلِ وَلاَ الْمَرْأَةُ إِلَى عَوْرَةِ الْمَرْأَةِ
 </p>
 
@@ -28,7 +28,7 @@ Kewajiban menutup aurat dan tidak melihat aurat orang lain diperintahkan Nabi sa
 
 Batasan aurat wanita didasarkan pada firman Allah SWT berikut:
 
-<p class="text-right">
+<p class="text-right-arabic">
 وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا…
 </p>
 
@@ -43,7 +43,7 @@ Menurut Imam al-Nasafi, yang dimaksud dengan “az-zinah” (perhiasan) di sini 
 
 Batasan aurat wanita juga didasarkan pada hadis Nabi saw. dari ‘Aisyah ra. bahwa Asma’ binti Abu Bakar pernah menemui Rasulullah saw. dengan memakai pakaian yang tipis (transparan). Rasulullah saw. pun berpaling dari dia dan bersabda:
 
-<p class="text-right">
+<p class="text-right-arabic">
 يَا أَسْمَاءُ إِنَّ الْمَرْأَةَ إِذَا بَلَغَتِ الْمَحِيضَ لَمْ تَصْلُحْ أَنْ يُرَى مِنْهَا إِلَّا هَذَا وَهَذَا وَأَشَارَ إِلَى وَجْهِهِ وَكَفَّيْهِ
 </p>
 
@@ -60,7 +60,7 @@ Pendapat resmi Nahdlatul Ulama (NU) sendiri bisa dilacak antara lain dalam Ahkam
 
 Di dalam buku tersebut pada juz kedua (halaman 8-9), yang berisi hasil keputusan Muktamar NU ke-8 yang diadakan di Batavia (Jakarta) pada tanggal 12 Muharram 1352 H atau 7 Mei 1933 H, tercantum fatwa yang merupakan jawaban pertanyaan yang berasal dari Surabaya, “Bagaimana hukumnya wanita yang keluar untuk bekerja dengan terbuka wajah dan kedua tangannya? Apakah haram atau makruh?” Dijawab sebagai berikut:
 
-<p class="text-right">
+<p class="text-right-arabic">
 يحرم خروجها لذلك بتلك الحالة على المعتمد والثاني يجوز خروجها لأجل المعاملة مكشوفة الوجه والكفين إلى الكوعين. وعند الحنفية يجوز ذلك بل مع كشف الرجلين إلى الكوعين إذا أمنت الفتنة.
 </p>
 
@@ -70,7 +70,7 @@ Di dalam buku tersebut pada juz kedua (halaman 8-9), yang berisi hasil keputusan
 
 Kemudian dalam fatwa tersebut dinukil keterangan dari kitab Maraqhil-Falah Syarh Nurul-Idhah antara lain sebagai berikut:
 
-<p class="text-right">
+<p class="text-right-arabic">
 (وَجَمِيْعُ بَدَنِ الْحُرَّةِ عَوْرَةٌ إِلاَّ وَجْهَهَا وَكَفَّيْهَا) بَاطِنَهُمَا وَظَاهِرَهُمَا فِي اْلأَصَحِّ وَهُوَ الْمُخْتَارُ. وَذِرَاعُ الْحُرَّةِ عَوْرَةٌ فِيْ ظَاهِرِ الرِّوَايَةِ وَهُوَ اْلأَصَحُّ…
 </p>
 
@@ -81,7 +81,7 @@ Kemudian dalam fatwa tersebut dinukil keterangan dari kitab Maraqhil-Falah Syarh
 
 Juga dinukil keterangan dari Kitab Bajuri Hasyiah Fathul Qarib antara lain sebagai berikut:
 
-<p class="text-right">
+<p class="text-right-arabic">
 …وَشَمِلَ ذَلِكَ وَجْهَهَا وَكَفَّيْهَا فَيَحْرُمُ النَّظَرُ إِلَيْهِمَا وَلَوْ مِنْ غَيْرِ شَهْوَةٍ أَوْ خَوْفِ فِتْنَةٍ عَلَى الصَّحِيْحِ كَمَا فِي الْمِنْهَاجِ وَغَيْرِهِ إِلَى أَنْ قَالَ وَقِيْلَ لاَ يَحْرُمُ…وَالْمُعْتَمَدُ اْلأَوَّلُ، وَلاَ بَأْسَ بِتَقْلِيْدِ الثَّانِي…
 </p>
 
@@ -100,7 +100,7 @@ Kewajiban mengenakan khimar didasarkan pada QS an-Nur [24] ayat 31 di atas. Menu
 
 Adapun kewajiban berjilbab bagi Muslimah ditetapkan berdasarkan firman Allah SWT:
 
-<p class="text-right">
+<p class="text-right-arabic">
 يَا أَيُّهَا النَّبِيُّ قُلْ لِأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاءِ الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِنْ جَلَابِيبِهِنَّ…
 </p>
 
@@ -127,7 +127,7 @@ Andaikan berjilbab bagi Muslimah tidak wajib, niscaya Nabi saw. akan mengizinkan
   Rasulullah ﷺ  bersabda:
   </p>
 
-  <p class="text-center">
+  <p class="text-center-arabic">
   مَنْ قَالَ فِي كِتَابِ اللَّهِ بِغَيْرِ عِلْمٍ فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ
   </p>
 

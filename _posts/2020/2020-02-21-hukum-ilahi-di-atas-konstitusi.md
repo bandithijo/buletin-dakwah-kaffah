@@ -11,7 +11,7 @@ categories: buletin
 
 Allah SWT berfirman:
 
-<p class="text-right">
+<p class="text-right-arabic">
 ثُمَّ جَعَلْنَاكَ عَلَىٰ شَرِيعَةٍ مِنَ الْأَمْرِ فَاتَّبِعْهَا وَلَا تَتَّبِعْ أَهْوَاءَ الَّذِينَ لَا يَعْلَمُونَ
 </p>
 
@@ -26,7 +26,7 @@ Dalam ayat itu terdapat kalimat perintah (amr) ”fattabi’ha” yang mengandun
 
 Risiko dari ketidaktaatan seorang Muslim pada aturan-aturan Kitab Sucinya adalah ia bisa dicap fasik, zalim bahkan juga kafir. Allah SWT, antara lain, berfirman:
 
-<p class="text-right">
+<p class="text-right-arabic">
 وَمَنْ لَّمْ يَحْكُمْ بِمَآ اَنْزَلَ اللّٰهُ فَاُولٰۤىِٕكَ هُمُ الظّٰلِمُوْنَ
 </p>
 
@@ -37,7 +37,7 @@ Risiko dari ketidaktaatan seorang Muslim pada aturan-aturan Kitab Sucinya adalah
 
 Allah SWT pun tegas berfirman:
 
-<p class="text-right">
+<p class="text-right-arabic">
 وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَئِكَ هُمُ الْكَافِرُونَ
 </p>
 
@@ -58,7 +58,7 @@ Misalnya dalam menilai penguasa sekular hari ini, kelompok tersebut sering membe
 
 Padahal Allah SWT tegas berfirman:
 
-<p class="text-right">
+<p class="text-right-arabic">
 فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّى يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمًا
 </p>
 
@@ -77,7 +77,7 @@ Karena rakyat yang berdaulat, ketetapan Allah SWT atau Hukum Ilahi bisa saja dib
 
 Padahal meyakini keesaan Allah SWT juga berlaku dalam penetapan hukum (tasyri’). Artinya, Allahlah satu-satunya yang layak membuat hukum. Bukan manusia. Manusia justru merupakan obyek yang dihukumi. Allah SWT berfirman:
 
-<p class="text-right">
+<p class="text-right-arabic">
 إِنِ الْحُكْمُ إِلا لِلَّهِ يَقُصُّ الْحَقَّ وَهُوَ خَيْرُ الْفَاصِلِينَ
 </p>
 
@@ -88,7 +88,7 @@ Padahal meyakini keesaan Allah SWT juga berlaku dalam penetapan hukum (tasyri’
 
 Keyakinan bahwa Allah SWT adalah satunya-satunya Zat Yang berhak membuat hukum telah disepakati oleh para ulama. Hal ini merupakan salah satu konsekuensi tauhid. Artinya, jika kita meyakini bahwa Allah adalah satu-satunya Pencipta, Pemberi rezeki serta Zat Yang menghidupkan dan mematikan, maka kita pun harus yakin bahwa Allah pun satu-satunya Musyarri’ (Pembuat hukum). Allahlah satu-satunya Zat Yang berhak melakukan tahlil (menghalalkan) dan tahrim (mengharamkan). Allah SWT berfirman:
 
-<p class="text-right">
+<p class="text-right-arabic">
 أَلا لَهُ الْخَلْقُ وَالأمْرُ تَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ
 </p>
 
@@ -99,7 +99,7 @@ Keyakinan bahwa Allah SWT adalah satunya-satunya Zat Yang berhak membuat hukum t
 
 Allah SWT pun menegaskan bahwa siapa saja yang merampas hak tasyri’—yaitu hak membuat hukum—maka dia telah berbuat syirik:
 
-<p class="text-right">
+<p class="text-right-arabic">
 أَمْ لَهُمْ شُرَكَاءُ شَرَعُوا لَهُمْ مِنَ الدِّينِ مَا لَمْ يَأْذَنْ بِهِ اللَّهُ وَلَوْلا كَلِمَةُ الْفَصْلِ لَقُضِيَ بَيْنَهُمْ وَإِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
 </p>
 
@@ -118,7 +118,7 @@ Ini persis sebagaimana yang pernah dinyatakan oleh kaum Yahudi. Mereka lebih men
 
 Kaum Yahudi diberi kitab oleh Allah SWT. Akan tetapi, mereka berpaling dari kitab tersebut. Dengan berbagai alasan mereka menolak hukum-hukum Allah yang ada dalam kitab mereka. Allah SWT berfirman:
 
-<p class="text-right">
+<p class="text-right-arabic">
 أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِنَ الْكِتَابِ يُدْعَوْنَ إِلَىٰ كِتَابِ اللَّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِنْهُمْ وَهُمْ مُعْرِضُونَ
 </p>
 
@@ -141,7 +141,7 @@ Begitu banyak Allah SWT mengisahkan keburukan kaum Yahudi di dalam al-Quran, ter
   Rasulullah ﷺ  bersabda:
   </p>
 
-  <p class="text-center">
+  <p class="text-center-arabic">
   الْحَلَالُ مَا أَحَلَّ اللَّهُ فِي كِتَابِهِ وَالْحَرَامُ مَا حَرَّمَ اللَّهُ فِي كِتَابِهِ…
   </p>
 

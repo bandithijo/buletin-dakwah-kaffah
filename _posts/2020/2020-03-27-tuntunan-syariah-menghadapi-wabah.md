@@ -17,8 +17,8 @@ Wabah Covid-19 ini merupakan musibah.  Musibah merupakan bagian dari qadha’ Al
 
 Sebaliknya, kita dilarang membenci qadha’ Allah SWT.  Rasul saw. bersabda:
 
-<p class="text-right">
-«إِنَّ عِظَمَ الْجَزَاءِ مَعَ عِظَمِ الْبَلاَءِ وَإِنَّ اللَّهَ إِذَا أَحَبَّ قَوْمًا ابْتَلاَهُمْ فَمَنْ رَضِىَ فَلَهُ الرِّضَا وَمَنْ سَخِطَ فَلَهُ السَّخَطُ»
+<p class="text-right-arabic">
+إِنَّ عِظَمَ الْجَزَاءِ مَعَ عِظَمِ الْبَلاَءِ وَإِنَّ اللَّهَ إِذَا أَحَبَّ قَوْمًا ابْتَلاَهُمْ فَمَنْ رَضِىَ فَلَهُ الرِّضَا وَمَنْ سَخِطَ فَلَهُ السَّخَطُ
 </p>
 
 <p class="text-right">
@@ -48,8 +48,8 @@ Di dalam riwayat Imam Ahmad, Rasul saw. memerintahkan untuk berobat. Artinya, ha
 
 Rasul saw. pun memberikan tuntunan:
 
-<p class="text-right">
-«لاَ تُورِدُوا الْمُمْرِضَ عَلَى الْمُصِحِّ»
+<p class="text-right-arabic">
+لاَ تُورِدُوا الْمُمْرِضَ عَلَى الْمُصِحِّ
 </p>
 
 <p class="text-right">
@@ -61,8 +61,8 @@ Covid-19, menurut para ahli, bisa menular melalui droplet air liur yang keluar k
 
 Rasul saw. juga bersabda:
 
-<p class="text-right">
-«فِرَّ مِنَ الْمَجْذُومِ فِرَارَكَ مِنَ الأَسَدِ»
+<p class="text-right-arabic">
+فِرَّ مِنَ الْمَجْذُومِ فِرَارَكَ مِنَ الأَسَدِ
 </p>
 
 <p class="text-right">
@@ -78,8 +78,8 @@ Dalam hal ini para ahli menjelaskan protokol yang perlu dilakukan: sering mencuc
 
 Rasul saw. juga memberikan tuntunan:
 
-<p class="text-right">
-«إِذَا سَمِعْتُمْ بِالطَّاعُونِ بِأَرْضٍ فَلاَ تَدْخُلُوهَا، وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلاَ تَخْرُجُوا مِنْهَا»
+<p class="text-right-arabic">
+إِذَا سَمِعْتُمْ بِالطَّاعُونِ بِأَرْضٍ فَلاَ تَدْخُلُوهَا، وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلاَ تَخْرُجُوا مِنْهَا
 </p>
 
 <p class="text-right">
@@ -91,8 +91,8 @@ Ini berarti, harus dilakukan karantina atau isolasi atas wilayah yang terkena wa
 
 Penduduk wilayah yang dilanda wabah bukan hanya diperintahkan untuk berdiam di negeri/wilayahnya. Mereka pun diperintahkan untuk berdiam di rumahnya. Ketika seseorang tetap berdiam di wilayahnya dan berdiam di rumahnya, tidak keluar kecuali untuk keperluan yang penting sekali, seraya dia bersabar mengharap ridha Allah SWT dan meyakini akan qadha’ Allah maka untuk dia ada pahala setara dengan pahala syahid. Rasul saw. bersabda tentang tha’un:
 
-<p class="text-right">
-«أَنَّهُ كَانَ عَذَابًا يَبْعَثُهُ اللهُ عَزَّ وَجَلَّ عَلَى مَنْ يَشَاءُ، فَجَعَلَهُ اللهُ عَزَّ وَجَلَّ رَحْمَةً لِلْمُؤْمِنِينَ، فَلَيْسَ مِنْ عَبْدٍ يَقَعُ الطَّاعُونُ، فَيَمْكُثُ فِي بَلَدِهِ -في رواية أخرى لأحمد: فَيَمْكُثُ فِي بَيْتِهِ- صَابِرًا مُحْتَسِبًا، يَعْلَمُ أَنَّهُ لَمْ يُصِبْهُ إِلَّا مَا كَتَبَ اللهُ عَزَّ وَجَلَّ لَهُ، إِلَّا كَانَ لَهُ مِثْلُ أَجْرِ الشَّهِيدِ»
+<p class="text-right-arabic">
+أَنَّهُ كَانَ عَذَابًا يَبْعَثُهُ اللهُ عَزَّ وَجَلَّ عَلَى مَنْ يَشَاءُ، فَجَعَلَهُ اللهُ عَزَّ وَجَلَّ رَحْمَةً لِلْمُؤْمِنِينَ، فَلَيْسَ مِنْ عَبْدٍ يَقَعُ الطَّاعُونُ، فَيَمْكُثُ فِي بَلَدِهِ -في رواية أخرى لأحمد: فَيَمْكُثُ فِي بَيْتِهِ- صَابِرًا مُحْتَسِبًا، يَعْلَمُ أَنَّهُ لَمْ يُصِبْهُ إِلَّا مَا كَتَبَ اللهُ عَزَّ وَجَلَّ لَهُ، إِلَّا كَانَ لَهُ مِثْلُ أَجْرِ الشَّهِيدِ
 </p>
 
 <p class="text-right">
@@ -110,8 +110,8 @@ Selain itu, dalam situasi sulit ini, masyarakat hendaknya saling membantu agar k
 
 Rasul saw. bersabda:
 
-<p class="text-right">
-«…فَالأَمِيرُ الَّذِى عَلَى النَّاسِ رَاعٍ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ…»
+<p class="text-right-arabic">
+…فَالأَمِيرُ الَّذِى عَلَى النَّاسِ رَاعٍ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ…
 </p>
 
 <p class="text-right">
@@ -144,8 +144,8 @@ Semoga Allah SWT memberikan pertolongan-Nya sehingga wabah Covid-19 bisa segera 
   Rasulullah ﷺ  bersabda:
   </p>
 
-  <p class="text-center">
-  «مَا مِنْ عَبْدٍ تُصِيبُهُ مُصِيبَةٌ فَيَقُولُ إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ اللَّهُمَّ أْجُرْنِى فِى مُصِيبَتِى وَأَخْلِفْ لِى خَيْرًا مِنْهَا إِلاَّ أَجَرَهُ اللَّهُ فِى مُصِيبَتِهِ وَأَخْلَفَ لَهُ خَيْرًا مِنْهَا»
+  <p class="text-center-arabic">
+  مَا مِنْ عَبْدٍ تُصِيبُهُ مُصِيبَةٌ فَيَقُولُ إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ اللَّهُمَّ أْجُرْنِى فِى مُصِيبَتِى وَأَخْلِفْ لِى خَيْرًا مِنْهَا إِلاَّ أَجَرَهُ اللَّهُ فِى مُصِيبَتِهِ وَأَخْلَفَ لَهُ خَيْرًا مِنْهَا
   </p>
 
   <p class="text-center">

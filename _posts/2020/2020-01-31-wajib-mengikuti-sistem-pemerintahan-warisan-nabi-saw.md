@@ -23,7 +23,7 @@ Sunnah Nabi Muhammad saw.—yakni perkataan, perbuatan dan persetujuan beliau—
 
 As-Sunnah merupakan sumber hukum Islam yang nilai kebenarannya sama dengan al-Quran karena sama-sama berasal dari wahyu. Allah SWT berfirman:
 
-<p class="text-right">
+<p class="text-right-arabic">
 وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰ إِنْ هُوَ إِلَّا وَحْىٌ يُوحَى
 </p>
 
@@ -34,7 +34,7 @@ As-Sunnah merupakan sumber hukum Islam yang nilai kebenarannya sama dengan al-Qu
 
 Maknanya, apa pun yang disampaikan Nabi Muhammad saw. (al-Quran dan as-Sunnah) bersumber dari wahyu Allah SWT. Bukan dari dirinya maupun kemauan hawa nafsunya. Allah SWT pun menegaskan:
 
-<p class="text-right">
+<p class="text-right-arabic">
 إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰ إِلَيَّ
 </p>
 
@@ -53,7 +53,7 @@ Wajib Mengkuti Sistem Pemerintahan Warisan Nabi Muhammad saw.
 
 Sistem pemerintahan warisan Nabi Muhammad saw. adalah Khilafah. Sistem Khilafah wajib diikuti. Nabi saw. bersabda:
 
-<p class="text-right">
+<p class="text-right-arabic">
 أُوصِيْكُمْ بِتَقْوَى اللهِ وَالسَّمْعِ وَالطَّاعَةِ وَإِنْ كَانَ عَبْدًا حَبَشِيًّا فَإِنَّهُ مَنْ يَعِشْ مِنْكُمْ بَعْدِي فَسَيَرَى اخْتِلاَفًا كَثِيرًا فَعَلَيْكُمْ بِسُنَّتِي وَسُنَّةِ الْخُلَفَاءِ الرَّاشِدِيْنَ الْمَهْدِيِّيْنَ فَتَمَسَّكُوْا بِهَا وَعَضُّوْا عَلَيْهَا بِالنَّوَاجِذِ وَإِيَّاكُمْ وَمُحْدَثَاتِ اْلأُمُوْرِ فَإِنَّ كُلَّ مُحْدَثَةٍ بِدْعَةٌ وَكُلَّ بِدْعَةٍ ضَلاَلَةٌ
 </p>
 
@@ -80,7 +80,7 @@ Para ulama juga telah mengulas masalah ini secara global. Istilah Khilafah serin
 
 Imam al-Mawardi asy-Syafii mengatakan:
 
-<p class="text-right">
+<p class="text-right-arabic">
 اَلإِمَامَةُ مَوْضُوَعَةٌ لِخِلاَفَةِ النُّبُوَّةِ فِي حَرَاسَةِ الدِّيْنِ وَ سِيَاسَةِ الدُّنْيَا بِهِ
 </p>
 
@@ -91,7 +91,7 @@ Imam al-Mawardi asy-Syafii mengatakan:
 
 Imam an-Nawawi asy-Syafii juga berpendapat:
 
-<p class="text-right">
+<p class="text-right-arabic">
 اَلْفَصْلُ الثَّانِي فِيْ وُجُوْبِ اْلإِمَامَةِ وَ بَيَانِ طُرُقِهَا: لاَ بُدَّ لِلْأُمَّةِ مِنْ إِمَامٍ يُقِيْمُ الدِّيْنَ وَ يَنْصُرُ السُّنَّةَ وَ يَنْتَصِفُ لِلْمَظْلُوْمِيْنَ وَ يَسْتَوْفِي اْلحُقُوْقَ وَ يَضَعُهَا مَوَاضِعَهَا. قُلْتُ تَوْلِي اْلإِمَامَةِ فَرْضُ كِفَايَةٍ …
 </p>
 
@@ -123,7 +123,7 @@ Dengan paparan sekilas di atas maka Sistem Pemerintahan Islam, yaitu Khilafah, a
   Profesor Dr. Wahbah az-Zuhaili menyatakan:
   </p>
 
-  <p class="text-center">
+  <p class="text-center-arabic">
   وَ إِنْكَارُ حُكْمٍ مِنْ أَحْكَامِ الشَّرِيْعَةِ الَّتِي ثُبِتَتْ بِدَلِيْلٍ قَطْعِيٍّ، أَوْ زَعْمُ قَسْوَةِ حُكْمِ مَا كَالْحُدُوْدِ مَثَلاً، أَوْ اِدْعَاءُ عَدَمِ صَلاَحِيَّةِ الشَّرِيْعَةِ لِلتَّطْبِيْقِ يُعْتَبَرُ كُفْراً وَ رِدَّةً عَنِ اْلإِسْلاَمِ. أَمَّا إِنْكَارُ اْلأَحْكَامِ الثَّابِتَةِ بِاْلإِجْتِهَادِ اْلمبَنْيِ عَلَى غَلَبَةِ الظَّنِّ فَهُوَ مَعْصِيَّةٌ وَ فِسْقٌ وَ ظُلْمٌ.
   </p>
 

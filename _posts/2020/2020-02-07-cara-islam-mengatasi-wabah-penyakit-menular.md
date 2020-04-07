@@ -39,7 +39,7 @@ Islam selalu menunjukkan keunggulannya sebagai agama sekaligus ideologi yang len
 
 Dalam sejarah, wabah penyakit menular pernah terjadi pada masa Rasulullah saw. Wabah itu ialah kusta yang menular dan mematikan sebelum diketahui obatnya. Untuk mengatasi wabah tersebut, salah satu upaya Rasulullah saw. adalah menerapkan karantina atau isolasi terhadap penderita. Ketika itu Rasulullah saw. memerintahkan untuk tidak dekat-dekat atau melihat para penderita kusta tersebut. Beliau bersabda:
 
-<p class="text-right">
+<p class="text-right-arabic">
 لاَ تُدِيمُوا النَّظَرَ إِلَى الْمَجْذُومِينَ
 </p>
 
@@ -52,7 +52,7 @@ Dengan demikian, metode karantina sudah diterapkan sejak zaman Rasulullah saw. u
 
 Rasulullah saw. juga pernah memperingatkan umatnya untuk jangan mendekati wilayah yang sedang terkena wabah. Sebaliknya, jika sedang berada di tempat yang terkena wabah, mereka dilarang untuk keluar. Beliau bersabda:
 
-<p class="text-right">
+<p class="text-right-arabic">
 إِذَا سَمِعْتُمْ بِالطَّاعُونِ بِأَرْضٍ فَلاَ تَدْخُلُوهَا، وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلاَ تَخْرُجُوا مِنْهَا
 </p>
 
@@ -65,7 +65,7 @@ Dikutip dalam buku berjudul, Rahasia Sehat Ala Rasulullah saw.: Belajar Hidup Me
 
 Pada masa Kekhalifahan Umar bin al-Khaththab juga pernah terjadi wabah penyakit menular. Diriwayatkan:
 
-<p class="text-right">
+<p class="text-right-arabic">
 أَنَّ عُمَرَ خَرَجَ إِلَى الشَّأْمِ. فَلَمَّا كَانَ بِسَرْغَ بَلَغَهُ أَنَّ الْوَبَاءَ قَدْ وَقَعَ بِالشَّأْمِ، فَأَخْبَرَهُ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: إِذَا سَمِعْتُمْ بِهِ بِأَرْضٍ فَلاَ تَقْدَمُوا عَلَيْهِ وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلاَ تَخْرُجُوا فِرَارًا مِنْه.
 </p>
 
@@ -80,7 +80,7 @@ Riwayat ini juga dinukil oleh Ibnu Katsir dalam Kitab Al-Bidayah wa al-Nihayah. 
 
 Islam memang telah memerintahkan kepada setiap orang untuk mempraktikkan gaya hidup sehat. Misalnya, diawali dengan makanan. Allah SWT telah berfirman:
 
-<p class="text-right">
+<p class="text-right-arabic">
 فَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا
 </p>
 
@@ -91,7 +91,7 @@ Islam memang telah memerintahkan kepada setiap orang untuk mempraktikkan gaya hi
 
 Selain memakan makanan halal dan baik, kita juga diperintahkan untuk tidak berlebih-lebihan. Apalagi sampai memakan makanan yang sesungguhnya tak layak dimakan, seperti kelelawar. Allah SWT berfirman:
 
-<p class="text-right">
+<p class="text-right-arabic">
 وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ
 </p>
 
@@ -115,7 +115,7 @@ Namun demikian, penguasa pun punya peran sentral untuk menjaga kesehatan wargany
   Rasulullah ﷺ  bersabda:
   </p>
 
-  <p class="text-center">
+  <p class="text-center-arabic">
   مَنْ وَلَّاهُ اللَّهُ عَزَّ وَجَلَّ شَيْئًا مِنْ أَمْرِ الْمُسْلِمِينَ فَاحْتَجَبَ دُونَ حَاجَتِهِمْ وَخَلَّتِهِمْ وَفَقْرِهِمْ احْتَجَبَ اللَّهُ عَنْهُ دُونَ حَاجَتِهِ وَخَلَّتِهِ وَفَقْرِهِ
   </p>
 
