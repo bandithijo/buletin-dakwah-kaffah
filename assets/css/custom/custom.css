@@ -31,7 +31,31 @@ a.nav-link:hover {
 }
 
 /* For buletin */
-#buletin li a,
-#buletin li a:hover {
+.buletin li a,
+.buletin li a:hover {
   color: #F57215;
+}
+
+.buletin li a:hover {
+  text-decoration: underline dotted;
+}
+
+/* For headings */
+.isi h1 {
+  font-size: 1.8rem !important;
+}
+.isi h2 {
+  font-size: 1.4rem !important;
+}
+.isi h3 {
+  font-size: 1.0rem !important;
+}
+
+.card-header h1 {
+  margin: 0 !important;
+}
+
+/* For footer */
+.footer-bg {
+  background-color: #F57215;
 }
