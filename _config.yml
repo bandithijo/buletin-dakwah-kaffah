@@ -23,8 +23,7 @@ baseurl: ""
 url: ""
 penerbit: "Lembaga Kajian Islam Kaffah"
 alamat: "Wisma NH Lt-1, Jl. Raya Pasar Minggu Kav. 2 B-C Pancoran Jakarta Selatan 12780"
-twitter_username: buletinkaffah
-github_username: buletinkaffah
+facebook: "buletinkaffah2017"
 
 # Build settings
 markdown: kramdown
