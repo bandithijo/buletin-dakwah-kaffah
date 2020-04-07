@@ -13,6 +13,14 @@ a.nav-link:hover {
   text-decoration: underline dotted;
 }
 
+a.nav-link.active {
+  font-weight: bold;
+}
+
+a.nav-link.active:hover {
+  text-decoration: none;
+}
+
 /* For handle footer stay on bottom when content less than screen height */
 .page-container {
   position: relative;

@@ -33,6 +33,14 @@ plugins:
 sass:
   sass_dir: assets/css
 
+
+# Navbar
+navigation:
+  - title: Buletin
+    url: /buletin/
+  - title: Hubungi Kami
+    url: /hubungi-kami/
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
