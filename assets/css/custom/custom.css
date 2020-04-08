@@ -57,6 +57,12 @@ a.card-url:hover {
   text-decoration: underline dotted;
 }
 
+.buletin li::before {
+  content: "\f15c";
+  font-family: "Font Awesome 5 Free";
+  padding: 0 10px 0 0;
+}
+
 /* For headings */
 .isi h1 {
   font-size: 1.8rem !important;
