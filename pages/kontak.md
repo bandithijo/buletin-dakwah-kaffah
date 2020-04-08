@@ -8,4 +8,4 @@ permalink: /hubungi-kami/
 
 Infaq Pemesanan Rp. 300/eks. Pemesanan minimal 100 eks.
 
-**Facebook**: [Buletin Dakwah Kaffah](https://facebook.com/{{ site.facebook }}){:target="_blank"}
+**Facebook**: [Buletin Dakwah Kaffah](https://facebook.com/{{ site.facebook_username }}){:target="_blank"}
