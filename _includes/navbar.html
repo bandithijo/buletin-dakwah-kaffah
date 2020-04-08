@@ -1,10 +1,38 @@
-<ul class="nav justify-content-end nav-border-bottom">
-  <li class="nav-item"><a href="/" class="nav-link">Beranda</a></li>
-  {% for item in site.navigation %}
-    {% assign class = nil %}
-    {% if page.url contains item.url %}
-      {% assign class = 'active' %}
-    {% endif %}
-    <li class="nav-item"><a href="{{ item.url }}" class="nav-link {{ class }}">{{ item.title }}</a></li>
-  {% endfor %}
-</ul>
+<!-- Navbar for mobile screen -->
+<div class="d-md-none d-block">
+<nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-primary">
+  <span class="navbar-brand">KAFFAH</span>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarToggler">
+    <ul class="navbar-nav mr-auto mt-2 mt-lg-0 mb-3">
+      <li class="nav-item"><a href="/" class="nav-link">Beranda</a></li>
+      {% for item in site.navigation %}
+        {% assign class = nil %}
+        {% if page.url contains item.url %}
+          {% assign class = 'active' %}
+        {% endif %}
+        <li class="nav-item"><a href="{{ item.url }}" class="nav-link {{ class }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
+</div>
+<!-- END Navbar for mobile screen -->
+
+<!-- Navbar for desktop screen -->
+<div class="d-none d-md-block">
+  <ul class="nav justify-content-end nav-border-bottom">
+    <li class="nav-item"><a href="/" class="nav-link">Beranda</a></li>
+    {% for item in site.navigation %}
+      {% assign class = nil %}
+      {% if page.url contains item.url %}
+        {% assign class = 'active' %}
+      {% endif %}
+      <li class="nav-item"><a href="{{ item.url }}" class="nav-link {{ class }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+<!-- END Navbar for desktop screen -->

@@ -1,10 +1,16 @@
 <div class="container mt-3">
-    <div class="row">
-      <div class="col-12">
-        <img src="/assets/images/icons/logo-kaffah.png" alt="logo-kaffah" width="250" style="background-color:white;">
-      </div>
-      <div class="col-12" style="margin-top:-1.6rem;">
-        {% include navbar.html %}
-      </div>
+  <div class="row">
+    <div class="col-12">
+      <!-- Kaffah logo for desktop screen size -->
+      <img src="/assets/images/icons/logo-kaffah.png" alt="logo-kaffah" class="d-none d-md-block w-25">
+      <!-- END Kaffah logo for desktop screen size -->
+
+      <!-- Kaffah logo for mobile screen size -->
+      <img src="/assets/images/icons/logo-kaffah.png" alt="logo-kaffah" class="d-md-none d-block w-100">
+      <!-- END Kaffah logo for mobile screen size -->
     </div>
+    <div class="col-12" style="margin-top:-1.6rem;">
+      {% include navbar.html %}
+    </div>
+  </div>
 </div>

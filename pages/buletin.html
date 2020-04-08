@@ -4,7 +4,7 @@ title: Buletin
 permalink: /buletin/
 ---
 
-<ul class="buletin pl-0">
+<ul class="buletin text-left pl-0">
   {% for post in site.posts %}
     <li style="list-style-type:none;">
       <a href="{{ post.url }}"><b>{{ post.edisi }} - {{ post.date | date: '%Y.%m.%d' }} - <span class="text-dark">{{ post.title }}</span></b></a>

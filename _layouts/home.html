@@ -7,7 +7,7 @@ layout: default
     <!-- CARD -->
     {% assign new_post = site.posts.first %}
     {% for post in site.posts limit: 8 %}
-      <div class="col-3 my-3 d-flex justify-content-center">
+      <div class="col-12 col-md-3 my-3 d-flex justify-content-center">
         <div class="card" style="width: 20rem;">
           <a class="card-url" href="{{ post.url }}">
             <img class="card-img-top" src="/assets/images/cover/{{ post.edisi }}.jpg" alt="cover">
@@ -28,7 +28,7 @@ layout: default
   <div class="row mt-3 mb-1">
     <div class="col-12">
       <small>
-        <i>*Halaman ini khusus menampilkan 8 edisi terakhir. Klik <a href="/buletin">di sini</a> untuk melihat semua buletin.</i>
+        <i>*Halaman ini khusus menampilkan 8 edisi terakhir. Klik <a href="/buletin">di sini</a> untuk melihat semua daftar buletin.</i>
       </small>
     </div>
   </div>

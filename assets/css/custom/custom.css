@@ -49,6 +49,12 @@ a.card-url:hover {
 }
 
 /* For buletin */
+.buletin li {
+  list-style-position: inside;
+  text-indent: -1.8em;
+  padding-left: 1.8em;
+}
+
 .buletin li a,
 .buletin li a:hover {
   color: #F57215;

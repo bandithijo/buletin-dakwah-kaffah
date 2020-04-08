@@ -2,22 +2,22 @@
 layout: default
 ---
 
-<div class="container mt-5 mb-4">
+<div class="container my-4">
   <h1 class="text-left">{{ page.title }}</h1>
   <hr>
   <div class="tanggal mb-5">
     <div class="row d-flex justify-content-between">
-      <div class="col-6 text-left">
+      <div class="col-md-9 text-md-left">
         <i class="fas fa-calendar-alt"></i> Edisi: <b>{{ page.edisi }}</b> | <b>{{ page.datem }}</b> | <b>{{ page.dateh }} </b>
       </div>
-      <div class="col-6 text-right">
+      <div class="col-md-3 text-md-right">
         <i class="fas fa-download"></i> <a href="{{ page.pdf }}" target="_blank">Unduh versi PDF</a>
       </div>
     </div>
   </div>
   <div class="isi">
-    <div class="text-center mb-5">
-      <img src="/assets/images/cover/{{ page.edisi }}.jpg" style="height:25.5rem;min-width:100%;object-fit:cover;object-position:top;" alt="cover image">
+    <div class="text-center mb-5 d-flex flex-column justify-content-between">
+      <img src="/assets/images/cover/{{ page.edisi }}.jpg" class="rounded" style="height:25.5rem;min-width:100%;object-fit:cover;object-position:top;" alt="cover image">
     </div>
     {{ content }}
   </div>
