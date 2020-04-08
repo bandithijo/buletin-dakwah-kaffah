@@ -7,8 +7,12 @@ layout: default
   <hr>
   <div class="tanggal mb-5">
     <div class="row d-flex justify-content-between">
-      <div class="col-md-9 text-md-left">
-        <i class="fas fa-calendar-alt"></i> Edisi: <b>{{ page.edisi }}</b> | <b>{{ page.datem }}</b> | <b>{{ page.dateh }} </b>
+      <div class="col-md-9 text-md-left tanggal">
+        <ul>
+          <li>
+            <i class="fas fa-calendar-alt"></i> Edisi: <b>{{ page.edisi }}</b> | <b>{{ page.datem }}</b> | <b>{{ page.dateh }} </b>
+          </li>
+        </ul>
       </div>
       <div class="col-md-3 text-md-right">
         <i class="fas fa-download"></i> <a href="{{ page.pdf }}" target="_blank">Unduh versi PDF</a>
@@ -16,7 +20,7 @@ layout: default
     </div>
   </div>
   <div class="isi">
-    <div class="text-center mb-5 d-flex flex-column justify-content-between">
+    <div class="text-center mb-4 mb-md-5 d-flex flex-column justify-content-between">
       <img src="/assets/images/cover/{{ page.edisi }}.jpg" class="rounded" style="height:25.5rem;min-width:100%;object-fit:cover;object-position:top;" alt="cover image">
     </div>
     {{ content }}

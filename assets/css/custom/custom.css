@@ -9,6 +9,18 @@
   font-size: 1.5rem !important;
 }
 
+.tanggal ul {
+  list-style-type: none;
+  padding-left: 0;
+  text-align: left;
+}
+
+.tanggal ul li {
+  list-style-position: outside;
+  /* text-indent: -1.0em; */
+  /* padding-left: 1.0em; */
+}
+
 /* For handle anchor */
 p a {
   color: #F57215 !important;
