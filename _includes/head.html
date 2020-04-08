@@ -14,4 +14,7 @@
                    {{ site.description }}
                  {%- endif -%}">
   <link rel="stylesheet" href="/assets/css/main.css">
+  {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
 </head>

@@ -16,9 +16,7 @@
 title: "Buletin Dakwah Kaffah"
 email: "buletin-kaffah@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description."
+  "Web Portal Buletin Dakwah KAFFAH"
 baseurl: ""
 url: "https://buletinkaffah.netlify.com"
 penerbit: "Lembaga Kajian Islam Kaffah"
@@ -27,6 +25,9 @@ marketing: "Mursyid Aziz 08787-444-1924 (WA/SMS only)"
 facebook_username: "buletinkaffah2017"
 twitter_username: "bulletinkaffah"
 
+# Google Analytics
+google_analytics: UA-116004889-3
+
 # Build settings
 markdown: kramdown
 plugins:
@@ -34,7 +35,6 @@ plugins:
 
 sass:
   sass_dir: assets/css
-
 
 # Navbar
 navigation:
