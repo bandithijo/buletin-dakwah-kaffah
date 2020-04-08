@@ -16,7 +16,7 @@
 title: "Buletin Dakwah Kaffah"
 email: "buletin-kaffah@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Web Portal Buletin Dakwah KAFFAH"
+  Wahai orang-orang yang beriman masuklah ke dalam Islam secara kaffah.
 baseurl: ""
 url: "https://buletinkaffah.netlify.com"
 penerbit: "Lembaga Kajian Islam Kaffah"
@@ -27,7 +27,7 @@ twitter_username: "bulletinkaffah"
 
 # Opengraph
 locale: "id"
-logo_author: "/assets/images/icons/logo-kaffah-original.png"
+logo_author: "/assets/images/icons/logo-kaffah-square.png"
 
 # Google Analytics
 google_analytics: UA-116004889-3
