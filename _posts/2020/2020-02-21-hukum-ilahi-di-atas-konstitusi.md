@@ -5,6 +5,7 @@ date: 2020-02-21
 datem: "21 Februari 2020"
 dateh: "28 Jumada ats-Tsaniyah 1441"
 edisi: "129"
+pdf: "http://bit.ly/kaffah129"
 permalink: '/buletin/:title'
 categories: buletin
 ---

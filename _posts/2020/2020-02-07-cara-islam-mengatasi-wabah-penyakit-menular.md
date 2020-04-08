@@ -5,6 +5,7 @@ date: 2020-02-07
 datem: "7 Februari 2020"
 dateh: "14 Jumada ats-Tsaniyah 1441"
 edisi: "127"
+pdf: "http://bit.ly/kaffah127"
 permalink: '/buletin/:title'
 categories: buletin
 ---

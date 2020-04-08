@@ -5,17 +5,18 @@ date: 2020-03-27
 datem: "27 Maret 2020"
 dateh: "2 Sya'ban 1441"
 edisi: "134"
+pdf: "http://bit.ly/kaffah134"
 permalink: '/buletin/:title'
 categories: buletin
 ---
 
-Dalam menghadapi wabah (pandemi) Covid-19 ini, kaum Muslim penting untuk memper hatikan petunjuk syariah. Baik yang bersifat i’tiqadi (keyakinan) maupun ‘amali.
+Dalam menghadapi wabah (pandemi) Covid-19 ini, kaum Muslim penting untuk memper hatikan petunjuk syariah. Baik yang bersifat *i’tiqadi* (keyakinan) maupun ‘*amali*.
 
 # Ridha Terhadap Qadha’
 
-Wabah Covid-19 ini merupakan musibah.  Musibah merupakan bagian dari qadha’ Allah SWT (QS al- Hadid [57]: 22). Sikap seorang Muslim terhadap qadha’ Allah SWT adalah ridha. Sikap ridha terhadap qadha’ ini memberikan kebaikan.
+Wabah Covid-19 ini merupakan musibah.  Musibah merupakan bagian dari *qadha*’ Allah SWT (QS al- Hadid [57]: 22). Sikap seorang Muslim terhadap *qadha*’ Allah SWT adalah ridha. Sikap ridha terhadap *qadha*’ ini memberikan kebaikan.
 
-Sebaliknya, kita dilarang membenci qadha’ Allah SWT.  Rasul saw. bersabda:
+Sebaliknya, kita dilarang membenci *qadha*’ Allah SWT.  Rasul saw. bersabda:
 
 <p class="text-right-arabic">
 إِنَّ عِظَمَ الْجَزَاءِ مَعَ عِظَمِ الْبَلاَءِ وَإِنَّ اللَّهَ إِذَا أَحَبَّ قَوْمًا ابْتَلاَهُمْ فَمَنْ رَضِىَ فَلَهُ الرِّضَا وَمَنْ سَخِطَ فَلَهُ السَّخَطُ
@@ -26,19 +27,19 @@ Sebaliknya, kita dilarang membenci qadha’ Allah SWT.  Rasul saw. bersabda:
 (<b>HR at-Tirmidzi, Ibnu Majah dan al-Baihaqi</b>).
 </p>
 
-Adanya balasan kemurkaan dari Allah SWT terhadap orang yang tidak menerima qadha’ merupakan indikasi yang tegas (qarinah jazimah). Dengan demikian tidak ridha atau membenci qadha’ adalah haram.
+Adanya balasan kemurkaan dari Allah SWT terhadap orang yang tidak menerima *qadha*’ merupakan indikasi yang tegas (*qarinah jazimah*). Dengan demikian tidak ridha atau membenci *qadha*’ adalah haram.
 
-Imam al-Qarafi menyatakan di dalam Ad-Dakhîrah, "As-Sakhthu bi al-qadhâ` harâm[un] ijmâ’an (membenci qadha’ adalah haram secara ijmak)."
+Imam al-Qarafi menyatakan di dalam *Ad-Dakhîrah*, "*As-Sakhthu bi al-qadhâ` harâm[un] ijmâ’an* (membenci *qadha*’ adalah haram secara ijmak)."
 
-# Sabar, Banyak Berdoa, Berzikir dan Taqarrub kepada Allah SWT
+# Sabar, Banyak Berdoa, Berzikir dan *Taqarrub* kepada Allah SWT
 
-Sebagai qadha’, musibah itu tak terhindarkan sehingga bagaimanapun harus dihadapi. Untuk itu, sikap sabar harus dipupuk sebab Allah SWT memang akan menguji hamba-Nya dengan musibah. Allah SWT memberikan kabar gembira kepada orang yang sabar menghadapi musibah (QS al-Baqarah [2] : 155-157).
+Sebagai *qadha*’, musibah itu tak terhindarkan sehingga bagaimanapun harus dihadapi. Untuk itu, sikap sabar harus dipupuk sebab Allah SWT memang akan menguji hamba-Nya dengan musibah. Allah SWT memberikan kabar gembira kepada orang yang sabar menghadapi musibah (QS al-Baqarah [2] : 155-157).
 
-Rasul saw. pun mengajari kita agar istirja’ (mengembalikan segalanya kepada Allah SWT) dan berdoa.
+Rasul saw. pun mengajari kita agar *istirja*’ (mengembalikan segalanya kepada Allah SWT) dan berdoa.
 
 Dalam kondisi itu hendaknya juga banyak berzikir. Zikir akan dapat menenteramkan hati (QS ar-Ra’du [13]: 28).
 
-Hendaknya juga memperbanyak ibadah dan taqarrub kepada Allah SWT baik shalat, sedekah, tilawah al-Quran, shalat-shalat sunnah dan taqarrub lainnya.
+Hendaknya juga memperbanyak ibadah dan *taqarrub* kepada Allah SWT baik shalat, sedekah, tilawah al-Quran, shalat-shalat sunnah dan *taqarrub* lainnya.
 
 Selain itu tentu banyak memohon kepada Allah SWT agar wabah Covid-19 ini bukan azab dari-Nya; semoga wabah ini segera diangkat dan dihilangkan oleh Allah SWT.
 
@@ -89,7 +90,7 @@ Rasul saw. juga memberikan tuntunan:
 
 Ini berarti, harus dilakukan karantina atau isolasi atas wilayah yang terkena wabah. Larangan masuk dan keluar wilayah itu juga mencakup semua sarana untuk masuk dan keluar darinya, yaitu transportasi.
 
-Penduduk wilayah yang dilanda wabah bukan hanya diperintahkan untuk berdiam di negeri/wilayahnya. Mereka pun diperintahkan untuk berdiam di rumahnya. Ketika seseorang tetap berdiam di wilayahnya dan berdiam di rumahnya, tidak keluar kecuali untuk keperluan yang penting sekali, seraya dia bersabar mengharap ridha Allah SWT dan meyakini akan qadha’ Allah maka untuk dia ada pahala setara dengan pahala syahid. Rasul saw. bersabda tentang tha’un:
+Penduduk wilayah yang dilanda wabah bukan hanya diperintahkan untuk berdiam di negeri/wilayahnya. Mereka pun diperintahkan untuk berdiam di rumahnya. Ketika seseorang tetap berdiam di wilayahnya dan berdiam di rumahnya, tidak keluar kecuali untuk keperluan yang penting sekali, seraya dia bersabar mengharap ridha Allah SWT dan meyakini akan *qadha*’ Allah maka untuk dia ada pahala setara dengan pahala syahid. Rasul saw. bersabda tentang *tha’un*:
 
 <p class="text-right-arabic">
 أَنَّهُ كَانَ عَذَابًا يَبْعَثُهُ اللهُ عَزَّ وَجَلَّ عَلَى مَنْ يَشَاءُ، فَجَعَلَهُ اللهُ عَزَّ وَجَلَّ رَحْمَةً لِلْمُؤْمِنِينَ، فَلَيْسَ مِنْ عَبْدٍ يَقَعُ الطَّاعُونُ، فَيَمْكُثُ فِي بَلَدِهِ -في رواية أخرى لأحمد: فَيَمْكُثُ فِي بَيْتِهِ- صَابِرًا مُحْتَسِبًا، يَعْلَمُ أَنَّهُ لَمْ يُصِبْهُ إِلَّا مَا كَتَبَ اللهُ عَزَّ وَجَلَّ لَهُ، إِلَّا كَانَ لَهُ مِثْلُ أَجْرِ الشَّهِيدِ
@@ -100,9 +101,9 @@ Penduduk wilayah yang dilanda wabah bukan hanya diperintahkan untuk berdiam di n
 (<b>HR al-Bukhari dan Ahmad</b>).
 </p>
 
-Protokol isolasi wilayah dan isolasi/karantina diri di rumah oleh tiap-tiap orang warga wilayah itu mungkin yang sekarang disebut lock down, baik parsial maupun total. Protokol ini penting sekali untuk memutus rantai penyebaran penyakit dari satu wilayah ke wilayah lainnya dan dari satu orang ke orang lainnya.
+Protokol isolasi wilayah dan isolasi/karantina diri di rumah oleh tiap-tiap orang warga wilayah itu mungkin yang sekarang disebut *lock down*, baik parsial maupun total. Protokol ini penting sekali untuk memutus rantai penyebaran penyakit dari satu wilayah ke wilayah lainnya dan dari satu orang ke orang lainnya.
 
-Pelaksanaan semua protokol itu merupakan tanggung jawab syar’i semua anggota masyarakat. Hukumnya wajib. Sebab jika abai, mereka berpelung tertular dan menularkan penyakitnya kepada orang lain; termasuk orang-orang terdekat (anak, istri, suami, bapak, ibu dan kerabat lainnya). Padahal Rasul saw. telah bersabda, “Lâ dharara wa lâ dhirâra (Tidak boleh memadaratkan diri sendiri maupun orang lain).” (HR Ahmad, Ibnu Majah, al-Hakim, al-Baihaqi, Malik dan Asy-Syafii).
+Pelaksanaan semua protokol itu merupakan tanggung jawab *syar’i* semua anggota masyarakat. Hukumnya wajib. Sebab jika abai, mereka berpelung tertular dan menularkan penyakitnya kepada orang lain; termasuk orang-orang terdekat (anak, istri, suami, bapak, ibu dan kerabat lainnya). Padahal Rasul saw. telah bersabda, “*Lâ dharara wa lâ dhirâra* (*Tidak boleh memadaratkan diri sendiri maupun orang lain*).” (HR Ahmad, Ibnu Majah, al-Hakim, al-Baihaqi, Malik dan Asy-Syafii).
 
 Selain itu, dalam situasi sulit ini, masyarakat hendaknya saling membantu agar kelangsungan hidup mereka dan keluarganya bisa terjamin. Dengan itu mereka bisa berdiam di rumah dan tidak harus pergi ke luar rumah. Semua itu demi kebaikan masyarakat seluruhnya.
 
@@ -123,15 +124,15 @@ Jadi dalam Islam, pemimpin (Pemerintah) wajib mengurus urusan rakyat, termasuk p
 
 Dalam hal pencegahan dan penanggulangan Covid-19 saat ini, Pemerintah wajib menjamin perawatan dan pengobatan semua orang yang sakit, khususnya yang terkena Covid-19. Pemerintah harus menyediakan semua alat kesehatan yang dibutuhkan secara memadai, termasuk APD yang sangat dibutuhkan oleh paramedis. Pemerintah juga wajib menjamin birokrasi, protokol dan prosedur yang diperlukan berjalan. Pemerintah juga harus mewujudkan suasana yang nyaman dan aman bagi paramedis sehingga mereka dapat menjalankan tugas perawatan dan pengobatan sebaik mungkin.
 
-Pemerintah harus membuat kebijakan sehingga protokol physical distancing atau social distancing bisa berjalan secara efektif; termasuk meniadakan kerumunan orang baik di pusat perbelanjaan, tempat umum, rumah makan dan sejenisnya, fasilitas publik termasuk transportasi, dsb.
+Pemerintah harus membuat kebijakan sehingga protokol *physical distancing* atau *social distancing* bisa berjalan secara efektif; termasuk meniadakan kerumunan orang baik di pusat perbelanjaan, tempat umum, rumah makan dan sejenisnya, fasilitas publik termasuk transportasi, dsb.
 
-Pemerintah juga harus mengedukasi dan mendorong—jika perlu mengharuskan—semua masyarakat untuk menjalankan protokol physical distancing atau social distancing itu. Untuk itu harus digunakan berbagai cara dan sarana serta menggerakkan semua struktur dan aparat Pemerintah hingga paling bawah di tingkat RT.
+Pemerintah juga harus mengedukasi dan mendorong—jika perlu mengharuskan—semua masyarakat untuk menjalankan protokol *physical distancing* atau *social distancing* itu. Untuk itu harus digunakan berbagai cara dan sarana serta menggerakkan semua struktur dan aparat Pemerintah hingga paling bawah di tingkat RT.
 
 Pemerintah juga hendaknya segera mengambil tindakan dan kebijakan untuk memutus rantai penyebaran Covid-19 ini secepat mungkin. Kelambanan serta ketidakjelasan kebijakan dan tindakan yang dirasakan masyarakat harus segera diakhiri.
 
-Banyak pihak, termasuk para ahli, mendesak kebijakan lock down segera diambil, tentu dibarengi dengan menjamin kelangsungan hidup semua anggota masyarakat. Untuk itu, Pemerintah semestinya tidak perlu ragu. Tanpa melakukan lock down, penanggulangan Covid-19 ini bisa berkepanjangan. Ini malah akan menguras sumberdaya ekonomi yang lebih besar.
+Banyak pihak, termasuk para ahli, mendesak kebijakan *lock down* segera diambil, tentu dibarengi dengan menjamin kelangsungan hidup semua anggota masyarakat. Untuk itu, Pemerintah semestinya tidak perlu ragu. Tanpa melakukan *lock down*, penanggulangan Covid-19 ini bisa berkepanjangan. Ini malah akan menguras sumberdaya ekonomi yang lebih besar.
 
-Semoga Allah SWT memberikan pertolongan-Nya sehingga wabah Covid-19 bisa segera berakhir. Amin ya Rabbal ‘alamin. []
+Semoga Allah SWT memberikan pertolongan-Nya sehingga wabah Covid-19 bisa segera berakhir. *Amin ya Rabbal ‘alamin*. []
 
 <!-- HIKMAH -->
 <div class="card mt-5">

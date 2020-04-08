@@ -5,6 +5,7 @@ date: 2019-10-18
 datem: "18 Oktober 2019"
 dateh: "19 Shafar 1441"
 edisi: "111"
+pdf: "http://bit.ly/kaffah111"
 permalink: '/buletin/:title'
 categories: buletin
 ---

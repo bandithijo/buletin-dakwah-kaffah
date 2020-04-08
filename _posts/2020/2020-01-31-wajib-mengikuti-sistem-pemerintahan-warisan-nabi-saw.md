@@ -5,6 +5,7 @@ date: 2020-01-31
 datem: "31 Januari 2020"
 dateh: "5 Jumada ats-Tsaniyah 1441"
 edisi: "126"
+pdf: "http://bit.ly/kaffah126"
 permalink: '/buletin/:title'
 categories: buletin
 ---

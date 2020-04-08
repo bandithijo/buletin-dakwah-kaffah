@@ -11,10 +11,5 @@
         {% include button/share-icon-twitter.svg %}
       </a>
     </li>
-    <li class="linkedin">
-      <a href="http://www.linkedin.com/shareArticle?url={{ site.twitter_username }}&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape}}" target="_blank">
-        {% include button/share-icon-linkedin.svg %}
-      </a>
-    </li>
   </ul>
 </div>

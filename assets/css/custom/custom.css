@@ -23,6 +23,7 @@ a:hover {
 a.nav-link,
 a.nav-link:hover {
   color: #F57215;
+  padding-right: 0;
 }
 
 a.nav-link:hover {

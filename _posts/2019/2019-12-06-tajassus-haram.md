@@ -5,6 +5,7 @@ date: 2019-12-06
 datem: "6 Desember 2019"
 dateh: "9 Rabiul Akhir 1441"
 edisi: "118"
+pdf: "http://bit.ly/kaffah118"
 permalink: '/buletin/:title'
 categories: buletin
 ---

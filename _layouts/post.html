@@ -6,7 +6,14 @@ layout: default
   <h1 class="text-left">{{ page.title }}</h1>
   <hr>
   <div class="tanggal mb-5">
-    <i class="fas fa-calendar-alt"></i> Edisi: <b>{{ page.edisi }}</b> | <b>{{ page.datem }}</b> | <b>{{ page.dateh }} </b>
+    <div class="row d-flex justify-content-between">
+      <div class="col-6 text-left">
+        <i class="fas fa-calendar-alt"></i> Edisi: <b>{{ page.edisi }}</b> | <b>{{ page.datem }}</b> | <b>{{ page.dateh }} </b>
+      </div>
+      <div class="col-6 text-right">
+        <i class="fas fa-download"></i> <a href="{{ page.pdf }}" target="_blank">Unduh versi PDF</a>
+      </div>
+    </div>
   </div>
   <div class="isi">
     <div class="text-center mb-5">
