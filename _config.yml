@@ -25,6 +25,10 @@ marketing: "Mursyid Aziz 08787-444-1924 (WA/SMS only)"
 facebook_username: "buletinkaffah2017"
 twitter_username: "bulletinkaffah"
 
+# Opengraph
+locale: "id"
+logo_author: "/assets/images/icons/logo-kaffah-original.png"
+
 # Google Analytics
 google_analytics: UA-116004889-3
 
