@@ -19,10 +19,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   "Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description."
-baseurl: "https://buletinkaffah.netlify.com"
-url: ""
+baseurl: ""
+url: "https://buletinkaffah.netlify.com"
 penerbit: "Lembaga Kajian Islam Kaffah"
 alamat: "Wisma NH Lt-1, Jl. Raya Pasar Minggu Kav. 2 B-C Pancoran Jakarta Selatan 12780"
+marketing: "Mursyid Aziz 08787-444-1924 (WA/SMS only)"
 facebook_username: "buletinkaffah2017"
 twitter_username: "bulletinkaffah"
 
