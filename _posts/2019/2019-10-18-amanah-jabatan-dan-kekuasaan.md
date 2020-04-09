@@ -24,7 +24,7 @@ Kepemimpinan adalah amanah. Siapa saja yang memegang amanah kepemimpinan ini pas
 فَاْلإمَامُ رَاعٍ وَ مَسْئُوْلٌ عَنْ رَعِيَّتِهِ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Seorang imam (pemimpin) adalah pengurus rakyat dan dia akan dimintai pertanggungjawaban atas rakyat yang dia urus.</i><br>
 (<b>HR al-Bukhari dan Muslim</b>)
 </p>
@@ -35,7 +35,7 @@ Hakikat kepemimpinan tercermin dalam sabda Rasulullah saw.:
 سَيِّدُ الْقَوْمِ خَادِمُهُمْ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Pemimpin suatu kaum adalah pelayan mereka.</i><br>
 (<b>HR Abu Nu‘aim</b>)
 </p>
@@ -46,7 +46,7 @@ Rasulullah saw. pun bersabda:
 مَا مِنْ عَبْدٍ اسْتَرْعَاهُ اللَّهُ رَعِيَّةً فَلَمْ يَحُطْهَا بِنَصِيحَةٍ إِلَّا لَمْ يَجِدْ رَائِحَةَ الْجَنَّةِ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Tidak seorang hamba pun yang diserahi oleh Allah untuk memelihara urusan rakyat, lalu dia tidak melingkupi rakyat dengan nasihat (kebaikan), kecuali ia tidak akan mencium bau surga.</i><br>
 (<b>HR al-Bukhari</b>)
 </p>
@@ -57,7 +57,7 @@ Rasulullah saw. juga bersabda:
 مَا مِنْ وَالٍ يَلِي رَعِيَّةً مِنْ الْمُسْلِمِينَ فَيَمُوتُ و َهُوَ غَاشٌّ لَهُمْ إِلَّا حَرَّمَ اللَّهُ عَلَيْهِ الْجَنَّةَ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Tidaklah seorang penguasa diserahi urusan kaum Muslim, kemudian ia mati, sedangkan ia menelantarkan urusan mereka, kecuali Allah mengharamkan surga untuk dirinya.</i><br>
 (<b>HR al-Bukhari dan Muslim</b>)
 </p>
@@ -70,7 +70,7 @@ Karena itu generasi salafush-shalih pada masa lalu umumnya khawatir bahkan takut
 إِنَّكُمْ سَتَحْرِصُونَ عَلَى الْإِمَارَةِ وَإِنَّهَا سَتَكُونُ نَدَامَةً وَحَسْرَةً
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Kalian begitu berhasrat atas kekuasaan, sementara kekuasaan itu pada Hari Kiamat kelak bisa berubah menjadi penyesalan dan kerugian.</i><br>
 (<b>HR Nasa’i dan Ahmad</b>)
 </p>
@@ -96,7 +96,6 @@ Islam sangat mendorong agar para pemimpin—penguasa maupun pejabat negara—sel
 Sejak Rasulullah saw. diutus, tidak ada masyarakat yang mampu melahirkan para penguasa yang amanah dan adil kecuali dalam masyarakat yang menerapkan sistem Islam. Kita mengenal Khulafaur Rasyidin yang terkenal dalam kearifan, keberanian dan ketegasannya dalam membela Islam dan kaum Muslim. Mereka adalah para negarawan ulung yang sangat dicintai oleh rakyatnya dan ditakuti oleh lawan-lawannya. Mereka juga termasyhur sebagai pemimpin yang memiliki budi pekerti yang agung dan luhur Khalifah Abu Bakar ash-Shiddiq adalah sosok penguasa yang terkenal sabar dan lembut. Namun, beliau juga terkenal sebagai pemimpin yang berani dan tegas. Tatkala sebagian kaum Muslim menolak kewajiban zakat, beliau segera memerintahkan kaum Muslim untuk memerangi mereka. Meskipun pendapatnya sempat disanggah oleh Umar bin al-Khaththab, beliau tetap bergeming dengan pendapatnya. Stabilitas dan kewibawaan Negara Islam harus dipertahankan meskipun harus mengambil risiko perang. Khalifah Umar bin al-Khaththab pun terkenal sebagai penguasa yang tegas dan sangat disiplin. Beliau tidak segan-segan merampas harta para pejabatnya yang ditengarai berasal dari jalan yang tidak benar (Lihat: Târîkh al-Islâm, II/388; dan Tahdzîb at-Tahdzîb, XII/267).
 
 Tidakkah kita merindukan kembali kehadiran sistem Islam di tengah-tengah kita yang bisa melahirkan para pemimpin yang adil dan amanah? []
-
 
 <!-- HIKMAH -->
 <div class="card mt-5">

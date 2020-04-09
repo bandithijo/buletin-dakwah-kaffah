@@ -20,7 +20,7 @@ Peristiwa Isra’ Mi’raj menjadi salah satu peristiwa penting dalam perjalanan
 سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلاً مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الأَقْصَى
 </div>
 
-<div class="text-right">
+<div class="text-right-arti">
 <i>Mahasuci Allah Yang telah memperjalankan hamba-Nya pada suatu malam dari Masjid al-Haram ke Masjid al-Aqsha</i><br>
 (<b>QS al Isra’ [17]: 1</b>).
 </div>
@@ -31,7 +31,7 @@ Peristiwa Isra’ Mi’raj menjadi salah satu peristiwa penting dalam perjalanan
 وَلَقَدْ رَآهُ نَزْلَةً أُخْرَى. عِنْدَ سِدْرَةِ الْمُنْتَهَى. عِنْدَهَا جَنَّةُ الْمَأْوَى. إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَى. مَا زَاغَ الْبَصَرُ وَمَا طَغَى. لَقَدْ رَأَى مِنْ ءَايَاتِ رَبِّهِ الْكُبْرَى
 </div>
 
-<div class="text-right">
+<div class="text-right-arti">
 <i>Sungguh Muhammad telah melihat Jibril (dalam rupanya yang asli) pada waktu yang lain, (yaitu) di Sidratul Muntaha. Di dekatnya ada surga tempat tinggal. (Muhammad melihat Jibril) ketika Sidratul Muntaha diliputi oleh sesuatu yang meliputinya. Penglihatan dia (Muhammad) tidak berpaling dari yang dia lihat itu dan tidak (pula) melampauinya. Sungguh dia telah melihat sebagian tanda-tanda (kekuasaan) Tuhannya yang paling besar</i><br>
 (<b>QS an-Najm [53]: 13-18</b>).
 </div>
@@ -54,7 +54,7 @@ Seorang Muslim sudah sepatutnya mengimani semua yang disampaikan oleh Allah SWT 
 وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الأرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَى لَهُمْ وَلَيُبَدِّلَنَّهُمْ مِنْ بَعْدِ خَوْفِهِمْ أَمْنًا يَعْبُدُونَنِي لا يُشْرِكُونَ بِي شَيْئًا وَمَنْ كَفَرَ بَعْدَ ذَلِكَ فَأُولَئِكَ هُمُ الْفَاسِقُونَ
 </div>
 
-<div class="text-right">
+<div class="text-right-arti">
 <i>Allah telah menjanjikan kepada orang-orang beriman dan beramal shalih di antara kalian, bahwa Dia sungguh akan menjadikan mereka berkuasa di bumi sebagaimana Dia telah menjadikan orang-orang sebelum mereka berkuasa; akan meneguhkan bagi mereka agama yang telah Dia ridhai (Islam); dan akan mengubah (keadaan) mereka, setelah berada dalam ketakutan, menjadi aman sentosa. Mereka tetap menyembah-Ku tanpa mempersekutukan-Ku dengan sesuatu pun. Siapa saja yang (tetap) kafir setelah (janji) itu, mereka itulah kaum yang fasik</i><br>
 (<b>QS an-Nur [24]: 55</b>).
 </div>
@@ -67,7 +67,7 @@ Melalui ayat ini Allah memberikan kabar gembira kepada orang-orang menaati syari
 هَذِهِ الْحَالُ لَمْ تَخْتَصَّ بِالْخُلَفَاءِ الْأَرْبَعَةِ رَضِيَ اللَّهُ عَنْهُمْ حَتَّى يُخَصُّوا بِهَا مِنْ عُمُومِ الْآيَةِ، بَلْ شَارَكَهُمْ فِي ذَلِكَ جَمِيعُ الْمُهَاجِرِينَ بَلْ وَغَيْرُهُم… فَصَحَّ أَنَّ الْآيَةَ عَامَّةٌ لِأُمَّةِ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ غَيْرُ مَخْصُوصَةٍ
 </div>
 
-<div class="text-right">
+<div class="text-right-arti">
 <i>Janji Allah ini tidak terbatas hanya untuk Khulafaur Rasyidin ra. saja sehingga harus dikhususkan dari keumuman ayat. Bahkan segenap Muhajirin dan kaum Muslim yang lain juga masuk dalam janji-janji ayat ini (tentu jika mereka memenuhi syarat-syaratnya, pen.) … Karena itu pendapat yang shahih adalah bahwa ayat ini berlaku umum untuk umat Muhammad saw. , tidak bersifat khusus</i><br>
 (<b>Tafsir al-Qurthubi, 12/299</b>).
 </div>
@@ -80,7 +80,7 @@ Imam Ibnu Jarir ath-Thabari menafsirkan bahwa yang dimaksud dengan “wa’amilu
 وَأَطَاعُوْا اللهَ وَرَسُوْلًهُ فِيْمَا أَمْرَاهُ وَنًهْيَاهُ
 </div>
 
-<div class="text-right">
+<div class="text-right-arti">
 <i>Mereka menaati Allah dan Rasul-Nya pada perkara yang diperintahkan dan perkara yang dilarang oleh keduanya</i><br>
 (<b>Tafsîr ath-Thabari, 19/209</b>).
 </div>
@@ -95,7 +95,7 @@ Karena itu jadilah seperti Abu Bakar ash-Shiddiq, yang tidak berpikir panjang un
 ثُمَّ تَكُوْنُ خِلاَفَةً عَلَى مِنْهَاجِ النُّبُوَّةِ
 </div>
 
-<div class="text-right">
+<div class="text-right-arti">
 <i>Kemudian akan tegak kembali Khilafah yang mengikuti manhaj Kenabian</i><br>
 (<b>HR Ahmad</b>).
 </div>

@@ -16,7 +16,7 @@ Mengimani kenabian Muhammad saw. harus diikuti dengan mencintai dan memuliakan s
 لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى أَكُونَ أَحَبَّ إِلَيْهِ مِنْ وَالِدِهِ وَوَلَدِهِ وَالنَّاسِ أَجْمَعِينَ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Belum sempurna iman salah seorang di antara kalian sampai ia menjadikan aku lebih dicintai daripada orangtuanya, anaknya dan segenap manusia.</i><br>
 (<b>HR al-Bukhari</b>)
 </p>
@@ -31,7 +31,7 @@ Allah SWT memberikan ancaman keras kepada siapa saja yang cintanya kepada Rasul 
 قُلْ إِنْ كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا وَتِجَارَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَاكِنُ تَرْضَوْنَهَا أَحَبَّ إِلَيْكُمْ مِنَ اللَّهِ وَرَسُولِهِ وَجِهَادٍ فِي سَبِيلِهِ فَتَرَبَّصُوا حَتَّى يَأْتِيَ اللَّهُ بِأَمْرِهِ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Katakanlah, “Jika bapak-bapak, anak-anak, saudara-saudara, istri-istri kalian, kaum keluarga kalian, harta kekayaan yang kalian usahakan, perniagaan yang kalian khawatirkan kerugiannya dan tempat tinggal yang kalian sukai adalah lebih kalian cintai daripada Allah dan Rasul-Nya serta dari berjihad di jalan-Nya, maka tunggulah sampai Allah mendatangkan keputusan (azab)-Nya. Allah tidak memberikan petunjuk kepada kaum yang fasik.</i><br>
 (<b>TQS at-Taubah [9]: 24</b>)
 </p>
@@ -44,7 +44,7 @@ Seorang laki-laki bertanya kepada Rasulullah saw. tentang Hari Kiamat, “Kapan 
 أَنْتَ مَعَ مَنْ أَحْبَبْتَ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Engkau akan bersama dengan yang engkau cintai.</i><br>
 (<b>HR al-Bukhari</b>)
 </p>
@@ -55,7 +55,7 @@ Orang yang mencintai Allah dan Nabi-Nya saw. juga akan merasakan manisnya iman, 
 ثَلاَثٌ مَنْ كُنَّ فِيهِ وَجَدَ حَلاَوَةَ الإِيمَانِ أَنْ يَكُونَ اللَّهُ وَرَسُولُهُ أَحَبَّ إِلَيْهِ مِمَّا سِوَاهُمَا…
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Ada tiga perkara yang jika terdapat pada seseorang maka ia akan merasakan manisnya iman (di antaranya): Allah dan Rasul-Nya lebih ia cintai daripada selain keduanya…</i><br>
 (<b>HR al-Bukhari dan Muslim</b>)
 </p>
@@ -68,7 +68,7 @@ Jika mencintai Rasulullah saw. merupakan kewajiban dan kebaikan yang amat luhur,
 وَالَّذِينَ يُؤْذُونَ رَسُولَ اللَّهِ لَهُمْ عَذَابٌ أَلِيمٌ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Orang-orang yang menyakiti Rasulullah itu, bagi mereka azab yang pedih.</i><br>
 (<b>TQS at-Taubah [9]: 61</b>)
 </p>
@@ -79,7 +79,7 @@ Allah SWT juga berfirman:
 إِنَّ الَّذِينَ يُؤْذُونَ اللَّهَ وَرَسُولَهُ لَعَنَهُمُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ وَأَعَدَّ لَهُمْ عَذَابًا مُهِينًا
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Sungguh orang-orang yang menyakiti Allah dan Rasul-Nya, Allah melaknati mereka di dunia dan di akhirat serta menyediakan bagi mereka siksaan yang menghinakan.</i><br>
 (<b>TQS al-Ahzab [33]: 57</b>)
 </p>
@@ -108,7 +108,7 @@ Penistaan terhadap marwah Nabi saw. terus berulang karena banyak Muslim dan toko
 مَنِ اسْتُغْضِبَ فَلَمْ يَغْضَبْ فَهُوَ حِمَارٌ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Siapa yang dibuat marah namun tidak marah maka ia adalah keledai</i><br>
 (<b>HR al-Baihaqi</b>)
 </p>
@@ -121,7 +121,7 @@ Pada zaman Nabi saw. ada seorang pria yang amat marah kepada istrinya karena ter
 أَلاَ اشْهَدُوا أَنَّ دَمَهَا هَدَرٌ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Saksikanlah bahwa darah perempuan yang tertumpah itu sia-sia (tidak ada tuntutan)!</i><br>
 (<b>HR Abu Dawud</b>)
 </p>

@@ -44,7 +44,7 @@ Dalam sejarah, wabah penyakit menular pernah terjadi pada masa Rasulullah saw. W
 لاَ تُدِيمُوا النَّظَرَ إِلَى الْمَجْذُومِينَ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Janganlah kalian terus-menerus melihat orang yang mengidap penyakit kusta</i><br>
 (<b>HR al-Bukhari</b>).
 </p>
@@ -57,7 +57,7 @@ Rasulullah saw. juga pernah memperingatkan umatnya untuk jangan mendekati wilaya
 إِذَا سَمِعْتُمْ بِالطَّاعُونِ بِأَرْضٍ فَلاَ تَدْخُلُوهَا، وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلاَ تَخْرُجُوا مِنْهَا
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Jika kalian mendengar wabah terjadi di suatu wilayah, janganlah kalian memasuki wilayah itu. Sebaliknya, jika wabah itu terjadi di tempat kalian tinggal, janganlah kalian meninginggalkan tempat itu</i><br>
 (<b>HR al-Bukhari</b>).
 </p>
@@ -70,7 +70,7 @@ Pada masa Kekhalifahan Umar bin al-Khaththab juga pernah terjadi wabah penyakit 
 أَنَّ عُمَرَ خَرَجَ إِلَى الشَّأْمِ. فَلَمَّا كَانَ بِسَرْغَ بَلَغَهُ أَنَّ الْوَبَاءَ قَدْ وَقَعَ بِالشَّأْمِ، فَأَخْبَرَهُ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: إِذَا سَمِعْتُمْ بِهِ بِأَرْضٍ فَلاَ تَقْدَمُوا عَلَيْهِ وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلاَ تَخْرُجُوا فِرَارًا مِنْه.
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Khalifah Umar pernah keluar untuk melakukan perjalanan menuju Syam. Saat sampai di wilayah bernama Sargh, beliau mendapat kabar adanya wabah di wilayah Syam. Abdurrahman bin Auf kemudian mengabari Umar bahwa Rasulullah saw. pernah bersabda, “Jika kalian mendengar wabah terjadi di suatu wilayah, janganlah kalian memasuki wilayah itu. Sebaliknya, jika wabah terjadi di tempat kalian tinggal, janganlah kalian meningggalkan tempat itu.”</i><br>
 (<b>HR al-Bukhari</b>).
 </p>
@@ -85,7 +85,7 @@ Islam memang telah memerintahkan kepada setiap orang untuk mempraktikkan gaya hi
 فَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Makanlah oleh kalian rezeki yang halal lagi baik yang telah Allah karuniakan kepada kalian</i><br>
 (<b>TQS an-Nahl [16]: 114</b>).
 </p>
@@ -96,7 +96,7 @@ Selain memakan makanan halal dan baik, kita juga diperintahkan untuk tidak berle
 وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Makan dan minumlah kalian, tetapi janganlah berlebih-lebihan. Sungguh Allah tidak menyukai orang-orang yang berlebih-lebihan</i><br>
 (<b>TQS al-A’raf [7]: 31</b>).
 </p>

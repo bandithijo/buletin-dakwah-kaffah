@@ -16,7 +16,7 @@ Masjid adalah tempat yang mulia. Tentu karena masjid telah Allah muliakan. Masji
 ذَٰلِكَ وَمَنْ يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِنْ تَقْوَى الْقُلُوبِ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Demikianlah (perintah Allah). Siapa saja yang mengagungkan syiar-syiar Allah, sungguh itu timbul dari ketakwaan hati.</i><br>
 (<b>TQS al-Hajj [22]: 32</b>)
 </p>
@@ -27,7 +27,7 @@ Dengan demikian masjid idealnya adalah tempat yang paling menenteramkan jiwa di 
 إِنَّمَا يَعْمُرُ مَسَاجِدَ اللَّهِ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَأَقَامَ الصَّلَاةَ وَآتَى الزَّكَاةَ وَلَمْ يَخْشَ إِلَّا اللَّهَ فَعَسَى أُولَئِكَ أَنْ يَكُونُوا مِنَ الْمُهْتَدِينَ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Sungguh yang memakmurkan masjid-masjid Allah hanyalah orang yang mengimani Allah dan Hari Akhir, menegakkan shalat, menunaikan zakat dan tidak takut kecuali kepada Allah. Mudah-mudahkan mereka termasuk kaum yang mandapatkan petunjuk.</i><br>
 (<b>TQS at-Taubah [9]: 18</b>)
 </p>
@@ -42,7 +42,7 @@ Allah SWT berfirman:
 يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ بَعْضُكُمْ بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ ۚ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ تَوَّابٌ رَحِيمٌ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Hai orang-orang yang beriman, jauhilah oleh kalian kebanyakan prasangka (kecurigaan) karena sebagian dari prasangka itu dosa. Janganlah kalian memata-matai (mencari-cari keburukan orang). Jangan pula kalian menggunjing satu sama lain. Apakah seorang di antara kalian suka memakan daging saudaranya yang sudah mati? Tentu kalian merasa jijik. Bertakwalah kepada Allah. Sungguh Allah Maha Penerima Tobat lagi Maha Penyayang</i><br>
 (<b>TQS al-Hujurat [49]: 12</b>)
 </p>
@@ -57,7 +57,7 @@ Senada dengan ayat di atas, Rasulullah saw. bersabda, sebagaimana dituturkan ole
 إِيَّاكُمْ وَالظَّنَّ، فَإِنَّ الظَّنَّ أَكْذَبُ الحَدِيثِ، وَلاَ تَحَسَّسُوا، وَلاَ تَجَسَّسُوا، وَلاَ تَحَاسَدُوا، وَلاَ تَدَابَرُوا، وَلاَ تَبَاغَضُوا، وَكُونُوا عِبَادَ اللَّهِ إِخْوَانًا
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Jauhilah oleh kalian prasangka. Sungguh prasangka itu berita yang paling dusta. Janganlah kalian melakukan tahassus, tajassus, saling hasad, saling membelakangi dan saling membenci. Jadilah kalian bersaudara, wahai para hamba Allah!</i><br>
 (<b>HR al-Bukhari</b>)
 </p>
@@ -70,7 +70,7 @@ Selain larangan keras dalam ayat dan hadis di atas, terdapat ancaman keras bagi 
 وَمَنِ اسْتَمَعَ إِلَى حَدِيثِ قَوْمٍ، وَهُمْ لَهُ كَارِهُونَ، أَوْ يَفِرُّونَ مِنْهُ، صُبَّ فِي أُذُنِهِ الآنُكُ يَوْمَ القِيَامَةِ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Siapa saja yang berusaha mendengarkan pembicaraan orang lain, sedangkan mereka tidak suka (didengarkan), atau mereka menjauh dari dirinya, maka pada telinga orang itu akan dituangkan cairan tembaga pada Hari Hiamat.</i><br>
 (<b>HR al-Bukhari</b>)
 </p>
@@ -85,7 +85,7 @@ Karena itu kami menyerukan kepada Anda, wahai para penguasa, selagi masih ada ke
 اِنَّمَا السَّبِيۡلُ عَلَى الَّذِيۡنَ يَظۡلِمُوۡنَ النَّاسَ وَ يَبۡغُوۡنَ فِى الۡاَرۡضِ بِغَيۡرِ الۡحَقِّ‌ؕ اُولٰٓٮِٕكَ لَهُمۡ عَذَابٌ اَلِيۡمٌ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Sungguh kesalahan hanya ada pada orang-orang yang berbuat zalim kepada manusia dan melampaui batas di bumi tanpa (mengindahkan) kebenaran. Bagi mereka itu siksaan yang amat pedih.</i><br>
 (<b>TQS asy-Syura [42]: 42</b>)
 </p>
@@ -100,7 +100,7 @@ Jadilah Anda polisi pelindung, pengayom dan pelayan rakyat, sebagaimana slogan y
 سَيَكُونُ فِي آخِرِ الزَّمَانِ شُرطَةٌ، يَغْدُونَ فِي غَضِبِ اللهِ، وَيَرُوحُونَ فِي سَخَطِ اللهِ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Pada akhir zaman akan banyak polisi pada pagi hari dimurkai Allah dan pada sore harinya pun dibenci Allah.</i><br>
 (<b>HR ath-Thabarani</b>) []
 </p>

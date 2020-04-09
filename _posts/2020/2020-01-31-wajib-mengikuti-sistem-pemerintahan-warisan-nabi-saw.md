@@ -28,7 +28,7 @@ As-Sunnah merupakan sumber hukum Islam yang nilai kebenarannya sama dengan al-Qu
 وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰ إِنْ هُوَ إِلَّا وَحْىٌ يُوحَى
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Tidaklah yang dia (Muhammad) ucapkan itu menuruti kemauan hawa nafsunya. Ucapan itu tidak lain hanyalah wahyu yang diwahyukan (kepada dirinya).</i><br>
 (<b>TQS an-Najm [53]:3-4</b>)
 </p>
@@ -39,7 +39,7 @@ Maknanya, apa pun yang disampaikan Nabi Muhammad saw. (al-Quran dan as-Sunnah) b
 إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰ إِلَيَّ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Aku (Muhammad) tidaklah mengikuti kecuali apa yang diwahyukan kepada diriku.</i><br>
 (<b>TQS al-An’am [6]: 50</b>)
 </p>
@@ -58,7 +58,7 @@ Sistem pemerintahan warisan Nabi Muhammad saw. adalah Khilafah. Sistem Khilafah 
 أُوصِيْكُمْ بِتَقْوَى اللهِ وَالسَّمْعِ وَالطَّاعَةِ وَإِنْ كَانَ عَبْدًا حَبَشِيًّا فَإِنَّهُ مَنْ يَعِشْ مِنْكُمْ بَعْدِي فَسَيَرَى اخْتِلاَفًا كَثِيرًا فَعَلَيْكُمْ بِسُنَّتِي وَسُنَّةِ الْخُلَفَاءِ الرَّاشِدِيْنَ الْمَهْدِيِّيْنَ فَتَمَسَّكُوْا بِهَا وَعَضُّوْا عَلَيْهَا بِالنَّوَاجِذِ وَإِيَّاكُمْ وَمُحْدَثَاتِ اْلأُمُوْرِ فَإِنَّ كُلَّ مُحْدَثَةٍ بِدْعَةٌ وَكُلَّ بِدْعَةٍ ضَلاَلَةٌ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Aku mewasiatkan kepada kalian, hendaklah kalian selalu bertakwa kepada Allah, mendengar dan menaati (pemimpin) sekalipun ia seorang budak Habsyi. Sebab sungguh siapapun dari kalian yang berumur panjang sesudahku akan melihat perselisihan yang banyak. Oleh karena itu, kalian wajib berpegang pada Sunnahku dan Sunnah Khulafaur Rasyidin yang mendapat petunjuk. Berpegang teguhlah pada Sunnah itu dan gigitlah itu erat-erat dengan gigi geraham. Jauhilah perkara yang diada-adakan karena setiap perkara yang diada-adakan adalah bid’ah dan setiap bid‘ah adalah kesesatan.</i><br>
 (<b>HR Ahmad, Abu Dawud, at-Tirmidzi dan Ibn Majah</b>)
 </p>
@@ -85,7 +85,7 @@ Imam al-Mawardi asy-Syafii mengatakan:
 اَلإِمَامَةُ مَوْضُوَعَةٌ لِخِلاَفَةِ النُّبُوَّةِ فِي حَرَاسَةِ الدِّيْنِ وَ سِيَاسَةِ الدُّنْيَا بِهِ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Imamah itu menduduki posisi Khilafah Nubuwwah dalam memelihara agama (Islam) dan pengaturan urusan dunia dengan agama.</i><br>
 (<b>Islam</b>)
 </p>
@@ -96,7 +96,7 @@ Imam an-Nawawi asy-Syafii juga berpendapat:
 اَلْفَصْلُ الثَّانِي فِيْ وُجُوْبِ اْلإِمَامَةِ وَ بَيَانِ طُرُقِهَا: لاَ بُدَّ لِلْأُمَّةِ مِنْ إِمَامٍ يُقِيْمُ الدِّيْنَ وَ يَنْصُرُ السُّنَّةَ وَ يَنْتَصِفُ لِلْمَظْلُوْمِيْنَ وَ يَسْتَوْفِي اْلحُقُوْقَ وَ يَضَعُهَا مَوَاضِعَهَا. قُلْتُ تَوْلِي اْلإِمَامَةِ فَرْضُ كِفَايَةٍ …
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Pasal kedua tentang kewajiban adanya Imamah dan penjelasan mengenai metode (untuk mewujudkan)-nya: Umat Islam harus memiliki seorang imam yang bertugas menegakkan agama, menolong Sunnah, membela orang yang dizalimi serta menunaikan hak dan menempatkan hak itu pada tempatnya. Saya mennyatakan bahwa menegakkan Imamah (Khilafah) itu adalah fardhu kifayah.</i>
 </p>
 

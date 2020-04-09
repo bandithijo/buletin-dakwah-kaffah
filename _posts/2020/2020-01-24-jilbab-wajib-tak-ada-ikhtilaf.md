@@ -22,7 +22,7 @@ Kewajiban menutup aurat dan tidak melihat aurat orang lain diperintahkan Nabi sa
 لاَ يَنْظُرُ الرَّجُلُ إِلَى عَوْرَةِ الرَّجُلِ وَلاَ الْمَرْأَةُ إِلَى عَوْرَةِ الْمَرْأَةِ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Janganlah seorang laki-laki melihat aurat laki-laki lainnya. Jangan pula seorang wanita melihat aurat wanita lainnya.</i><br>
 (<b>HR Muslim</b>)
 </p>
@@ -33,7 +33,7 @@ Batasan aurat wanita didasarkan pada firman Allah SWT berikut:
 وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا…
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Katakanlah kepada wanita yang beriman, “Hendaklah mereka menahan pandangan mereka dan menjaga kemaluan mereka. Janganlah mereka menampakkan perhiasan mereka kecuali yang (biasa) tampak pada diri mereka…</i><br>
 (<b>TQS an-Nur [24]: 31</b>)
 </p>
@@ -48,7 +48,7 @@ Batasan aurat wanita juga didasarkan pada hadis Nabi saw. dari ‘Aisyah ra. bah
 يَا أَسْمَاءُ إِنَّ الْمَرْأَةَ إِذَا بَلَغَتِ الْمَحِيضَ لَمْ تَصْلُحْ أَنْ يُرَى مِنْهَا إِلَّا هَذَا وَهَذَا وَأَشَارَ إِلَى وَجْهِهِ وَكَفَّيْهِ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>“Asma’, sungguh seorang wanita itu, jika sudah haidh (sudah balig), tidak boleh terlihat dari dirinya kecuali ini dan ini.” Beliau menunjuk wajah dan kedua telapak tangan beliau.</i><br>
 (<b>HR Abu Dawud</b>)
 </p>
@@ -65,7 +65,7 @@ Di dalam buku tersebut pada juz kedua (halaman 8-9), yang berisi hasil keputusan
 يحرم خروجها لذلك بتلك الحالة على المعتمد والثاني يجوز خروجها لأجل المعاملة مكشوفة الوجه والكفين إلى الكوعين. وعند الحنفية يجوز ذلك بل مع كشف الرجلين إلى الكوعين إذا أمنت الفتنة.
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Haram wanita keluar untuk tujuan demikian menurut pendapat yang mu’tamad. Menurut pendapat lain boleh wanita keluar untuk jual-beli dengan wajah dan kedua telapak tangannya terbuka. Menurut Mazhab Hanafi, yang demikian boleh bahkan dengan terbuka kakinya (sampai mata kaki, ed.) jika tidak ada fitnah.</i>
 </p>
 
@@ -75,7 +75,7 @@ Kemudian dalam fatwa tersebut dinukil keterangan dari kitab Maraqhil-Falah Syarh
 (وَجَمِيْعُ بَدَنِ الْحُرَّةِ عَوْرَةٌ إِلاَّ وَجْهَهَا وَكَفَّيْهَا) بَاطِنَهُمَا وَظَاهِرَهُمَا فِي اْلأَصَحِّ وَهُوَ الْمُخْتَارُ. وَذِرَاعُ الْحُرَّةِ عَوْرَةٌ فِيْ ظَاهِرِ الرِّوَايَةِ وَهُوَ اْلأَصَحُّ…
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Menurut pendapat yang paling sahih dan terpilih, seluruh anggota badan wanita merdeka itu aurat, kecuali wajahnya dan kedua telapak tangannya, baik bagian dalam ataupun luarnya. Demikian pula lengannya, termasuk aurat. Ini adalah pendapat yang paling sahih…</i><br>
 (<b>Hasan asy-Syaranbilali al-Hanafi, Maraq al-Falah Syarah Nur al-Idhah. Mesir: Musthafa al-Halabi, 1366 H/1947), hlm. 45</b>)
 </p>
@@ -86,7 +86,7 @@ Juga dinukil keterangan dari Kitab Bajuri Hasyiah Fathul Qarib antara lain sebag
 …وَشَمِلَ ذَلِكَ وَجْهَهَا وَكَفَّيْهَا فَيَحْرُمُ النَّظَرُ إِلَيْهِمَا وَلَوْ مِنْ غَيْرِ شَهْوَةٍ أَوْ خَوْفِ فِتْنَةٍ عَلَى الصَّحِيْحِ كَمَا فِي الْمِنْهَاجِ وَغَيْرِهِ إِلَى أَنْ قَالَ وَقِيْلَ لاَ يَحْرُمُ…وَالْمُعْتَمَدُ اْلأَوَّلُ، وَلاَ بَأْسَ بِتَقْلِيْدِ الثَّانِي…
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>…Ungkapan tersebut mencakup wajah dan kedua telapak tangannya. Karena itu haram melihat keduanya walaupun tanpa syahwat atau khawatir timbulnya fitnah, menurut pendapat al-sahih seperti yang tertera dalam kitab Al-Minhaj dan lainnya. Pendapat lain menyatakan tidak haram…Pendapat pertama (haram) adalah pendapat yang mu’tamad, tetapi tidak apa-apa (boleh) mengikuti pendapat kedua (tidak haram)…</i><br>
 (<b>Ibrahim al-Bajuri, Hasyiyah al-Bajuri. Singapura: Sulaiman Mar’i, t. th., II/97</b>)
 </p>
@@ -105,7 +105,7 @@ Adapun kewajiban berjilbab bagi Muslimah ditetapkan berdasarkan firman Allah SWT
 يَا أَيُّهَا النَّبِيُّ قُلْ لِأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاءِ الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِنْ جَلَابِيبِهِنَّ…
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Hai Nabi, katakanlah kepada istri-istrimu, anak-anak perempuanmu dan istri-istri kaum Mukmin, “Hendaklah mereka mengulurkan jilbab mereka ke seluruh tubuh mereka…”.</i><br>
 (<b>TQS al-Ahzab [33]: 59</b>)
 </p>

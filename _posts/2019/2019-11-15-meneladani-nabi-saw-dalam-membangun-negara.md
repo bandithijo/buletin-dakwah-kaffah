@@ -24,7 +24,7 @@ Ada sebab kuat mengapa Allah SWT. mengutus Rasulullah saw. Di antaranya adalah u
 لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ اْلآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Sungguh telah ada pada diri Rasulullah itu suri teladan yang baik bagi kalian, yaitu bagi siapa saja yang mengharap (rahmat) Allah dan (kedatangan) Hari Akhir dan dia banyak mengingat Allah.</i><br>
 (<b>TQS al-Ahzab [33]: 21</b>)
 </p>
@@ -57,7 +57,7 @@ Ada sejumlah kunci kesuksesan Nabi Muhammad saw. sebagai seorang kepala negara d
 لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ اْلآخِرَ وَذَكَرَ اللَّهَ كَثِيرًاسَيِّدُ الْقَوْمِ خَادِمُهُمْ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Pemimpin suatu kaum adalah pelayan mereka.</i><br>
 (<b>HR Ibnu Majah</b>)
 </p>
@@ -74,7 +74,7 @@ Rasulullah saw. juga menegur sebagian orang yang membujuk beliau agar tidak menj
 لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ اْلآخِرَ وَذَكَرَ اللَّهَ كَثِيرًاإِنَّمَا أَهْلَكَ الَّذِينَ قَبْلَكُمْ أَنَّهُمْ كَانُوا إِذَا سَرَقَ فِيهِمُ الشَّرِيفُ تَرَكُوهُ، وَإِذَا سَرَقَ فِيهِمُ الضَّعِيفُ أَقَامُوا عَلَيْهِ الْحَدَّ، وَايْمُ اللَّهِ، لَوْ أَنَّ فَاطِمَةَ ابْنَةَ مُحَمَّدٍ سَرَقَتْ لَقَطَعْتُ يَدَهَا
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Sungguh orang-orang sebelum kalian hancur lantaran jika ada bangsawan mencuri, dibiarkan, sementara jika ada kaum lemah mencuri, dihukum. Demi Allah, andai Fathimah putri Muhammad mencuri, pasti aku potong tangannya.</i><br>
 (<b>HR al-Bukhari</b>)
 </p>
@@ -87,7 +87,7 @@ Jelas, umat wajib mengikuti dan meneladani Rasulullah saw. secara kaffah. Tidak 
 لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ اْلآخِرَ وَذَكَرَ اللَّهَ كَثِيرًاوَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Apa saja yang Rasul berikan kepada kalian, terimalah. Apa saja yang dia larang atas kalian, tinggalkanlah. Bertakwalah kalian kepada Allah. Sungguh Allah amat keras hukuman-Nya.</i><br>
 (<b>TQS al-Hasyr [59]: 7</b>)
 </p>

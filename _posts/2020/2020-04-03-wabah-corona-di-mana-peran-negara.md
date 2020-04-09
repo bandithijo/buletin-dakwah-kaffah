@@ -50,7 +50,7 @@ Wabah Covid-19 ini makin menyadarkan kita bahwa kita butuh pemimpin Muslim yang 
 فَالأَمِيرُ الَّذِى عَلَى النَّاسِ رَاعٍ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ
 </div>
 
-<div class="text-right">
+<div class="text-right-arti">
 <i>Pemimpin masyarakat adalah pemelihara dan dia bertanggung jawab atas urusan rakyatnya</i><br>
 (<b>HR al-Bukhari dan Muslim</b>).
 </div>
@@ -61,7 +61,7 @@ Karena itu, dalam Negara Islam, Pemerintah akan selalu terikat dengan tuntunan s
 إِذَا سَمِعْتُمْ بِالطَّاعُونِ بِأَرْضٍ فَلاَ تَدْخُلُوهَا، وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلاَ تَخْرُجُوا مِنْهَا
 </div>
 
-<div class="text-right">
+<div class="text-right-arti">
 <i>Jika kalian mendengar wabah di suatu wilayah, janganlah kalian memasukinya. Jika wabah terjadi di tempat kalian berada, jangan kalian tinggalkan tempat itu</i><br>
 (<b>HR al-Bukhari</b>).
 </div>
@@ -72,7 +72,7 @@ Rasul saw. pun bersabda:
 الطَّاعُونُ رِجْزٌ أَوْ عَذَابٌ أُرْسِلَ عَلَى بَنِي إِسْرَائِيلَ أَوْ عَلَى مَنْ كَانَ قَبْلَكُمْ فَإِذَا سَمِعْتُمْ بِهِ بِأَرْضٍ فَلَا تَقْدَمُوا عَلَيْهِ وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلَا تَخْرُجُوا فِرَاراً مِنْهُ
 </div>
 
-<div class="text-right">
+<div class="text-right-arti">
 <i>Tha’un itu azab yang dikirimkan Allah kepada Bani Israel atau orang sebelum kalian. Jika kalian mendengar Tha’un menimpa suatu negeri, janganlah kalian mendatanginya. Jika Tha’un itu terjadi di negeri dan kalian ada di situ, janganlah kalian keluar lari darinya</i><br>
 (<b>HR al-Bukhari</b>).
 </div>

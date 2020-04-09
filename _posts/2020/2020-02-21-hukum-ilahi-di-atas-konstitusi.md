@@ -16,7 +16,7 @@ Allah SWT berfirman:
 ثُمَّ جَعَلْنَاكَ عَلَىٰ شَرِيعَةٍ مِنَ الْأَمْرِ فَاتَّبِعْهَا وَلَا تَتَّبِعْ أَهْوَاءَ الَّذِينَ لَا يَعْلَمُونَ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Kemudian Kami menjadikan kamu berada di atas syariah (peraturan) dari urusan (agama) itu. Karena itu ikutilah syariah itu dan jangan kamu mengikuti hawa nafsu orang-orang yang tidak mengetahui.</i><br>
 (<b>TQS al-Jatsiyah [45]: 18</b>)
 </p>
@@ -31,7 +31,7 @@ Risiko dari ketidaktaatan seorang Muslim pada aturan-aturan Kitab Sucinya adalah
 وَمَنْ لَّمْ يَحْكُمْ بِمَآ اَنْزَلَ اللّٰهُ فَاُولٰۤىِٕكَ هُمُ الظّٰلِمُوْنَ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Siapa saja yang tidak berhukum dengan apa saja yang telah Allah turunkan, mereka itulah kaum yang zalim.</i><br>
 (<b>TQS al-Maidah [5]: 45</b>)
 </p>
@@ -42,7 +42,7 @@ Allah SWT pun tegas berfirman:
 وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَئِكَ هُمُ الْكَافِرُونَ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Siapa saja yang tidak berhukum dengan apa saja yang telah Allah turunkan, mereka itulah kaum yang kafir.</i><br>
 (<b>TQS al-Maidah [5]: 44</b>)
 </p>
@@ -63,7 +63,7 @@ Padahal Allah SWT tegas berfirman:
 فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّى يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمًا
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Demi Tuhanmu, sekali-kali mereka tidaklah beriman hingga mereka menjadikan kamu (Muhammad) sebagai hakim (pemutus perkara) dalam segala permasalahan yang mereka perselisihkan, kemudian mereka tidak merasa sempit di dalam diri mereka, dan mereka pun pasrah dengan sepenuhnya, atas apa saja yang kamu putuskan.</i><br>
 (<b>TQS an-Nisa’ [4]: 65</b>).
 </p>
@@ -82,7 +82,7 @@ Padahal meyakini keesaan Allah SWT juga berlaku dalam penetapan hukum (tasyri’
 إِنِ الْحُكْمُ إِلا لِلَّهِ يَقُصُّ الْحَقَّ وَهُوَ خَيْرُ الْفَاصِلِينَ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Menetapkan hukum itu hanyalah hak Allah. Dia menerangkan yang sebenarnya dan Dia adalah Pemberi keputusan yang paling baik.</i><br>
 (<b>TQS al-An’am [6]: 57</b>)
 </p>
@@ -93,7 +93,7 @@ Keyakinan bahwa Allah SWT adalah satunya-satunya Zat Yang berhak membuat hukum t
 أَلا لَهُ الْخَلْقُ وَالأمْرُ تَبَارَكَ اللَّهُ رَبُّ الْعَالَمِينَ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Ingatlah, hanya pada Allahlah hak mencipta dan memerintah. Mahasuci Allah, Tuhan alam semesta.</i><br>
 (<b>TQS al-A’raf [7]: 54</b>).
 </p>
@@ -104,7 +104,7 @@ Allah SWT pun menegaskan bahwa siapa saja yang merampas hak tasyri’—yaitu ha
 أَمْ لَهُمْ شُرَكَاءُ شَرَعُوا لَهُمْ مِنَ الدِّينِ مَا لَمْ يَأْذَنْ بِهِ اللَّهُ وَلَوْلا كَلِمَةُ الْفَصْلِ لَقُضِيَ بَيْنَهُمْ وَإِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Apakah mereka mempunyai sekutu (sembahan-sembahan selain Allah) yang mensyariatkan untuk mereka agama yang tidak Allah izinkan? Sekiranya tak ada ketetapan yang menentukan (dari Allah), tentu mereka telah dibinasakan. Sungguh kaum yang zalim itu akan memperoleh azab yang amat pedih.</i><br>
 (<b>TQS asy-Syura [42]: 21</b>)
 </p>
@@ -123,7 +123,7 @@ Kaum Yahudi diberi kitab oleh Allah SWT. Akan tetapi, mereka berpaling dari kita
 أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِنَ الْكِتَابِ يُدْعَوْنَ إِلَىٰ كِتَابِ اللَّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِنْهُمْ وَهُمْ مُعْرِضُونَ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Tidakkah kamu memperhatikan orang-orang yang telah diberi bagian, yaitu al-Kitab (Taurat)? Mereka diseru pada Kitab Allah supaya kitab itu menetapkan hukum di antara mereka. Kemudian sebagian dari mereka berpaling dan selalu membelakangi (kebenaran).</i><br>
 (<b>TQS Ali Imran [3]: 23</b>)
 </p>

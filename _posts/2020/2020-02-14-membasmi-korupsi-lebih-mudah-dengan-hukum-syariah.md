@@ -42,7 +42,7 @@ Pertama: Islam telah mengharamkan segala bentuk suap (risywah) untuk tujuan apap
 لَعَنَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الرَّاشِي وَالْمُرْتَشِي
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Rasulullah ﷺ , telah melaknat penyuap dan penerima suap.</i><br>
 (<b>HR at-Tirmidzi dan Abu Dawud</b>)
 </p>
@@ -55,7 +55,7 @@ Kedua: Dalam Islam, pejabat negara juga dilarang menerima hadiah (gratifikasi). 
 مَنِ اسْتَعْمَلْنَاهُ عَلَى عَمَلٍ فَرَزَقْنَاهُ رِزْقًا فَمَا أَخَذَ بَعْدَ ذَلِكَ فَهُوَ غُلُولٌ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Siapa saja yang kami angkat sebagai pegawai atas suatu pekerjaan, kemudian kami beri dia upahnya, maka apa yang dia ambil selain itu adalah kecurangan.</i><br>
 (<b>HR Abu Dawud</b>)
 </p>
@@ -66,7 +66,7 @@ Dalam hadis lain beliau bersabda:
 هَدَايَا الأُمَرَاءِ غُلُولٌ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Hadiah yang diterima oleh penguasa adalah kecurangan.</i><br>
 (<b>HR al-Baihaqi</b>)
 </p>
@@ -91,7 +91,7 @@ Namun, dengan tegas Rasulullah mengatakan:
 كَلاَّ، وَالَّذِى نَفْسُ مُحَمَّدٍ بِيَدِهِ، إِنَّ الشَّمْلَةَ لَتَلْتَهِبُ عَلَيْهِ نَارًا أَخَذَهَا مِنَ الْغَنَائِمِ يَوْمَ خَيْبَرَ لَمْ تُصِبْهَا
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Sekali-kali tidak! Demi Zat Yang jiwa Muhammad berada di tangan-Nya, sungguh sehelai kain yang ia ambil dari rampasan perang yang belum dibagi pada Perang Khaibar akan menyalakan api padanya.</i><br>
 (<b>HR Muslim</b>)
 </p>

@@ -22,14 +22,14 @@ Sebaliknya, kita dilarang membenci *qadha*’ Allah SWT.  Rasul saw. bersabda:
 إِنَّ عِظَمَ الْجَزَاءِ مَعَ عِظَمِ الْبَلاَءِ وَإِنَّ اللَّهَ إِذَا أَحَبَّ قَوْمًا ابْتَلاَهُمْ فَمَنْ رَضِىَ فَلَهُ الرِّضَا وَمَنْ سَخِطَ فَلَهُ السَّخَطُ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Sungguh besarnya pahala itu seiring dengan besarnya ujian. Sungguh jika Allah mencintai suatu kaum, Dia menguji mereka. Siapa saja yang ridha, untuk dia keridhaan itu dan siapa yang benci, untuk dia kebencian itu</i><br>
 (<b>HR at-Tirmidzi, Ibnu Majah dan al-Baihaqi</b>).
 </p>
 
 Adanya balasan kemurkaan dari Allah SWT terhadap orang yang tidak menerima *qadha*’ merupakan indikasi yang tegas (*qarinah jazimah*). Dengan demikian tidak ridha atau membenci *qadha*’ adalah haram.
 
-Imam al-Qarafi menyatakan di dalam *Ad-Dakhîrah*, "*As-Sakhthu bi al-qadhâ` harâm[un] ijmâ’an* (membenci *qadha*’ adalah haram secara ijmak)."
+Imam al-Qarafi menyatakan di dalam *Ad-Dakhîrah*, "*As-Sakhthu bi al-qadhâ’ harâm[un] ijmâ’an* (membenci *qadha*’ adalah haram secara ijmak)."
 
 # Sabar, Banyak Berdoa, Berzikir dan *Taqarrub* kepada Allah SWT
 
@@ -53,7 +53,7 @@ Rasul saw. pun memberikan tuntunan:
 لاَ تُورِدُوا الْمُمْرِضَ عَلَى الْمُصِحِّ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Janganlah kalian mencampurkan orang yang sakit dengan yang sehat</i><br>
 (<b>HR al-Bukhari</b>).
 </p>
@@ -66,7 +66,7 @@ Rasul saw. juga bersabda:
 فِرَّ مِنَ الْمَجْذُومِ فِرَارَكَ مِنَ الأَسَدِ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Jauhilah penyakit kusta sebagaimana engkau lari dari kejaran singa</i><br>
 (<b>HR Ahmad</b>).
 </p>
@@ -83,7 +83,7 @@ Rasul saw. juga memberikan tuntunan:
 إِذَا سَمِعْتُمْ بِالطَّاعُونِ بِأَرْضٍ فَلاَ تَدْخُلُوهَا، وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلاَ تَخْرُجُوا مِنْهَا
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Jika kalian mendengar wabah di suatu wilayah, janganlah kalian memasukinya. Jika terjadi wabah di tempat kalian berada, janganlah keluar darinya</i><br>
 (<b>HR al-Bukhari</b>).
 </p>
@@ -96,7 +96,7 @@ Penduduk wilayah yang dilanda wabah bukan hanya diperintahkan untuk berdiam di n
 أَنَّهُ كَانَ عَذَابًا يَبْعَثُهُ اللهُ عَزَّ وَجَلَّ عَلَى مَنْ يَشَاءُ، فَجَعَلَهُ اللهُ عَزَّ وَجَلَّ رَحْمَةً لِلْمُؤْمِنِينَ، فَلَيْسَ مِنْ عَبْدٍ يَقَعُ الطَّاعُونُ، فَيَمْكُثُ فِي بَلَدِهِ -في رواية أخرى لأحمد: فَيَمْكُثُ فِي بَيْتِهِ- صَابِرًا مُحْتَسِبًا، يَعْلَمُ أَنَّهُ لَمْ يُصِبْهُ إِلَّا مَا كَتَبَ اللهُ عَزَّ وَجَلَّ لَهُ، إِلَّا كَانَ لَهُ مِثْلُ أَجْرِ الشَّهِيدِ
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Tha’un itu merupakan azab yang Allah timpakan kepada siapa yang Dia kehendaki dan Allah jadikan sebagai rahmat untuk kaum Mukmin. Tidaklah seorang hamba, saat tha’un terjadi, berdiam di negerinya—dalam riwayat Imam Ahmad yang lain: lalu dia berdiam di rumahnya—seraya bersabar dan mengharap ridha Allah, dan dia menyadari bahwa tidak menimpa dirinya kecuali apa yang telah Allah tuliskan untuk dia, kecuali bagi dia pahala semisal pahala syahid</i><br>
 (<b>HR al-Bukhari dan Ahmad</b>).
 </p>
@@ -115,7 +115,7 @@ Rasul saw. bersabda:
 …فَالأَمِيرُ الَّذِى عَلَى النَّاسِ رَاعٍ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ…
 </p>
 
-<p class="text-right">
+<p class="text-right-arti">
 <i>Amir (pemimpin) masyarakat adalah pemelihara dan dia bertanggung jawab atas (urusan) rakyatnya</i><br>
 (<b>HR al-Bukhari, Muslim, Abu Dawud, at-Tirmidzi dan Ahmad</b>).
 </p>

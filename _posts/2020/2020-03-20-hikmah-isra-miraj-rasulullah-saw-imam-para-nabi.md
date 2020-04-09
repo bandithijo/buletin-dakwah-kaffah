@@ -14,14 +14,14 @@ Momen yang paling sering diingat kaum Muslim pada bulan Rajab adalah perjalanan 
 
 Isra’ dan Mi’raj mengajarkan kebesaran dan kekuasaan Allah SWT. Betapa dengan mudahnya Allah SWT memperjalankan hamba-Nya pada jarak yang begitu jauh, tetapi ditempuh dalam waktu amat singkat. Kemudian Allah SWT menunjukkan berbagai tanda-tanda kebesaran lainnya selama perjalanan Baginda Nabi saw. hingga pulang kembali ke Makkah.
 
-<div class="text-right-arabic">
+<p class="text-right-arabic">
 سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
-</div>
+</p>
 
-<div class="text-right">
+<p class="text-right-arti">
 <i>Mahasuci Allah Yang telah memperjalankan hamba-Nya pada suatu malam dari Masjid al-Haram ke Masjid al- Aqsha yang telah Kami berkahi sekelilingnya agar Kami memperlihatkan kepada dia sebagian dari tanda-tanda (kebesaran) Kami. Sungguh Dia Maha Mendengar lagi Maha Mengetahui</i><br>
 (<b>TQS Al-Isra’ [17]: 1</b>).
-</div>
+</p>
 
 # Imam Para Nabi
 
@@ -33,51 +33,51 @@ Keunggulan yang Allah SWT limpahkan kepada Rasulullah saw. dengan mengimami para
 
 Kepemimpinan Rasulullah saw. sebagai imam para nabi bukan sekadar dalam shalat pada saat Isra’ dan Mi’raj, tetapi berlangsung hingga Hari Akhir. Ketetapan ini disampaikan dalam firman Allah SWT:
 
-<div class="text-right-arabic">
+<p class="text-right-arabic">
 وَإِذْ أَخَذَ اللَّهُ مِيثَاقَ النَّبِيِّينَ لَمَا آتَيْتُكُمْ مِنْ كِتَابٍ وَحِكْمَةٍ ثُمَّ جَاءَكُمْ رَسُولٌ مُصَدِّقٌ لِمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهِ وَلَتَنْصُرُنَّهُ قَالَ أَأَقْرَرْتُمْ وَأَخَذْتُمْ عَلَى ذَلِكُمْ إِصْرِي قَالُوا أَقْرَرْنَا قَالَ فَاشْهَدُوا وَأَنَا مَعَكُمْ مِنَ الشَّاهِدِينَ
-</div>
+</p>
 
-<div class="text-right">
+<p class="text-right-arti">
 <i>(Ingatlah) ketika Allah mengambil perjanjian dari para nabi, “Sungguh, apa saja yang Aku berikan kepada kalian berupa kitab dan hikmah, kemudian datang kepada kalian seorang rasul yang membenarkan apa yang ada pada kalian, niscaya kalian akan sungguh-sungguh mengimani dan menolong dia.” Allah berfirman, “Apakah kalian mengakui dan menerima perjanjian-Ku atas yang demikian?” Mereka menjawab, “Kami mengakui.” Allah berfirman, “Kalau begitu, saksikanlah (hai para nabi) dan Aku menjadi saksi (pula) bersama kalian.”</i><br>
 (<b>TQS Ali Imran [3]: 81</b>).
-</div>
+</p>
 
 Imam as-Sa’di menjelaskan ayat di atas: “<i>Dengan demikian setiap nabi, andai bertemu dengan Nabi Muhammad saw., niscaya diwajibkan mengimani, mengikuti sekaligus menolong beliau. Beliau adalah imam mereka, yang membimbing mereka dan panutan mereka. Dengan demikian ayat yang mulia ini bagian dari keagungan petunjuk atas keluhuran martabat beliau, dan menunjukkan bahwa Rasulullah saw. adalah nabi yang paling utama serta pemimpin bagi mereka.</i>” (As-Sa’di, Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Manan, 1/136).
 
 Kabar ini pula yang disampaikan Rasulullah saw. kepada Umar bin al-Khaththab ra. pada saat beliau menegur Umar yang membawa lembaran-lembaran Taurat:
 
-<div class="text-right-arabic">
+<p class="text-right-arabic">
 لَقَدْ جِئْتُكُمْ بِهَا بَيْضَاءَ نَقِيَّةً، و َلَوْ كَانَ مُوسَى حَيًّا مَا وَسِعَهُ إِلا اتِّبَاعِي
-</div>
+</p>
 
-<div class="text-right">
+<p class="text-right-arti">
 <i>Sungguh aku datang kepada kalian membawa (wahyu) yang putih bersih. Andai Musa masih hidup, tidaklah ia melakukan apa-apa selain mengikutiku</i><br>
 (<b>HR Ahmad</b>).
-</div>
+</p>
 
 Karena itulah kelak pada Hari Akhir semua manusia akan berkumpul di bawah kepemimpinan Rasulullah saw., di bawah naungan Liwa al-Hamd. Rasulullah saw. bersabda:
 
-<div class="text-right-arabic">
+<p class="text-right-arabic">
 أَنَا سَيِّدُ وَلَدِ آَدَمَ يَوْمَ اْلقِيَامَةِ وَلاَ فَخْرَ، وَبِيَدِيْ لِوَاءُ اْلحَمْدِ وَلاَ فَخْرَ، وَ مَا مِنْ نَبِيٍّ يَوْمَئِذٍ آَدَمُ فَمَنْ سِوَاهُ إِلاَّ تَحْتَ لِوَاءِيْ
-</div>
+</p>
 
-<div class="text-right">
+<p class="text-right-arti">
 <i>Akulah pemimpin anak Adam pada Hari Kiamat dan bukannya sombong. Di tanganku Bendera al-Hamd dan bukannya sombong. Tidak ada seorang nabi pun, tidak pula Adam, juga yang lainnya ketika itu, kecuali semua di bawah benderaku</i><br>
 (<b>HR at-Tirmidzi</b>).
-</div>
+</p>
 
 Hadis ini menunjukkan keutamaan dan kekhususan Nabi Muhamad saw. atas semua manusia. Tentang hal ini Imam Ibnu Qudamah al-Maqdisi rahimahulLah berkata: “<i>Muhammad saw. adalah imam para nabi dan juru bicara mereka serta pemberi syafaat mereka. Umatnya adalah umat terbaik dan para sahabatnya adalah para sahabat terbaik para nabi.</i>” (Ibnu Qudamah, Lum’ah al-I’tiqad, 1/28).
 
 Dengan demikian setelah Nabi Muhammad saw. diutus membawa Islam, semua agama yang dibawa oleh para nabi dan rasul sebelumnya telah gugur masa berlakunya, terhapus ajarannya, dan semua umat manusia wajib memeluk Islam dan menjalankan syariah beliau. Rasulullah saw. bersabda:
 
-<div class="text-right-arabic">
+<p class="text-right-arabic">
 وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ، لَا يَسْمَعُ بِي أَحَدٌ مِنْ هَذِهِ الْأُمَّةِ يَهُودِيٌّ، وَلَا نَصْرَانِيٌّ، ثُمَّ يَمُوتُ وَلَمْ يُؤْمِنْ بِالَّذِي أُرْسِلْتُ بِهِ، إِلَّا كَانَ مِنْ أَصْحَابِ النَّارِ
-</div>
+</p>
 
-<div class="text-right">
+<p class="text-right-arti">
 <i>Demi Zat Yang jiwa Muhammad berada di tangan-Nya, tidaklah seseorang dari umat ini, baik Yahudi maupun Nasrani, mendengar tentangku, kemudian dia meninggal dan tidak mengimani agama yang aku bawa, kecuali dia pasti termasuk penghuni neraka</i><br>
 (<b>HR Muslim</b>).
-</div>
+</p>
 
 # Kewajiban Memimpin Dunia
 
@@ -87,14 +87,14 @@ Sayang, realita hari ini menunjukkan bahwa umat Muslim justru dipimpin oleh sist
 
 Oleh karena itu ada beberapa hal yang wajib dilakukan: *Pertama*, kaum Muslim wajib meneguhkan keimanan mereka bahwa hanya Islam sebagai sebagai satu-satu agama yang agung dan mengalahkan semua agama serta ajaran yang lain. Tak ada yang lebih tinggi dibandingkan Islam.
 
-<div class="text-right-arabic">
+<p class="text-right-arabic">
 اْلإِسْلاَمُ يَعْلُوْ وَلاَ يُعْلَى عليه
-</div>
+</p>
 
-<div class="text-right">
+<p class="text-right-arti">
 <i>Islam itu tinggi dan tidak ada yang mengalahkan ketinggiannya</i><br>
 (<b>HR ad-Daruquthni</b>).
-</div>
+</p>
 
 *Kedua*, kaum Muslim wajib mengikatkan diri dengan syariah Islam dan tidak melepaskan ketaatan sejengkal pun dari agama Allah ini. Sungguh kemunduran umat hari ini diakibatkan mereka melepaskan diri dari simpul Islam.
 
