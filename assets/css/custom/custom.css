@@ -127,20 +127,6 @@ h5.card-title {
   min-height: 100vh;
 }
 
-/* For card box color */
-.card.card-post {
-  border: 1px solid #646464 !important;
-}
-
-.card-post .card-header {
-  background-color: #646464 !important;
-  color: #ffffff;
-}
-
-.card-post .card-body {
-  background-color: #E4E4E4 !important;
-}
-
 .content-wrap {
   padding-bottom: 2.5rem;    /* Footer height */
 }
