@@ -14,7 +14,7 @@ Peristiwa Isra’ Mi’raj menjadi salah satu peristiwa penting dalam perjalanan
 
 # Pengertian Isra’ dan Mi’raj
 
-*Isra*` secara bahasa berasal dari kata ‘*sara*’. Maknanya, perjalanan pada malam hari. Adapun secara istilah, *Isra*` adalah perjalanan Rasulullah saw. bersama Malaikat Jibril dari Makkah ke Baitul Maqdis (Palestina). Ini berdasarkan firman Allah SWT:
+*Isra*’ secara bahasa berasal dari kata ‘*sara*’. Maknanya, perjalanan pada malam hari. Adapun secara istilah, *Isra*’ adalah perjalanan Rasulullah saw. bersama Malaikat Jibril dari Makkah ke Baitul Maqdis (Palestina). Ini berdasarkan firman Allah SWT:
 
 <div class="text-right-arabic">
 سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلاً مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الأَقْصَى
