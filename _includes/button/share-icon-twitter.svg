@@ -1,1 +1,53 @@
-<svg width="1792" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1408 610q-56 25-121 34 68-40 93-117-65 38-134 51-61-66-153-66-87 0-148.5 61.5t-61.5 148.5q0 29 5 48-129-7-242-65t-192-155q-29 50-29 106 0 114 91 175-47-1-100-26v2q0 75 50 133.5t123 72.5q-29 8-51 8-13 0-39-4 21 63 74.5 104t121.5 42q-116 90-261 90-26 0-50-3 148 94 322 94 112 0 210-35.5t168-95 120.5-137 75-162 24.5-168.5q0-18-1-27 63-45 105-109zm256-194v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50"
+   height="50"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="share-icon-twitter.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.54"
+     inkscape:cx="25"
+     inkscape:cy="25"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 41.66667,15.6901 q -1.82292,0.81381 -3.93881,1.10677 2.21355,-1.30208 3.02735,-3.80859 -2.11589,1.23698 -4.36198,1.66016 Q 34.40755,12.5 31.41276,12.5 q -2.83203,0 -4.83398,2.00195 -2.00196,2.00196 -2.00196,4.83399 0,0.94401 0.16276,1.5625 -4.19922,-0.22787 -7.8776,-2.11589 -3.67839,-1.88802 -6.25,-5.04557 -0.94401,1.6276 -0.94401,3.45052 0,3.71094 2.96224,5.69661 -1.52995,-0.0326 -3.25521,-0.84635 v 0.0651 q 0,2.44141 1.6276,4.34571 1.62761,1.904295 4.00391,2.360024 -0.94401,0.260416 -1.66016,0.260416 -0.42317,0 -1.26953,-0.130208 0.6836,2.050781 2.42513,3.385417 1.74154,1.334635 3.95508,1.367187 -3.77604,2.929688 -8.49609,2.929688 -0.84636,0 -1.62761,-0.09766 4.81771,3.059895 10.48177,3.059895 3.64584,0 6.83594,-1.155599 3.19011,-1.155599 5.46875,-3.092448 2.27865,-1.936848 3.92253,-4.459635 1.64388,-2.522786 2.4414,-5.273437 0.79753,-2.75065 0.79753,-5.48502 0,-0.58594 -0.0325,-0.87891 2.05078,-1.46484 3.41797,-3.54818 z M 50,9.375 v 31.25 q 0,3.873698 -2.75065,6.624349 Q 44.4987,50 40.625,50 H 9.375 Q 5.5013,50 2.75065,47.249349 0,44.498698 0,40.625 V 9.375 Q 0,5.5013 2.75065,2.75065 5.5013,0 9.375,0 h 31.25 Q 44.4987,0 47.24935,2.75065 50,5.5013 50,9.375 Z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="stroke-width:0.03255208" />
+</svg>

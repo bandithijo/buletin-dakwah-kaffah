@@ -1,27 +1,27 @@
-#share {
-    margin: 50px 0;
+.share {
+  margin: 0;
 
-    h2 {
-        font-size: 1.2em;
-    }
+  h2 {
+    font-size: 1.2em;
+  }
 
-    ul {
-        list-style: none;
+  ul {
+    list-style: none;
 
-        li {
-            display: inline;
+    li {
+      display: inline;
 
-            a {
-                &:hover {
-                    text-decoration: none;
-                }
-
-                svg {
-                    width: 50px;
-                    height: 50px;
-                    fill: #333;
-                }
-            }
+      a {
+        &:hover {
+          text-decoration: none;
         }
+
+        svg {
+          width: 40px;
+          height: 40px;
+          fill: #333;
+        }
+      }
     }
+  }
 }

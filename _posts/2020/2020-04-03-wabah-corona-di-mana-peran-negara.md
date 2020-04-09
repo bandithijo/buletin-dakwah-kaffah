@@ -95,7 +95,7 @@ Lebih dari itu, inilah saatnya kita dan seluruh rakyat menyadari kebobrokan sist
 
 
 <!-- HIKMAH -->
-<div class="card mt-5">
+<div class="card card-post mt-5">
   <div class="card-header">
   <h1>Hikmah:</h1>
   </div>
