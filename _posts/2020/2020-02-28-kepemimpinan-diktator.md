@@ -4,8 +4,8 @@ title: "Kepemimpinan Diktator"
 date: 2020-02-28
 datem: "28 Februari 2020"
 dateh: "5 Rajab 1441"
-edisi: "131"
-pdf: "http://bit.ly/kaffah131"
+edisi: "130"
+pdf: "http://bit.ly/kaffah130"
 permalink: '/buletin/:title'
 categories: buletin
 ---
