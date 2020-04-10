@@ -101,7 +101,7 @@ Bagaimana menyikapi kepemimpin diktator (*al-mulk al-jabri*) yang mencengkeram d
   </p>
 
   <p class="text-center">
-  <i>Tidak ada ketaan kepada makhluk dalam kemaksiatan kepada Allah ‘Azza wa Jalla.</i><br>
+  <i>Tidak ada ketaatan kepada makhluk dalam kemaksiatan kepada Allah ‘Azza wa Jalla.</i><br>
   (<b>HR Ahmad</b>) []
   </p>
   </div>
