@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wabah Corona, Di Mana Peran Negara?"
+title: "Wabah Corona, di Mana Peran Negara?"
 date: 2020-04-03
 datem: "3 April 2020"
 dateh: "9 Sya'ban 1441"

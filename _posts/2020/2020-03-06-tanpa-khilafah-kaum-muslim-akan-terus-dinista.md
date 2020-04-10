@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tanpa Khilafah, Kaum Muslim akan Terus Dinista!"
+title: "Tanpa Khilafah, Kaum Muslim Akan Terus Dinista!"
 date: 2020-03-06
 datem: "6 Maret 2020"
 dateh: "12 Rajab 1441"
