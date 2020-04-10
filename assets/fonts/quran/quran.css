@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'lpmq';
+  src: url('/assets/fonts/quran/lpmq.otf') format('otf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'me_quran';
+  src: url('/assets/fonts/quran/me_quran.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}

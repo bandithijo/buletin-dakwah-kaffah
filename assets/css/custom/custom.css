@@ -1,7 +1,8 @@
 /* For body text */
 .text-right-arabic {
   text-align: right;
-  font-size: 1.5rem !important;
+  font-size: 2.0rem !important;
+  font-family: 'lpmq';
 }
 
 .text-right-arti {
@@ -10,7 +11,8 @@
 
 .text-center-arabic {
   text-align: center;
-  font-size: 1.5rem !important;
+  font-size: 2.0rem !important;
+  font-family: 'lpmq';
 }
 
 .tanggal ul {
