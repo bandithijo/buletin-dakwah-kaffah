@@ -91,12 +91,15 @@ a.card-url:hover {
 /* For headings */
 .isi h1 {
   font-size: 1.8rem !important;
+  text-align: left;
 }
 .isi h2 {
   font-size: 1.4rem !important;
+  text-align: left;
 }
 .isi h3 {
   font-size: 1.0rem !important;
+  text-align: left;
 }
 
 .card-header h1 {
