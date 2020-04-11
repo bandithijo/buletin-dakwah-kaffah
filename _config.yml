@@ -29,8 +29,8 @@ twitter_username: "bulletinkaffah"
 locale: "id"
 logo_author: "/assets/images/icons/logo-kaffah-square.png"
 image:
-  width: 1000
-  height: 1000
+  width: 768
+  height: 768
 
 # Google Analytics
 google_analytics: UA-116004889-3

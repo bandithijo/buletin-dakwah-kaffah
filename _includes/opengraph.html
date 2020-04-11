@@ -12,4 +12,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:locale" content="{{ site.locale }}">
 <meta property="og:country-name" content="Indonesia"/>
+<meta name="twitter:text:title" content="{% if page.title and page.edisi %}Edisi {{ page.edisi }} - {{ page.title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta name="twitter:image" content="{% if page.edisi %}/assets/images/cover/{{ page.edisi }}.jpg{% else %}{{ site.logo_author }}{% endif %}" />
+<meta name="twitter:card" content="summary_large_image" />
 <!-- End Jekyll SEO tag -->
