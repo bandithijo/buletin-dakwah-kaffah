@@ -151,3 +151,9 @@ h5.card-title {
 .footer-bg {
   background-color: #F57215;
 }
+
+.footer-text,
+.footer-text:hover {
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
