@@ -10,7 +10,7 @@
     {{ site.title | escape }}
   {% endif %}
 </title>
-<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
 <link rel="stylesheet" href="/assets/css/main.css">
 {% if jekyll.environment == "production" %}
   {% include analytics.html %}

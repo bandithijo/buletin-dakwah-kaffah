@@ -2,12 +2,12 @@
 <!-- Begin Jekyll SEO tag -->
 <meta name="generator" content="Jekyll v4.0.0" />
 <meta property="og:title" content="{% if page.title and page.edisi %}Edisi {{ page.edisi }} - {{ page.title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}" />
 <link rel="canonical" href="{% if page.title %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}" />
 <meta property="og:url" content="{% if page.title %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}" />
 <meta property="og:image" content="{% if page.edisi %}/assets/images/cover/{{ page.edisi }}.jpg{% else %}{{ site.logo_author }}{% endif %}"/>
-{% comment %} <meta property="og:image:width" content="{% if page.edisi %}{{ site.image.width }}{% else %}200{% endif %}"/> {% endcomment %}
-{% comment %} <meta property="og:image:height" content="{% if page.edisi %}{{ site.image.height }}{% else %}200{% endif %}"/> {% endcomment %}
+<meta property="og:image:width" content="{% if page.edisi %}{{ site.image.width }}{% else %}200{% endif %}"/>
+<meta property="og:image:height" content="{% if page.edisi %}{{ site.image.height }}{% else %}200{% endif %}"/>
 <meta property="og:site_name" content="{{ site.title }}" />
 <meta property="og:type" content="article" />
 <meta property="og:locale" content="{{ site.locale }}">
