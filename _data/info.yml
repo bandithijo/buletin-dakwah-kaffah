@@ -1,0 +1,11 @@
+# state:
+# - primary => orange
+# - success => green
+# - danger  => red
+# - warning => yellow
+# - info    => blue
+
+state: warning
+title: Informasi!
+description: >-
+  Website ini bukan merupakan Web Portal resmi dari Buletin Dakwah Kaffah. Mohon doanya karena saat ini, kami sedang berupaya meminta izin kepada pihak Buletin Dakwah Kaffah untuk dapat tayang secara resmi.
