@@ -10,7 +10,7 @@ layout: default
       <div class="col-sm-12 col-md-6 col-lg-3 my-3 d-flex justify-content-center">
         <div class="card" style="width: 20rem;">
           <a class="card-url" href="{{ post.url }}">
-            <img class="card-img-top" src="/assets/images/cover/{{ post.edisi }}.jpg" alt="cover">
+            <img class="card-img-top" src="{{ site.lazyload.image_blank }}" data-echo="/assets/images/cover/{{ post.edisi }}.jpg" alt="cover" onerror="imgError(this);">
             {% if new_post.title == post.title %}
               <span class="card-img-top-badge badge badge-primary text-white">BARU</span>
             {% endif %}

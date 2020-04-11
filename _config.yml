@@ -36,6 +36,7 @@ google_analytics: UA-116004889-3
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 sass:
   sass_dir: assets/css
@@ -46,6 +47,11 @@ navigation:
     url: "/buletin/"
   - title: "Hubungi Kami"
     url: "/hubungi-kami/"
+
+# LazyLoad
+lazyload:
+  image_blank: "/assets/images/icons/logo-kaffah-arabic.svg"
+  image_banner_blank: "/assets/images/icons/logo-kaffah-arabic-banner.svg"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

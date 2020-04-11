@@ -21,7 +21,7 @@ layout: default
   </div>
   <div class="isi">
     <div class="text-center mb-4 mb-md-5 d-flex flex-column justify-content-between">
-      <img src="/assets/images/cover/{{ page.edisi }}.jpg" class="rounded" style="height:25.5rem;min-width:100%;object-fit:cover;object-position:top;" alt="cover image">
+      <img src="{{ site.lazyload.image_banner_blank }}" data-echo="/assets/images/cover/{{ page.edisi }}.jpg" class="rounded" style="height:25.5rem;min-width:100%;object-fit:cover;object-position:top;" alt="cover image" onerror="imgBannerError(this);">
     </div>
     <div class="text-center mb-4 mb-md-4">
       <img src="/assets/images/icons/bismillah.svg" style="height:3.5rem;" alt="bismillah">
