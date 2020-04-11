@@ -12,6 +12,7 @@
 </title>
 <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
 <link rel="stylesheet" href="/assets/css/main.css">
+<meta name="theme-color" content="{{ site.theme-color }}">
 {% if jekyll.environment == "production" %}
   {% include analytics.html %}
   {% include opengraph.html %}

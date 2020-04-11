@@ -35,6 +35,9 @@ image:
 # Google Analytics
 google_analytics: UA-116004889-3
 
+# Theme color
+theme-color: "#F57215"
+
 # Build settings
 markdown: kramdown
 plugins:

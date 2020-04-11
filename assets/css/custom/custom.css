@@ -130,6 +130,11 @@ h5.card-title {
   right: 10px;
 }
 
+/* For navbar color in mobile */
+.navbar.bg-primary {
+  background-color: #F57215 !important;
+}
+
 /* For handle footer stay on bottom when content less than screen height */
 .page-container {
   position: relative;
