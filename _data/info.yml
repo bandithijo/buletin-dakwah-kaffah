@@ -7,5 +7,7 @@
 
 state: warning
 title: Informasi!
-description: >-
+description:
   Website ini bukan merupakan Web Portal resmi dari Buletin Dakwah Kaffah. Mohon doanya karena saat ini, kami sedang berupaya meminta izin kepada pihak Buletin Dakwah Kaffah untuk dapat tayang secara resmi.
+note:
+  Kunjungi pula web portal resmi dari Buletin Dakwah Kaffah, <a href="https://buletinkaffah2017.wordpress.com" target="_blank"><b>di sini</b></a>.
