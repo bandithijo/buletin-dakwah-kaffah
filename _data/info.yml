@@ -1,9 +1,17 @@
-# state:
+# kode warna state:
 # - primary => orange
 # - success => green
 # - danger  => red
 # - warning => yellow
 # - info    => blue
+
+# Template:
+# state: kode warna state
+# title: judul dari informasi
+# description:
+#   Penjelasan atau deskripsi dari informasi. Diakhiri dengan titik.
+# note:
+#   Catatan kaki atau footnote. Apabila tidak ada, dikosongin tidak mengapa.
 
 state: warning
 title: Informasi!
