@@ -59,6 +59,13 @@ lazyload:
   image_blank: "/assets/images/icons/logo-kaffah-arabic.svg"
   image_banner_blank: "/assets/images/icons/logo-kaffah-arabic-banner.svg"
 
+# Jekyll Admin
+jekyll_admin:
+  hidden_links:
+    - pages
+    - staticfiles
+    - configuration
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

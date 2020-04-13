@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Amanah Jabatan dan Kekuasaan "
+title: "Amanah Jabatan dan Kekuasaan"
 date: 2019-10-18
 datem: "18 Oktober 2019"
 dateh: "19 Shafar 1441"
 edisi: "111"
 pdf: "http://bit.ly/kaffah111"
-permalink: '/buletin/:title'
-categories: buletin
+permalink: "/buletin/:title"
+categories: "buletin"
 ---
 
 Harap-harap cemas. Itulah barangkali yang menggelayuti hati dan pikiran sebagian elit politik negeri ini menjelang pemerintahan baru. Sebagaimana diketahui, pelantikan presiden dan wakil presiden baru, sekaligus pembentukan kabinet baru, tinggal menghitung hari. Presiden dan wakil presiden terpilih hasil Pilpres beberapa waktu lalu—meski sempat dibayang-bayangi tudingan kecurangan brutal, massif dan terstruktur—tentu amat berharap pelantikan keduanya tidak menghadapi hambatan dan gangguan.
