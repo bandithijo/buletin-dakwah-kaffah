@@ -6,7 +6,7 @@ datem: "14 Februari 2020"
 dateh: "21 Jumada ats-Tsaniyah 1441"
 edisi: "128"
 pdf: "http://bit.ly/kaffah128"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 

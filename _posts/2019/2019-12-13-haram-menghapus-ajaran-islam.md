@@ -6,7 +6,7 @@ datem: "13 Desember 2019"
 dateh: "16 Rabiul Akhir 1441"
 edisi: "119"
 pdf: "http://bit.ly/kaffah119"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 

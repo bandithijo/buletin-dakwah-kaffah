@@ -6,7 +6,7 @@ datem: "10 Januari 2020"
 dateh: "14 Jumadul Awal 1441"
 edisi: "123"
 pdf: "http://bit.ly/kaffah123"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 

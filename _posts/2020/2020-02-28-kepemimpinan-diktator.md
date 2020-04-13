@@ -6,7 +6,7 @@ datem: "28 Februari 2020"
 dateh: "5 Rajab 1441"
 edisi: "130"
 pdf: "http://bit.ly/kaffah130"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 

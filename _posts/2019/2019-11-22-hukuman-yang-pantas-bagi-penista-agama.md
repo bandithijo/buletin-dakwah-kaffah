@@ -6,7 +6,7 @@ datem: "22 November 2019"
 dateh: "25 Rabiul Awal 1441"
 edisi: "116"
 pdf: "http://bit.ly/kaffah116"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 

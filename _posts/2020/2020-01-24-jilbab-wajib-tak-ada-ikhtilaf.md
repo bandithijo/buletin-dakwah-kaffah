@@ -6,7 +6,7 @@ datem: "24 Januari 2020"
 dateh: "28 Jumada al-Ula 1441"
 edisi: "125"
 pdf: "http://bit.ly/kaffah125"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 

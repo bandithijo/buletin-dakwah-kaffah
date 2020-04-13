@@ -6,7 +6,7 @@ datem: "10 April 2020"
 dateh: "16 Sya'ban 1441"
 edisi: "136"
 pdf: "http://bit.ly/kaffah136"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 

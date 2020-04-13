@@ -6,7 +6,7 @@ datem: "27 Maret 2020"
 dateh: "2 Sya'ban 1441"
 edisi: "134"
 pdf: "http://bit.ly/kaffah134"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 

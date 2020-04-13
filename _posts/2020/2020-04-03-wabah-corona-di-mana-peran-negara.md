@@ -6,7 +6,7 @@ datem: "3 April 2020"
 dateh: "9 Sya'ban 1441"
 edisi: "135"
 pdf: "http://bit.ly/kaffah135"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 

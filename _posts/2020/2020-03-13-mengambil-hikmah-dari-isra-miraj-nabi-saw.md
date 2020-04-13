@@ -6,7 +6,7 @@ datem: "13 Maret 2020"
 dateh: "20 Rajab 1441"
 edisi: "132"
 pdf: "http://bit.ly/kaffah132"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 

@@ -6,7 +6,7 @@ datem: "3 Januari 2020"
 dateh: "7 Jumadul Awal 1441"
 edisi: "122"
 pdf: "http://bit.ly/kaffah122"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 

@@ -6,7 +6,7 @@ datem: "6 Maret 2020"
 dateh: "12 Rajab 1441"
 edisi: "131"
 pdf: "http://bit.ly/kaffah131"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 

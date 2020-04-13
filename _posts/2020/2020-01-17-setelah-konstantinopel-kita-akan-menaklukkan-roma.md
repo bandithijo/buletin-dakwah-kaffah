@@ -6,7 +6,7 @@ datem: "17 Januari 2020"
 dateh: "21 Jumadul Awal 1441"
 edisi: "124"
 pdf: "http://bit.ly/kaffah124"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 

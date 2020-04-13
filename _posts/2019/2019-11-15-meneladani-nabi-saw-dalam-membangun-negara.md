@@ -6,7 +6,7 @@ datem: "15 November 2019"
 dateh: "18 Rabiul Awal 1441"
 edisi: "115"
 pdf: "http://bit.ly/kaffah115"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 

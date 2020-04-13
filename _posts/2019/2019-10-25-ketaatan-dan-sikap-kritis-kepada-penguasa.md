@@ -6,7 +6,7 @@ datem: "25 Oktober 2019"
 dateh: "26 Shafar 1441"
 edisi: "112"
 pdf: "http://bit.ly/kaffah112"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 

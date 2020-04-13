@@ -6,7 +6,7 @@ datem: "8 November 2019"
 dateh: "11 Rabiul Awal 1441"
 edisi: "114"
 pdf: "http://bit.ly/kaffah114"
-permalink: '/buletin/:title'
+permalink: "/buletin/:title"
 categories: buletin
 ---
 
