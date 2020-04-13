@@ -18,7 +18,7 @@ gem "jekyll",                                  "~> 4.0.0"
 group :jekyll_plugins do
   gem "jekyll-feed",                           "~> 0.13.0"
   gem "jekyll-sitemap",                        "~> 1.4.0"
-  gem "jekyll-admin",                          "~> 0.10.1"
+  #gem "jekyll-admin",                          "~> 0.10.1"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
