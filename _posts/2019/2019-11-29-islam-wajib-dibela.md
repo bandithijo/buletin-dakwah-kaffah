@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Tajassus Haram!"
-date: 2019-12-06
-datem: "6 Desember 2019"
-dateh: "9 Rabiul Akhir 1441"
-edisi: "118"
-pdf: "http://bit.ly/kaffah118"
+title: "Islam Wajib Dibela"
+date: 2019-11-29
+datem: "29 November 2019"
+dateh: "2 Rabiul Akhir 1441"
+edisi: "117"
+pdf: "http://bit.ly/kaffah117"
 permalink: "/buletin/:title"
 categories: buletin
 ---
@@ -114,16 +114,18 @@ Jadilah Anda polisi pelindung, pengayom dan pelayan rakyat, sebagaimana slogan y
 
   <div class="card-body">
   <p class="text-center">
-  Rasulullah ﷺ  bersabda:
+  Allah ﷻ  berfirman:
   </p>
 
   <p class="text-center-arabic">
-لَيَأْتِيَنَّ عَلَيْكُمْ أُمَرَاءُ يُقَرِّبُونَ شِرَارَ النَّاسِ، وَيُؤَخِّرُونَ الصَّلاةَ عَنْ مَوَاقِيتِهَا فَمَنْ أَدْرَكَ ذَلِكَ مِنْكُمْ فَلا يَكُونَنَّ عَرِيفًا، وَلا شُرْطِيًا، وَلا جَابِيًا، وَلا خَازِنًا.
+  وَمَنْ يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَنْ يُضْلِلْ فَلَنْ تَجِدَ لَهُمْ أَوْلِيَاءَ مِنْ دُونِهِ وَنَحْشُرُهُمْ يَوْمَ الْقِيَامَةِ عَلَى وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمًّا مَأْوَاهُمْ جَهَنَّمُ كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا
   </p>
 
   <p class="text-center">
-  <i>Sungguh akan pasti datang kapada kalian para pemimpin yang menjadikan manusia-manusia terjelek sebagai orang dekatnya dan mereka biasa mengakhirkan shalat dari waktu-waktunya. Siapa di antara kalian yang mendapatkan zaman itu, maka jangan sekali kali ia menjadi pembantu mereka, menjadi polisi mereka, tukang pemungut pajak mereka dan bendahara mereka.</i><br>
-  (<b>HR Ibnu Hibban</b>) []
+  <i>
+  Siapa saja yang Allah beri hidayah, dia mendapatkan hidayah. Siapa saja yang Allah sesatkan, dia tidak akan pernah mendapatkan para penolong selain Allah. Kami akan membangkitkan mereka pada Hari Kiamat dengan wajah mereka tersungkur dalam keadaan buta, bisu dan tuli. Tempat tinggal mereka adalah neraka Jahanam. Setiap kali api neraka itu padam, Kami nyalakan lagi untuk mereka.
+  </i><br>
+  (<b>TQS al-Isra’ [17]: 97</b>) []
   </p>
   </div>
 </div>
