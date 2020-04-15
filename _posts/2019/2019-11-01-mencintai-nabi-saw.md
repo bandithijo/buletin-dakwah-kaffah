@@ -141,23 +141,25 @@ Begitulah cinta hakiki kepada Nabi saw. Cinta kepada Nabi saw. melahirkan pengut
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  وَمَنْ يُشَاقِقِ الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَى وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّى وَنُصْلِهِ جَهَنَّمَ وَسَاءَتْ مَصِيرًا
-  </p>
+<p class="text-center-arabic">
+وَمَنْ يُشَاقِقِ الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَى وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّى وَنُصْلِهِ جَهَنَّمَ وَسَاءَتْ مَصِيرًا
+</p>
 
-  <p class="text-center">
-  <i>Siapa saja yang menentang Rasul sesudah jelas kebenaran bagi dirinya, lalu dia mengikuti jalan yang bukan jalan kaum Mukmin, niscaya Kami membiarkan dia leluasa terhadap kesesatan yang telah dia kuasai itu dan Kami memasukkan dia ke dalam Neraka Jahanam. Neraka Jahanam itu seburuk-buruk tempat kembali.</i><br>
-  (<b>TQS an-Nisa’ [4]: 115</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Siapa saja yang menentang Rasul sesudah jelas kebenaran bagi dirinya, lalu dia mengikuti jalan yang bukan jalan kaum Mukmin, niscaya Kami membiarkan dia leluasa terhadap kesesatan yang telah dia kuasai itu dan Kami memasukkan dia ke dalam Neraka Jahanam. Neraka Jahanam itu seburuk-buruk tempat kembali.
+</i><br>
+(<b>TQS an-Nisa’ [4]: 115</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

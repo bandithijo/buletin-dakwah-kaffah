@@ -98,23 +98,25 @@ Tentu meneladani Rasulullah saw. hanya dengan mengambil sebagian sunnah beliau s
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ اْلآخِرَ وَذَكَرَ اللَّهَ كَثِيرًاوَمَا كَانَ لِمُؤْمِنٍ وَلاَ مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلاَلاً مُبِينًا
-  </p>
+<p class="text-center-arabic">
+لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ اْلآخِرَ وَذَكَرَ اللَّهَ كَثِيرًاوَمَا كَانَ لِمُؤْمِنٍ وَلاَ مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلاَلاً مُبِينًا
+</p>
 
-  <p class="text-center">
-  <i>Tidaklah patut bagi laki-laki Mukmin maupun bagi perempuan Mukmin, jika Allah dan Rasul-Nya telah menetapkan suatu ketetapan, akan ada bagi mereka pilihan (yang lain) tentang urusan mereka. Siapa saja yang mendurhakai Allah dan Rasul-Nya maka sungguhlah dia telah benar-benar sesat.</i><br>
-  (<b>TQS al-Ahzab [33]: 36</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Tidaklah patut bagi laki-laki Mukmin maupun bagi perempuan Mukmin, jika Allah dan Rasul-Nya telah menetapkan suatu ketetapan, akan ada bagi mereka pilihan (yang lain) tentang urusan mereka. Siapa saja yang mendurhakai Allah dan Rasul-Nya maka sungguhlah dia telah benar-benar sesat.
+</i><br>
+(<b>TQS al-Ahzab [33]: 36</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

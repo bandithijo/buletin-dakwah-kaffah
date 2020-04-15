@@ -108,23 +108,25 @@ Anda sekalian, para penguasa, jika tetap berpaling dari Allah SWT dan menentang 
 
 <!-- HIKMAH -->
 <div class="card card-post mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي النَّاسِ لِيُذِيقَهُمْ بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ
-  </p>
+<p class="text-center-arabic">
+ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي النَّاسِ لِيُذِيقَهُمْ بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ
+</p>
 
-  <p class="text-center">
-  <i>Telah nyata kerusakan di darat dan di laut karena ulah tangan manusia, supaya Allah menimpakan sebagian akibat dari perbuatan (maksiat) mereka, agar mereka kembali (kepada Allah).</i><br>
-  (<b>TQS ar-Rum [30]: 41</b>). []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Telah nyata kerusakan di darat dan di laut karena ulah tangan manusia, supaya Allah menimpakan sebagian akibat dari perbuatan (maksiat) mereka, agar mereka kembali (kepada Allah).
+</i><br>
+(<b>TQS ar-Rum [30]: 41</b>). []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

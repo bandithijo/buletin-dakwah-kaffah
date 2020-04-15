@@ -79,23 +79,25 @@ Alhasil, pada momen peringatan Maulid Nabi saw. sekarang ini, untuk mewujudkan k
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Rasulullah ﷺ  bersabda:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Rasulullah ﷺ  bersabda:
+</p>
 
-  <p class="text-center-arabic">
-  فَعَلَيْكُمْ بِسُنَّتِي وَسُنَّةِ الْخُلَفَاءِ الرَّاشِدِيْنَ الْمَهْدِيِّيْنَ فَتَمَسَّكُوْا بِهَا وَعَضُّوْا عَلَيْهَا بِالنَّوَاجِذِ
-  </p>
+<p class="text-center-arabic">
+فَعَلَيْكُمْ بِسُنَّتِي وَسُنَّةِ الْخُلَفَاءِ الرَّاشِدِيْنَ الْمَهْدِيِّيْنَ فَتَمَسَّكُوْا بِهَا وَعَضُّوْا عَلَيْهَا بِالنَّوَاجِذِ
+</p>
 
-  <p class="text-center">
-  <i>Karena itu hendaknya kalian berpegang teguh dengan Sunnahku dan Sunnah Khulafaur Rasyidin yang mendapat petunjuk. Berpegang teguhlah dengan sunnah itu dan gigitlah sunnah-sunnah itu dengan gigi-gigi geraham kalian (peganglah dan amalkan dengan kuat).</i><br>
-  (<b>HR Ahmad, Abu Dawud Ibnu Majah dan at-Tirmidzi</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Karena itu hendaknya kalian berpegang teguh dengan Sunnahku dan Sunnah Khulafaur Rasyidin yang mendapat petunjuk. Berpegang teguhlah dengan sunnah itu dan gigitlah sunnah-sunnah itu dengan gigi-gigi geraham kalian (peganglah dan amalkan dengan kuat).
+</i><br>
+(<b>HR Ahmad, Abu Dawud Ibnu Majah dan at-Tirmidzi</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

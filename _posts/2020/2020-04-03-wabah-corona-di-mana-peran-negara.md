@@ -96,23 +96,25 @@ Lebih dari itu, inilah saatnya kita dan seluruh rakyat menyadari kebobrokan sist
 
 <!-- HIKMAH -->
 <div class="card card-post mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  وَاتَّقُوا فِتْنَةً لَا تُصِيبَنَّ الَّذِينَ ظَلَمُوا مِنْكُمْ خَاصَّةً وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ
-  </p>
+<p class="text-center-arabic">
+وَاتَّقُوا فِتْنَةً لَا تُصِيبَنَّ الَّذِينَ ظَلَمُوا مِنْكُمْ خَاصَّةً وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ
+</p>
 
-  <p class="text-center">
-  <i>Takutlah kalian terhadap bencana yang tidak khusus menimpa orang-orang zalim saja di antara kalian. Ketahuilah, sungguh Allah Mahakeras siksa-Nya.</i><br>
-  (<b>TQS al-Anfal [8]: 25</b>). []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Takutlah kalian terhadap bencana yang tidak khusus menimpa orang-orang zalim saja di antara kalian. Ketahuilah, sungguh Allah Mahakeras siksa-Nya.
+</i><br>
+(<b>TQS al-Anfal [8]: 25</b>). []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

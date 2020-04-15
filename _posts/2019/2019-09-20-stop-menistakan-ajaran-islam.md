@@ -143,25 +143,25 @@ Alhasil, dengan seluruh kemuliaan Islam dan syariahnya di atas—termasuk khilaf
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Hanzhalah ar-Rabi ra. bertutur:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Hanzhalah ar-Rabi ra. bertutur:
+</p>
 
-  <p class="text-center-arabic">
-  عَجَبْتُ لِمَا يَخُوْضُ النَّاسُ فِيْهِ – يَرُوْمُوْنَ الْخِلاَفَةَ أَنْ تَزُوْلاَ وَ لَوْ زَالَتْ لَزَالَ الْخَيْرُ عَنْهُمْ – وَ لاَقُوْا بَعْدَهَا ذُلاًّ ذَلِيْلاً و َكَانُوْا كَالْيَهُوْدِ أَوْ النَّصَارَى – سَوَاءً كُلُّهُمْ ضَلُّوْا السَّبِيْلاَ
-  </p>
+<p class="text-center-arabic">
+عَجَبْتُ لِمَا يَخُوْضُ النَّاسُ فِيْهِ – يَرُوْمُوْنَ الْخِلاَفَةَ أَنْ تَزُوْلاَ وَ لَوْ زَالَتْ لَزَالَ الْخَيْرُ عَنْهُمْ – وَ لاَقُوْا بَعْدَهَا ذُلاًّ ذَلِيْلاً و َكَانُوْا كَالْيَهُوْدِ أَوْ النَّصَارَى – سَوَاءً كُلُّهُمْ ضَلُّوْا السَّبِيْلاَ
+</p>
 
-  <p class="text-center">
-  <i>
-  Aku heran dengan apa yang menyibukkan orang-orang ini/Mereka berharap Khilafah lenyap/Padahal andai Khilafah lenyap, lenyap pula segala kebaikan dari mereka/Setelah itu mereka akan menjumpai kehinaan yang luar biasa/Mereka seperti kaum Yahudi atau Nasrani/Semuanya sama-sama tersesat jalan.
-  </i><br>
-  (<b>Tahdzîb al-Kamâl, 7/441, Al-Kâmil fî at-Târîkh, 2/541, Târîkh ath-Thabari, 3/417</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Aku heran dengan apa yang menyibukkan orang-orang ini/Mereka berharap Khilafah lenyap/Padahal andai Khilafah lenyap, lenyap pula segala kebaikan dari mereka/Setelah itu mereka akan menjumpai kehinaan yang luar biasa/Mereka seperti kaum Yahudi atau Nasrani/Semuanya sama-sama tersesat jalan.
+</i><br>
+(<b>Tahdzîb al-Kamâl, 7/441, Al-Kâmil fî at-Târîkh, 2/541, Târîkh ath-Thabari, 3/417</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

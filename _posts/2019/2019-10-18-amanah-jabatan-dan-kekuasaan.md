@@ -99,23 +99,25 @@ Tidakkah kita merindukan kembali kehadiran sistem Islam di tengah-tengah kita ya
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Rasulullah ﷺ  bersabda:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Rasulullah ﷺ  bersabda:
+</p>
 
-  <p class="text-center-arabic">
-  إِنَّ شَرَّ الرِّعَاءِ الْحُطَمَةُ
-  </p>
+<p class="text-center-arabic">
+إِنَّ شَرَّ الرِّعَاءِ الْحُطَمَةُ
+</p>
 
-  <p class="text-center">
-  <i>Sungguh seburuk-buruk pemimpin adalah al-Huthamah (yang menzalimi rakyatnya dan tidak menyayangi mereka).</i><br>
-  (<b>HR Muslim</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Sungguh seburuk-buruk pemimpin adalah al-Huthamah (yang menzalimi rakyatnya dan tidak menyayangi mereka).
+</i><br>
+(<b>HR Muslim</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

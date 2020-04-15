@@ -95,25 +95,25 @@ Islam sudah mempraktikkan toleransi dengan baik sejak 15 abad yang lalu hingga s
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَأَنْتُمْ تَعْلَمُونَ
-  </p>
+<p class="text-center-arabic">
+وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَأَنْتُمْ تَعْلَمُونَ
+</p>
 
-  <p class="text-center">
-  <i>
-  Janganlah kalian mencampuradukkan kebenaran dengan kebatilan. Jangan pula kalian menyembunyikan kebenaran itu, sedangkan kalian mengetahui
-  </i><br>
-  (<b>TQS al-Baqarah [2]: 42</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Janganlah kalian mencampuradukkan kebenaran dengan kebatilan. Jangan pula kalian menyembunyikan kebenaran itu, sedangkan kalian mengetahui
+</i><br>
+(<b>TQS al-Baqarah [2]: 42</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

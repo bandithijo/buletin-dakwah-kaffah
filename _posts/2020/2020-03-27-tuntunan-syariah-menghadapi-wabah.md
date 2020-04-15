@@ -136,23 +136,25 @@ Semoga Allah SWT memberikan pertolongan-Nya sehingga wabah Covid-19 bisa segera 
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Rasulullah ﷺ  bersabda:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Rasulullah ﷺ  bersabda:
+</p>
 
-  <p class="text-center-arabic">
-  مَا مِنْ عَبْدٍ تُصِيبُهُ مُصِيبَةٌ فَيَقُولُ إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ اللَّهُمَّ أْجُرْنِى فِى مُصِيبَتِى وَأَخْلِفْ لِى خَيْرًا مِنْهَا إِلاَّ أَجَرَهُ اللَّهُ فِى مُصِيبَتِهِ وَأَخْلَفَ لَهُ خَيْرًا مِنْهَا
-  </p>
+<p class="text-center-arabic">
+مَا مِنْ عَبْدٍ تُصِيبُهُ مُصِيبَةٌ فَيَقُولُ إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ اللَّهُمَّ أْجُرْنِى فِى مُصِيبَتِى وَأَخْلِفْ لِى خَيْرًا مِنْهَا إِلاَّ أَجَرَهُ اللَّهُ فِى مُصِيبَتِهِ وَأَخْلَفَ لَهُ خَيْرًا مِنْهَا
+</p>
 
-  <p class="text-center">
-  <i>Tidaklah seorang hamba ditimpa musibah lalu ia berkata, “Inna lillâhi wa innâ ilaihi râji’ûn [Sungguh kami adalah milik Allah dan kepada-Nyalah kami kembali]; ya Allah, berilah aku pahala dalam musibahku ini, dan berilah aku ganti yang lebih baik darinya,” kecuali Allah memberi dia pahala dalam musibahnya dan menggantinya dengan yang lebih baik untuk dirinya.</i><br>
-  (<b>HR Muslim, Ahmad dan Ibnu Majah</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Tidaklah seorang hamba ditimpa musibah lalu ia berkata, “Inna lillâhi wa innâ ilaihi râji’ûn [Sungguh kami adalah milik Allah dan kepada-Nyalah kami kembali]; ya Allah, berilah aku pahala dalam musibahku ini, dan berilah aku ganti yang lebih baik darinya,” kecuali Allah memberi dia pahala dalam musibahnya dan menggantinya dengan yang lebih baik untuk dirinya.
+</i><br>
+(<b>HR Muslim, Ahmad dan Ibnu Majah</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

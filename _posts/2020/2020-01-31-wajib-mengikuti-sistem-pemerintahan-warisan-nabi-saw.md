@@ -115,23 +115,25 @@ Dengan paparan sekilas di atas maka Sistem Pemerintahan Islam, yaitu Khilafah, a
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Profesor Dr. Wahbah az-Zuhaili menyatakan:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Profesor Dr. Wahbah az-Zuhaili menyatakan:
+</p>
 
-  <p class="text-center-arabic">
-  وَ إِنْكَارُ حُكْمٍ مِنْ أَحْكَامِ الشَّرِيْعَةِ الَّتِي ثُبِتَتْ بِدَلِيْلٍ قَطْعِيٍّ، أَوْ زَعْمُ قَسْوَةِ حُكْمِ مَا كَالْحُدُوْدِ مَثَلاً، أَوْ اِدْعَاءُ عَدَمِ صَلاَحِيَّةِ الشَّرِيْعَةِ لِلتَّطْبِيْقِ يُعْتَبَرُ كُفْراً وَ رِدَّةً عَنِ اْلإِسْلاَمِ. أَمَّا إِنْكَارُ اْلأَحْكَامِ الثَّابِتَةِ بِاْلإِجْتِهَادِ اْلمبَنْيِ عَلَى غَلَبَةِ الظَّنِّ فَهُوَ مَعْصِيَّةٌ وَ فِسْقٌ وَ ظُلْمٌ.
-  </p>
+<p class="text-center-arabic">
+وَ إِنْكَارُ حُكْمٍ مِنْ أَحْكَامِ الشَّرِيْعَةِ الَّتِي ثُبِتَتْ بِدَلِيْلٍ قَطْعِيٍّ، أَوْ زَعْمُ قَسْوَةِ حُكْمِ مَا كَالْحُدُوْدِ مَثَلاً، أَوْ اِدْعَاءُ عَدَمِ صَلاَحِيَّةِ الشَّرِيْعَةِ لِلتَّطْبِيْقِ يُعْتَبَرُ كُفْراً وَ رِدَّةً عَنِ اْلإِسْلاَمِ. أَمَّا إِنْكَارُ اْلأَحْكَامِ الثَّابِتَةِ بِاْلإِجْتِهَادِ اْلمبَنْيِ عَلَى غَلَبَةِ الظَّنِّ فَهُوَ مَعْصِيَّةٌ وَ فِسْقٌ وَ ظُلْمٌ.
+</p>
 
-  <p class="text-center">
-  <i>Mengingkari salah satu hukum dari hukum-hukum syariah yang ditetapkan berdasarkan dalil qath’i, atau menyakini keburukan hukum syariah apapun itu, hudud misalnya, atau menuduh ketidaklayakan hukum syariah untuk diterapkan, semua itu dinilai sebagai kekufuran dan murtad dari Islam. Adapun pengingkaran terhadap hukum yang ditetapkan dengan ijtihad yang dibangun di atas dugaan kuat (ghalabah azh-zhann) adalah kemaksiatan, kefasikan dan kezaliman.</i><br>
-  (<b>Syaikh Wahbah az-Zuhaili, Al-Fiqh al-Islami wa Adillatuhu, 1/25</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Mengingkari salah satu hukum dari hukum-hukum syariah yang ditetapkan berdasarkan dalil qath’i, atau menyakini keburukan hukum syariah apapun itu, hudud misalnya, atau menuduh ketidaklayakan hukum syariah untuk diterapkan, semua itu dinilai sebagai kekufuran dan murtad dari Islam. Adapun pengingkaran terhadap hukum yang ditetapkan dengan ijtihad yang dibangun di atas dugaan kuat (ghalabah azh-zhann) adalah kemaksiatan, kefasikan dan kezaliman.
+</i><br>
+(<b>Syaikh Wahbah az-Zuhaili, Al-Fiqh al-Islami wa Adillatuhu, 1/25</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

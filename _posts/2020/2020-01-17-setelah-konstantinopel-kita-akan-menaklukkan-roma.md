@@ -64,23 +64,25 @@ Tugas kita adalah memperjuangkan tegaknya kembali Khilafah. Bukan diam. Apalagi 
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الأرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَى لَهُمْ وَلَيُبَدِّلَنَّهُمْ مِنْ بَعْدِ خَوْفِهِمْ أَمْنًا يَعْبُدُونَنِي لا يُشْرِكُونَ بِي شَيْئًا وَمَنْ كَفَرَ بَعْدَ ذَلِكَ فَأُولَئِكَ هُمُ الْفَاسِقُونَ
-  </p>
+<p class="text-center-arabic">
+وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الأرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَى لَهُمْ وَلَيُبَدِّلَنَّهُمْ مِنْ بَعْدِ خَوْفِهِمْ أَمْنًا يَعْبُدُونَنِي لا يُشْرِكُونَ بِي شَيْئًا وَمَنْ كَفَرَ بَعْدَ ذَلِكَ فَأُولَئِكَ هُمُ الْفَاسِقُونَ
+</p>
 
-  <p class="text-center">
-  <i>Allah telah menjanjikan kepada orang-orang yang beriman dan mengerjakan amal shalih di antara kalian, bahwa Dia benar-benar akan menjadikan mereka berkuasa di bumi sebagaimana Dia telah menjadikan orang-orang sebelum mereka berkuasa, akan meneguhkan bagi mereka agama yang telah Dia ridhai (Islam), dan akan mengubah (keadaan) mereka—setelah berada dalam ketakutan—menjadi aman sentosa. Mereka tetap menyembah-Ku tanpa mempersekutukan-Ku dengan apapun. Siapa saja yang (tetap) kafir setelah (janji) itu, mereka itulah orang-orang yang fasik.</i><br>
-  (<b>TQS an-Nur [24]: 55</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Allah telah menjanjikan kepada orang-orang yang beriman dan mengerjakan amal shalih di antara kalian, bahwa Dia benar-benar akan menjadikan mereka berkuasa di bumi sebagaimana Dia telah menjadikan orang-orang sebelum mereka berkuasa, akan meneguhkan bagi mereka agama yang telah Dia ridhai (Islam), dan akan mengubah (keadaan) mereka—setelah berada dalam ketakutan—menjadi aman sentosa. Mereka tetap menyembah-Ku tanpa mempersekutukan-Ku dengan apapun. Siapa saja yang (tetap) kafir setelah (janji) itu, mereka itulah orang-orang yang fasik.
+</i><br>
+(<b>TQS an-Nur [24]: 55</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

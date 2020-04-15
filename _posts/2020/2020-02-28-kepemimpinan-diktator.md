@@ -87,23 +87,25 @@ Bagaimana menyikapi kepemimpin diktator (*al-mulk al-jabri*) yang mencengkeram d
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Rasulullah ﷺ  bersabda:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Rasulullah ﷺ  bersabda:
+</p>
 
-  <p class="text-center-arabic">
-  لَا طَاعَةَ لِمَخْلُوقٍ فِي مَعْصِيَةِ اللَّهِ عَزَّ وَجَلَّ
-  </p>
+<p class="text-center-arabic">
+لَا طَاعَةَ لِمَخْلُوقٍ فِي مَعْصِيَةِ اللَّهِ عَزَّ وَجَلَّ
+</p>
 
-  <p class="text-center">
-  <i>Tidak ada ketaatan kepada makhluk dalam kemaksiatan kepada Allah ‘Azza wa Jalla.</i><br>
-  (<b>HR Ahmad</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Tidak ada ketaatan kepada makhluk dalam kemaksiatan kepada Allah ‘Azza wa Jalla.
+</i><br>
+(<b>HR Ahmad</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

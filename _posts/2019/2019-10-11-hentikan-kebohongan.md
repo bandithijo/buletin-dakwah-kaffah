@@ -122,23 +122,25 @@ Karena itu dalam berbicara dan bermedia sosial, hendaknya seorang Muslim tidak g
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ
-  </p>
+<p class="text-center-arabic">
+يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ
+</p>
 
-  <p class="text-center">
-  <i>Hai orang-orang yang beriman, bertakwalah kepada Allah, dan hendaklah kalian senantiasa bersama orang-orang yang benar/jujur.</i><br>
-  (<b>TQS at-Taubah [9]: 119</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Hai orang-orang yang beriman, bertakwalah kepada Allah, dan hendaklah kalian senantiasa bersama orang-orang yang benar/jujur.
+</i><br>
+(<b>TQS at-Taubah [9]: 119</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

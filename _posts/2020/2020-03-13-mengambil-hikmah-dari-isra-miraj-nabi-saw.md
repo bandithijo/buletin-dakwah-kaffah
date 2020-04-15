@@ -104,23 +104,25 @@ Tentu kabar yang disampaikan oleh Rasulullah saw. harus diwujudkan oleh seluruh 
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  قُلْ رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَلْ لِي مِنْ لَدُنْكَ سُلْطَانًا نَصِيرًا
-  </p>
+<p class="text-center-arabic">
+قُلْ رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَلْ لِي مِنْ لَدُنْكَ سُلْطَانًا نَصِيرًا
+</p>
 
-  <p class="text-center">
-  <i>Katakanlah (Muhammad), “Tuhanku, masukkanlah aku dengan cara masuk yang benar dan keluarkanlah aku dengan cara keluar yang benar serta berikanlah kepada diriku dari sisi Engkau kekuasaan yang menolong (agama ini).”</i><br>
-  (<b>QS al-Isra’ [17]: 80</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Katakanlah (Muhammad), “Tuhanku, masukkanlah aku dengan cara masuk yang benar dan keluarkanlah aku dengan cara keluar yang benar serta berikanlah kepada diriku dari sisi Engkau kekuasaan yang menolong (agama ini).”
+</i><br>
+(<b>QS al-Isra’ [17]: 80</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

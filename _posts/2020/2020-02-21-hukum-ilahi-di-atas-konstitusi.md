@@ -133,23 +133,25 @@ Begitu banyak Allah SWT mengisahkan keburukan kaum Yahudi di dalam al-Quran, ter
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Rasulullah ﷺ  bersabda:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Rasulullah ﷺ  bersabda:
+</p>
 
-  <p class="text-center-arabic">
-  الْحَلَالُ مَا أَحَلَّ اللَّهُ فِي كِتَابِهِ وَالْحَرَامُ مَا حَرَّمَ اللَّهُ فِي كِتَابِهِ…
-  </p>
+<p class="text-center-arabic">
+الْحَلَالُ مَا أَحَلَّ اللَّهُ فِي كِتَابِهِ وَالْحَرَامُ مَا حَرَّمَ اللَّهُ فِي كِتَابِهِ…
+</p>
 
-  <p class="text-center">
-  <i>Yang halal itu adalah apa saja yang Allah halalkan di dalam Kitab-Nya. Yang haram itu adalah apa saja yang telah Allah haramkan dalam Kitab-Nya…</i><br>
-  (<b>HR at-Tirmidzi dan Ibnu Majah</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Yang halal itu adalah apa saja yang Allah halalkan di dalam Kitab-Nya. Yang haram itu adalah apa saja yang telah Allah haramkan dalam Kitab-Nya…
+</i><br>
+(<b>HR at-Tirmidzi dan Ibnu Majah</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

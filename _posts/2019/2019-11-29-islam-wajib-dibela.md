@@ -108,25 +108,25 @@ Jadilah Anda polisi pelindung, pengayom dan pelayan rakyat, sebagaimana slogan y
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  وَمَنْ يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَنْ يُضْلِلْ فَلَنْ تَجِدَ لَهُمْ أَوْلِيَاءَ مِنْ دُونِهِ وَنَحْشُرُهُمْ يَوْمَ الْقِيَامَةِ عَلَى وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمًّا مَأْوَاهُمْ جَهَنَّمُ كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا
-  </p>
+<p class="text-center-arabic">
+وَمَنْ يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَنْ يُضْلِلْ فَلَنْ تَجِدَ لَهُمْ أَوْلِيَاءَ مِنْ دُونِهِ وَنَحْشُرُهُمْ يَوْمَ الْقِيَامَةِ عَلَى وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمًّا مَأْوَاهُمْ جَهَنَّمُ كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا
+</p>
 
-  <p class="text-center">
-  <i>
-  Siapa saja yang Allah beri hidayah, dia mendapatkan hidayah. Siapa saja yang Allah sesatkan, dia tidak akan pernah mendapatkan para penolong selain Allah. Kami akan membangkitkan mereka pada Hari Kiamat dengan wajah mereka tersungkur dalam keadaan buta, bisu dan tuli. Tempat tinggal mereka adalah neraka Jahanam. Setiap kali api neraka itu padam, Kami nyalakan lagi untuk mereka.
-  </i><br>
-  (<b>TQS al-Isra’ [17]: 97</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Siapa saja yang Allah beri hidayah, dia mendapatkan hidayah. Siapa saja yang Allah sesatkan, dia tidak akan pernah mendapatkan para penolong selain Allah. Kami akan membangkitkan mereka pada Hari Kiamat dengan wajah mereka tersungkur dalam keadaan buta, bisu dan tuli. Tempat tinggal mereka adalah neraka Jahanam. Setiap kali api neraka itu padam, Kami nyalakan lagi untuk mereka.
+</i><br>
+(<b>TQS al-Isra’ [17]: 97</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

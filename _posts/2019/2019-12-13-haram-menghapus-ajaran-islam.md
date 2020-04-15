@@ -136,23 +136,25 @@ Perilaku menghalang-halangi manusia dari jalan Islam tentu tidak layak dilakukan
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Rasulullah ﷺ  bersabda:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Rasulullah ﷺ  bersabda:
+</p>
 
-  <p class="text-center-arabic">
-  أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَشْهَدُوا أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ وَيُقِيمُوا الصَّلاَةَ وَيُؤْتُوا الزَّكَاةَ فَإِذَا فَعَلُوا ذَلِكَ عَصَمُوا مِنِّي دِمَاءَهُمْ وَأَمْوَالَهُمْ إِلاَّ بِحَقِّ اْلإِسْلاَمِ وَحِسَابُهُمْ عَلَى اللَّهِ
-  </p>
+<p class="text-center-arabic">
+أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَشْهَدُوا أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ وَيُقِيمُوا الصَّلاَةَ وَيُؤْتُوا الزَّكَاةَ فَإِذَا فَعَلُوا ذَلِكَ عَصَمُوا مِنِّي دِمَاءَهُمْ وَأَمْوَالَهُمْ إِلاَّ بِحَقِّ اْلإِسْلاَمِ وَحِسَابُهُمْ عَلَى اللَّهِ
+</p>
 
-  <p class="text-center">
-  <i>Aku diperintahkan (oleh Allah SWT) untuk memerangi manusia hingga mereka menyatakan, “Tidak ada tuhan kecuali Allah dan Muhammad adalah utusan Allah”, menegakkan shalat dan menunaikan zakat. Jika mereka melakukan semua itu, darah dan harta mereka terlindungi dariku, kecuali ada alasan yang dibenarkan di dalam Islam, dan hisab atas mereka diserahkan kepada Allah.</i><br>
-  (<b>HR al-Bukhari</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Aku diperintahkan (oleh Allah SWT) untuk memerangi manusia hingga mereka menyatakan, “Tidak ada tuhan kecuali Allah dan Muhammad adalah utusan Allah”, menegakkan shalat dan menunaikan zakat. Jika mereka melakukan semua itu, darah dan harta mereka terlindungi dariku, kecuali ada alasan yang dibenarkan di dalam Islam, dan hisab atas mereka diserahkan kepada Allah.
+</i><br>
+(<b>HR al-Bukhari</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

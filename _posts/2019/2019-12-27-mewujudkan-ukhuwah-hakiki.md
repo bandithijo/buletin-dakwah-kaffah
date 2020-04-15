@@ -141,25 +141,25 @@ Semoga saja umat Islam di seluruh dunia segera bisa mewujudkan ukhuwah yang haki
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا بِطَانَةً مِنْ دُونِكُمْ لَا يَأْلُونَكُمْ خَبَالًا وَدُّوا مَا عَنِتُّمْ قَدْ بَدَتِ الْبَغْضَاءُ مِنْ أَفْوَاهِهِمْ وَمَا تُخْفِي صُدُورُهُمْ أَكْبَرُ قَدْ بَيَّنَّا لَكُمُ الْآيَاتِ إِنْ كُنْتُمْ تَعْقِلُونَ
-  </p>
+<p class="text-center-arabic">
+يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا بِطَانَةً مِنْ دُونِكُمْ لَا يَأْلُونَكُمْ خَبَالًا وَدُّوا مَا عَنِتُّمْ قَدْ بَدَتِ الْبَغْضَاءُ مِنْ أَفْوَاهِهِمْ وَمَا تُخْفِي صُدُورُهُمْ أَكْبَرُ قَدْ بَيَّنَّا لَكُمُ الْآيَاتِ إِنْ كُنْتُمْ تَعْقِلُونَ
+</p>
 
-  <p class="text-center">
-  <i>
-  Hai orang-orang yang beriman, janganlah kalian menjadikan teman kepercayaan kalian orang-orang yang di luar kalangan kalian (karena) mereka tidak henti-hentinya (menimbulkan) kemadaratan atas kalian. Mereka menyukai apa yang menyusahkan kalian. Telah nyata kebencian dari mulut mereka dan apa yang disembunyikan oleh hati mereka adalah lebih besar lagi. Sungguh telah Kami terangkan kepada kalian ayat-ayat (Kami) jika kalian memahaminya.
-  </i><br>
-  (<b>TQS Ali Imran [3]: 118</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Hai orang-orang yang beriman, janganlah kalian menjadikan teman kepercayaan kalian orang-orang yang di luar kalangan kalian (karena) mereka tidak henti-hentinya (menimbulkan) kemadaratan atas kalian. Mereka menyukai apa yang menyusahkan kalian. Telah nyata kebencian dari mulut mereka dan apa yang disembunyikan oleh hati mereka adalah lebih besar lagi. Sungguh telah Kami terangkan kepada kalian ayat-ayat (Kami) jika kalian memahaminya.
+</i><br>
+(<b>TQS Ali Imran [3]: 118</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

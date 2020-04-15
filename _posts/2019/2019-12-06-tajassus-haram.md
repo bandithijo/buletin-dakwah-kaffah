@@ -108,23 +108,25 @@ Jadilah Anda polisi pelindung, pengayom dan pelayan rakyat, sebagaimana slogan y
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Rasulullah ﷺ  bersabda:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Rasulullah ﷺ  bersabda:
+</p>
 
-  <p class="text-center-arabic">
+<p class="text-center-arabic">
 لَيَأْتِيَنَّ عَلَيْكُمْ أُمَرَاءُ يُقَرِّبُونَ شِرَارَ النَّاسِ، وَيُؤَخِّرُونَ الصَّلاةَ عَنْ مَوَاقِيتِهَا فَمَنْ أَدْرَكَ ذَلِكَ مِنْكُمْ فَلا يَكُونَنَّ عَرِيفًا، وَلا شُرْطِيًا، وَلا جَابِيًا، وَلا خَازِنًا.
-  </p>
+</p>
 
-  <p class="text-center">
-  <i>Sungguh akan pasti datang kapada kalian para pemimpin yang menjadikan manusia-manusia terjelek sebagai orang dekatnya dan mereka biasa mengakhirkan shalat dari waktu-waktunya. Siapa di antara kalian yang mendapatkan zaman itu, maka jangan sekali kali ia menjadi pembantu mereka, menjadi polisi mereka, tukang pemungut pajak mereka dan bendahara mereka.</i><br>
-  (<b>HR Ibnu Hibban</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Sungguh akan pasti datang kapada kalian para pemimpin yang menjadikan manusia-manusia terjelek sebagai orang dekatnya dan mereka biasa mengakhirkan shalat dari waktu-waktunya. Siapa di antara kalian yang mendapatkan zaman itu, maka jangan sekali kali ia menjadi pembantu mereka, menjadi polisi mereka, tukang pemungut pajak mereka dan bendahara mereka.
+</i><br>
+(<b>HR Ibnu Hibban</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

@@ -111,23 +111,25 @@ Kaum Muslim pun wajib memperjuangkan syariah Islam agar segera bisa diterapkan s
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَخُونُوا اللَّهَ وَالرَّسُولَ وَتَخُونُوا أَمَانَاتِكُمْ وَأَنْتُمْ تَعْلَمُونَ . وَاعْلَمُوا أَنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ وَأَنَّ اللَّهَ عِنْدَهُ أَجْرٌ عَظِيمٌ
-  </p>
+<p class="text-center-arabic">
+يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَخُونُوا اللَّهَ وَالرَّسُولَ وَتَخُونُوا أَمَانَاتِكُمْ وَأَنْتُمْ تَعْلَمُونَ . وَاعْلَمُوا أَنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ وَأَنَّ اللَّهَ عِنْدَهُ أَجْرٌ عَظِيمٌ
+</p>
 
-  <p class="text-center">
-  <i>Hai orang-orang yang beriman, janganlah kalian mengkhianati Allah dan Rasul-Nya. Jangan pula kalian mengkhianati amanah-aman kalian, sedangkan kalian tahu. Ketahuilah oleh kalian, sungguh harta-harta kalian dan anak-anak kalian bisa menjadi fitnah (bencana) dan sungguh di sisi Allah-lah pahala yang besar.</i><br>
-  (<b>TQS al-Anfal [8]: 27-28</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Hai orang-orang yang beriman, janganlah kalian mengkhianati Allah dan Rasul-Nya. Jangan pula kalian mengkhianati amanah-aman kalian, sedangkan kalian tahu. Ketahuilah oleh kalian, sungguh harta-harta kalian dan anak-anak kalian bisa menjadi fitnah (bencana) dan sungguh di sisi Allah-lah pahala yang besar.
+</i><br>
+(<b>TQS al-Anfal [8]: 27-28</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

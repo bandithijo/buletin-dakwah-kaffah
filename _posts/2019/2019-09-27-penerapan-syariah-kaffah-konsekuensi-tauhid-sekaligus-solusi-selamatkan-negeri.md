@@ -112,23 +112,25 @@ Karena itu jika kita memang menginginkan solusi bagi berbagai problem negeri ini
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  وَمَا أَرْسَلْنَاكَ إِلاَّ رَحْمَةً لِلْعَالَمِينَ
-  </p>
+<p class="text-center-arabic">
+وَمَا أَرْسَلْنَاكَ إِلاَّ رَحْمَةً لِلْعَالَمِينَ
+</p>
 
-  <p class="text-center">
-  <i>Tidaklah Kami mengutus engkau (Muhammad) kecuali dengan membawa rahmat bagi seluruh alam</i><br>
-  (<b>TQS al-Anbiya’ [21]: 107</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Tidaklah Kami mengutus engkau (Muhammad) kecuali dengan membawa rahmat bagi seluruh alam
+</i><br>
+(<b>TQS al-Anbiya’ [21]: 107</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

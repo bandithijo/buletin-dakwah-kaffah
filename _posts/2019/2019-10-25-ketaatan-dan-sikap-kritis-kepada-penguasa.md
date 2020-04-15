@@ -78,23 +78,25 @@ Dengan semua itu, akan ada pemimpin dan penguasa yang paling baik, yang mencinta
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Rasulullah ﷺ  bersabda:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Rasulullah ﷺ  bersabda:
+</p>
 
-  <p class="text-center-arabic">
-  إِنَّهُ سَتَكُوْنُ بَعْدِي أُمَرَاءُ مَنْ صَدَّقَهُمْ بِكَذِبِهِمْ وَأَعَانَهُمْ عَلَى ظُلْمِهِمْ فَلَيْسَ مِنِّي وَلَسْتُ مِنْهُ وَلَيْسَ بِوَارِدٍ عَلَيَّ الْحَوْضَ وَمَنْ لَمْ يُصَدِّقْهُمْ بِكَذِبِهِمْ وَلَمْ يُعِنْهُمْ عَلَى ظُلْمِهِمْ فَهُوَ مِنِّي وَأَنَا مِنْهُ وَهُوَ وَارِدٌ عَلَيَّ الْحَوْضَ
-  </p>
+<p class="text-center-arabic">
+إِنَّهُ سَتَكُوْنُ بَعْدِي أُمَرَاءُ مَنْ صَدَّقَهُمْ بِكَذِبِهِمْ وَأَعَانَهُمْ عَلَى ظُلْمِهِمْ فَلَيْسَ مِنِّي وَلَسْتُ مِنْهُ وَلَيْسَ بِوَارِدٍ عَلَيَّ الْحَوْضَ وَمَنْ لَمْ يُصَدِّقْهُمْ بِكَذِبِهِمْ وَلَمْ يُعِنْهُمْ عَلَى ظُلْمِهِمْ فَهُوَ مِنِّي وَأَنَا مِنْهُ وَهُوَ وَارِدٌ عَلَيَّ الْحَوْضَ
+</p>
 
-  <p class="text-center">
-  <i>Sungguh akan ada sesudahku para pemimpin. Siapa saja yang membenarkan kebohongan mereka dan membantu mereka atas kezaliman mereka maka ia bukan golonganku dan aku pun bukan golongannya dan ia tidak akan masuk menemaniku di telaga. Sebaliknya, siapa yang tidak membenarkan kebohongan mereka dan tidak membantu mereka atas kezaliman mereka maka ia termasuk golonganku dan aku pun termasuk golongannya dan ia akan masuk ke telaga bersamaku.”</i><br>
-  (<b>HR an-Nasai, al-Baihaqi dan al-Hakim</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Sungguh akan ada sesudahku para pemimpin. Siapa saja yang membenarkan kebohongan mereka dan membantu mereka atas kezaliman mereka maka ia bukan golonganku dan aku pun bukan golongannya dan ia tidak akan masuk menemaniku di telaga. Sebaliknya, siapa yang tidak membenarkan kebohongan mereka dan tidak membantu mereka atas kezaliman mereka maka ia termasuk golonganku dan aku pun termasuk golongannya dan ia akan masuk ke telaga bersamaku.”
+</i><br>
+(<b>HR an-Nasai, al-Baihaqi dan al-Hakim</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

@@ -105,23 +105,25 @@ Inilah cara Islam menciptakan dan merawat kebersamaan selama belasan abad, sekal
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
-  </p>
+<p class="text-center-arabic">
+يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
+</p>
 
-  <p class="text-center">
-  <i>Hai manusia, sungguh Kami telah menciptakan kalian terdiri dari laki-laki dan perempuan, dan Kami telah menjadikan kalian bersuku-suku dan berbangsa-bangsa agar kalian saling mengenal. Sungguh yang paling mulia di antara kalian di sisi Allah adalah yang paling bertakwa. Sungguh Allah Mahatahu dan Mahaawas.</i><br>
-  (<b>TQS al-Hujurat [49]: 13</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Hai manusia, sungguh Kami telah menciptakan kalian terdiri dari laki-laki dan perempuan, dan Kami telah menjadikan kalian bersuku-suku dan berbangsa-bangsa agar kalian saling mengenal. Sungguh yang paling mulia di antara kalian di sisi Allah adalah yang paling bertakwa. Sungguh Allah Mahatahu dan Mahaawas.
+</i><br>
+(<b>TQS al-Hujurat [49]: 13</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

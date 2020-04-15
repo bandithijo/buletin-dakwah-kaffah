@@ -119,23 +119,25 @@ Andaikan berjilbab bagi Muslimah tidak wajib, niscaya Nabi saw. akan mengizinkan
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Rasulullah ﷺ  bersabda:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Rasulullah ﷺ  bersabda:
+</p>
 
-  <p class="text-center-arabic">
-  مَنْ قَالَ فِي كِتَابِ اللَّهِ بِغَيْرِ عِلْمٍ فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ
-  </p>
+<p class="text-center-arabic">
+مَنْ قَالَ فِي كِتَابِ اللَّهِ بِغَيْرِ عِلْمٍ فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ
+</p>
 
-  <p class="text-center">
-  <i>Siapa yang berkata tentang Kitabullah tanpa ilmu, siapkanlah tempat duduknya dari api neraka.</i><br>
-  (<b>HR at-Tirmidzi</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Siapa yang berkata tentang Kitabullah tanpa ilmu, siapkanlah tempat duduknya dari api neraka.
+</i><br>
+(<b>HR at-Tirmidzi</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

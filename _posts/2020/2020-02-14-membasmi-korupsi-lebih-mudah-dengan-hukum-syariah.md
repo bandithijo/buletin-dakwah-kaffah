@@ -116,23 +116,25 @@ Karena itu sudah saatnya umat kembali pada syariah Islam yang datang dari Allah 
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  وَمَا كَانَ لِنَبِيٍّ أَنْ يَغُلَّ وَمَنْ يَغْلُلْ يَأْتِ بِمَا غَلَّ يَوْمَ الْقِيَامَةِ ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
-  </p>
+<p class="text-center-arabic">
+وَمَا كَانَ لِنَبِيٍّ أَنْ يَغُلَّ وَمَنْ يَغْلُلْ يَأْتِ بِمَا غَلَّ يَوْمَ الْقِيَامَةِ ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
+</p>
 
-  <p class="text-center">
-  <i>Tidaklah mungkin seorang nabi berlaku curang (dalam urusan harta rampasan perang). Siapa saja yang curang, pada Hari Kiamat ia akan datang membawa kecurangannya itu. Kemudian setiap orang akan dibalas setimpal dengan apa yang dia lakukan dan dia tidak akan dirugikan.</i><br>
-  (<b>TQS Ali Imran [3]: 161</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Tidaklah mungkin seorang nabi berlaku curang (dalam urusan harta rampasan perang). Siapa saja yang curang, pada Hari Kiamat ia akan datang membawa kecurangannya itu. Kemudian setiap orang akan dibalas setimpal dengan apa yang dia lakukan dan dia tidak akan dirugikan.
+</i><br>
+(<b>TQS Ali Imran [3]: 161</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

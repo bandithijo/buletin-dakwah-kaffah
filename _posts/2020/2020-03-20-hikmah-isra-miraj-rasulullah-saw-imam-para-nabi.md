@@ -114,23 +114,25 @@ Karena itu renungkanlah peristiwa Isra’ dan Mi’raj kala semua nabi dan rasul
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Rasulullah ﷺ  bersabda:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Rasulullah ﷺ  bersabda:
+</p>
 
-  <p class="text-center-arabic">
-  لَيُنْقَضَنَّ عُرَى الإِسْلاَمِ عُرْوَةً عُرْوَةً فَكُلَّمَا انْتَقَضَتْ عُرْوَةٌ تَشَبَّثَ النَّاسُ بِالَّتِى تَلِيهَا وَأَوَّلُهُنَّ نَقْضاً الْحُكْمُ وَآخِرُهُنَّ الصَّلاَةُ
-  </p>
+<p class="text-center-arabic">
+لَيُنْقَضَنَّ عُرَى الإِسْلاَمِ عُرْوَةً عُرْوَةً فَكُلَّمَا انْتَقَضَتْ عُرْوَةٌ تَشَبَّثَ النَّاسُ بِالَّتِى تَلِيهَا وَأَوَّلُهُنَّ نَقْضاً الْحُكْمُ وَآخِرُهُنَّ الصَّلاَةُ
+</p>
 
-  <p class="text-center">
-  <i>Ikatan Islam akan terlepas satu demi satu. Setiap kali satu ikatan terlepas, manusia akan bergantung pada ikatan berikutnya. Yang pertama kali akan terlepas adalah pemerintahan dan yang terakhir adalah shalat</i><br>
-  (<b>HR Ahmad dan Ibnu Hibban</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Ikatan Islam akan terlepas satu demi satu. Setiap kali satu ikatan terlepas, manusia akan bergantung pada ikatan berikutnya. Yang pertama kali akan terlepas adalah pemerintahan dan yang terakhir adalah shalat
+</i><br>
+(<b>HR Ahmad dan Ibnu Hibban</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

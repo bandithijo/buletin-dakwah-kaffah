@@ -112,23 +112,25 @@ Karena itu pula tobat terutama harus dibuktikan dengan kesediaan mereka untuk me
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  ءَأَمِنْتُمْ مَّنْ فِى السَّمَآءِ أَنْ يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا هِىَ تَمُورُ – أَمْ أَمِنْتُمْ مَّنْ فِى السَّمَآءِ أَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ – وَلَقَدْ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ
-  </p>
+<p class="text-center-arabic">
+ءَأَمِنْتُمْ مَّنْ فِى السَّمَآءِ أَنْ يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا هِىَ تَمُورُ – أَمْ أَمِنْتُمْ مَّنْ فِى السَّمَآءِ أَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ – وَلَقَدْ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ
+</p>
 
-  <p class="text-center">
-  <i>Apakah kalian merasa aman terhadap Allah yang (berkuasa) di langit bahwa Dia akan menjungkirbalikkan bumi bersama kalian sehingga dengan tiba-tiba bumi itu berguncang? Ataukah kalian merasa aman terhadap Allah yang (berkuasa) di langit bahwa Dia akan mengirimkan badai yang berbatu? Kelak kalian akan mengetahui bagaimana (akibat mendustakan) peringatan-Ku? Sungguh orang-orang yang sebelum mereka telah mendustakan (rasul-rasul-Nya). Alangkah hebatnya kemurkaan-Ku.</i><br>
-  (<b>TQS al-Mulk [67]: 16-18</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Apakah kalian merasa aman terhadap Allah yang (berkuasa) di langit bahwa Dia akan menjungkirbalikkan bumi bersama kalian sehingga dengan tiba-tiba bumi itu berguncang? Ataukah kalian merasa aman terhadap Allah yang (berkuasa) di langit bahwa Dia akan mengirimkan badai yang berbatu? Kelak kalian akan mengetahui bagaimana (akibat mendustakan) peringatan-Ku? Sungguh orang-orang yang sebelum mereka telah mendustakan (rasul-rasul-Nya). Alangkah hebatnya kemurkaan-Ku.
+</i><br>
+(<b>TQS al-Mulk [67]: 16-18</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

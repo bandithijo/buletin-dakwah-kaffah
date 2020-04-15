@@ -135,23 +135,25 @@ Agama ini sungguh tak akan dapat terlindungi jika umat tak memiliki pelindung ya
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Allah ﷻ  berfirman:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Allah ﷻ  berfirman:
+</p>
 
-  <p class="text-center-arabic">
-  لَقَدْ جَاءَكُمْ رَسُولٌ مِنْ أَنْفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُمْ بِالْمُؤْمِنِينَ رَءُوفٌ رَحِيمٌ
-  </p>
+<p class="text-center-arabic">
+لَقَدْ جَاءَكُمْ رَسُولٌ مِنْ أَنْفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُمْ بِالْمُؤْمِنِينَ رَءُوفٌ رَحِيمٌ
+</p>
 
-  <p class="text-center">
-  <i>Sungguh telah datang kepada kalian seorang rasul dari kaum kalian sendiri. Berat terasa oleh dia penderitaan kalian. Dia sangat menginginkan (keimanan dan keselamatan) bagi kalian. Dia amat belas kasihan lagi penyayang kepada kaum Mukmin.</i><br>
-  (<b>TQS at-Taubah [9]: 128</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Sungguh telah datang kepada kalian seorang rasul dari kaum kalian sendiri. Berat terasa oleh dia penderitaan kalian. Dia sangat menginginkan (keimanan dan keselamatan) bagi kalian. Dia amat belas kasihan lagi penyayang kepada kaum Mukmin.
+</i><br>
+(<b>TQS at-Taubah [9]: 128</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

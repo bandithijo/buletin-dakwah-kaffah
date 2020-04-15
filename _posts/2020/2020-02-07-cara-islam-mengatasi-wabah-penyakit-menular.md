@@ -107,23 +107,25 @@ Namun demikian, penguasa pun punya peran sentral untuk menjaga kesehatan wargany
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Rasulullah ﷺ  bersabda:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Rasulullah ﷺ  bersabda:
+</p>
 
-  <p class="text-center-arabic">
-  مَنْ وَلَّاهُ اللَّهُ عَزَّ وَجَلَّ شَيْئًا مِنْ أَمْرِ الْمُسْلِمِينَ فَاحْتَجَبَ دُونَ حَاجَتِهِمْ وَخَلَّتِهِمْ وَفَقْرِهِمْ احْتَجَبَ اللَّهُ عَنْهُ دُونَ حَاجَتِهِ وَخَلَّتِهِ وَفَقْرِهِ
-  </p>
+<p class="text-center-arabic">
+مَنْ وَلَّاهُ اللَّهُ عَزَّ وَجَلَّ شَيْئًا مِنْ أَمْرِ الْمُسْلِمِينَ فَاحْتَجَبَ دُونَ حَاجَتِهِمْ وَخَلَّتِهِمْ وَفَقْرِهِمْ احْتَجَبَ اللَّهُ عَنْهُ دُونَ حَاجَتِهِ وَخَلَّتِهِ وَفَقْرِهِ
+</p>
 
-  <p class="text-center">
-  <i>Siapa yang diserahi oleh Allah untuk mengatur urusan kaum Muslim, lalu dia tidak mempedulikan kebutuhan dan kepentingan mereka, maka Allah tidak akan mempedulikan kebutuhan dan kepentinganya (pada Hari Kiamat).</i><br>
-  (<b>HR Abu Dawud dan at-Tirmidzi</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Siapa yang diserahi oleh Allah untuk mengatur urusan kaum Muslim, lalu dia tidak mempedulikan kebutuhan dan kepentingan mereka, maka Allah tidak akan mempedulikan kebutuhan dan kepentinganya (pada Hari Kiamat).
+</i><br>
+(<b>HR Abu Dawud dan at-Tirmidzi</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->

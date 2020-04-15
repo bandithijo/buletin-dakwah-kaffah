@@ -90,23 +90,25 @@ Hanya saja, umat Islam sedunia tak cukup menunggu seraya berdoa. Diperlukan upay
 
 <!-- HIKMAH -->
 <div class="card mt-5">
-  <div class="card-header">
-  <h1>Hikmah:</h1>
-  </div>
+<div class="card-header">
+<h1>Hikmah:</h1>
+</div>
 
-  <div class="card-body">
-  <p class="text-center">
-  Tsauban ra. bertutur bahwa Rasulullah ﷺ pernah bersabda:
-  </p>
+<div class="card-body">
+<p class="text-center">
+Tsauban ra. bertutur bahwa Rasulullah ﷺ pernah bersabda:
+</p>
 
-  <p class="text-center-arabic">
-  إِنَّ اللَّهَ زَوَى لِي الْأَرْضَ فَرَأَيْتُ مَشَارِقَهَا وَمَغَارِبَهَا وَإِنَّ أُمَّتِي سَيَبْلُغُ مُلْكُهَا مَا زُوِيَ لِي مِنْهَا
-  </p>
+<p class="text-center-arabic">
+إِنَّ اللَّهَ زَوَى لِي الْأَرْضَ فَرَأَيْتُ مَشَارِقَهَا وَمَغَارِبَهَا وَإِنَّ أُمَّتِي سَيَبْلُغُ مُلْكُهَا مَا زُوِيَ لِي مِنْهَا
+</p>
 
-  <p class="text-center">
-  <i>Sungguh Allah pernah menghimpun (seluruh bagian) bumi untukku. Lalu aku melihat bagian timur dan baratnya. Sungguh kekuasaan umatku (Khilafah, red.) akan menjangkau seluruh bagian bumi yang telah Allah himpun untukku.</i><br>
-  (<b>HR Muslim, at-Tirmidzi dan abu Dawud</b>) []
-  </p>
-  </div>
+<p class="text-center">
+<i>
+Sungguh Allah pernah menghimpun (seluruh bagian) bumi untukku. Lalu aku melihat bagian timur dan baratnya. Sungguh kekuasaan umatku (Khilafah, red.) akan menjangkau seluruh bagian bumi yang telah Allah himpun untukku.
+</i><br>
+(<b>HR Muslim, at-Tirmidzi dan abu Dawud</b>) []
+</p>
+</div>
 </div>
 <!-- END HIKMAH -->
