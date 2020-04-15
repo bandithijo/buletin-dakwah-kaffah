@@ -4,8 +4,8 @@ title: "Disintegrasi: Haram dan Berbahaya"
 date: 2019-09-06
 datem: "6 September 2019"
 dateh: "6 Muharram 1441"
-edisi: "106"
-pdf: "http://bit.ly/kaffah106"
+edisi: "105"
+pdf: "http://bit.ly/kaffah105"
 permalink: "/buletin/:title"
 categories: "buletin"
 ---
