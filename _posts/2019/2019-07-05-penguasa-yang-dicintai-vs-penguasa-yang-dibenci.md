@@ -64,7 +64,7 @@ Para pemimpin adil yang dicintai Allah memiliki banyak keutamaan. Mereka termasu
 </p>
 
 <p class="text-right-arti">
-<i>Ada tujuh golongan yang berhak mendapatkan naungan Allah di hari yang tiada naungan kecuali naungan-Nya: pemimpin yang adil…”</i><br>
+<i>“Ada tujuh golongan yang berhak mendapatkan naungan Allah di hari yang tiada naungan kecuali naungan-Nya: pemimpin yang adil…”</i><br>
 (<b>HR Bukhari dan Muslim</b>).
 </p>
 
