@@ -62,7 +62,7 @@ Dari apa yang Baginda Nabi saw. sampaikan di atas, ada sejumlah hal yang beliau 
 *Kedua*, kita diperintahkan untuk memberikan amanah kepada ahlinya. Termasuk amanah kepemimpinan. Ini sesuai dengan firman Allah SWT:
 
 <p class="text-right-arabic">
-إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَى أَهْلِهَا…
+…إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَى أَهْلِهَا
 </p>
 
 <p class="text-right-arti">
@@ -109,7 +109,7 @@ Di luar negeri, hari ini kaum Muslim tampak lebih mementingkan ego kebangsaan ma
 Padahal tegas Allah SWT telah berfirman:
 
 <p class="text-right-arabic">
-إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ…
+…إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ
 </p>
 
 <p class="text-right-arti">
