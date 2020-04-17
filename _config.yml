@@ -43,6 +43,10 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 8
+paginate_path: /page/:num/
 
 sass:
   sass_dir: assets/css

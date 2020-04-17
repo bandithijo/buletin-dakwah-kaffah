@@ -119,6 +119,11 @@ h5.card-title {
   overflow: hidden;
 }
 
+/* For pagination */
+ul.pagination {
+  font-size: 0.8rem;
+}
+
 /* For badge "baru" in card image Homepage */
 .card-img-top {
   position: relative;
