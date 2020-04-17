@@ -121,7 +121,7 @@ h5.card-title {
 
 /* For pagination */
 ul.pagination {
-  font-size: 0.8rem;
+  font-size: 0.8rem !important;
 }
 
 /* For badge "baru" in card image Homepage */
