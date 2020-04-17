@@ -3,4 +3,4 @@
 # To ban all spiders from the entire site uncomment the next two lines:
 #
 User-agent: *
-Sitemap: https://buletinkaffah.netlify.com/sitemap.xml
+Sitemap: https://buletinkaffah.netlify.app/sitemap.xml
