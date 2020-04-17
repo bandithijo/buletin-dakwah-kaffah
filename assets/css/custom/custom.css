@@ -120,9 +120,10 @@ h5.card-title {
 }
 
 /* For pagination */
-ul.pagination li > span,
-ul.pagination li > a {
-  font-size: 0.8rem !important;
+ul.pagination li.page-item > span.page-link,
+ul.pagination li.page-item > a.page-link:hover,
+ul.pagination li.page-item > a.page-link {
+  text-decoration: none !important;
 }
 
 /* For badge "baru" in card image Homepage */
