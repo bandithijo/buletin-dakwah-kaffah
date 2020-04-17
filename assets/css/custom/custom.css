@@ -120,7 +120,7 @@ h5.card-title {
 }
 
 /* For pagination */
-ul.pagination {
+ul.pagination li {
   font-size: 0.8rem !important;
 }
 
