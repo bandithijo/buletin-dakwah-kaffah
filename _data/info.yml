@@ -7,6 +7,7 @@
 
 # Template:
 # state: kode warna state
+# date: tanggal dirilis
 # title: judul dari informasi
 # description:
 #   Penjelasan atau deskripsi dari informasi. Diakhiri dengan titik.
@@ -14,7 +15,8 @@
 #   Catatan kaki atau footnote. Apabila tidak ada, dikosongin tidak mengapa.
 
 state: warning
-title: Informasi!
+date: 12/04/2020
+title: INFORMASI
 description:
   Website ini bukan merupakan web portal resmi dari Buletin Dakwah Kaffah. Mohon doanya karena saat ini, kami sedang berupaya meminta izin kepada pihak Buletin Dakwah Kaffah untuk dapat tayang secara resmi.
 note:

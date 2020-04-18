@@ -27,6 +27,11 @@
   /* padding-left: 1.0em; */
 }
 
+/* For no break */
+.nobr {
+  white-space: nowrap;
+}
+
 /* For handle anchor */
 p a {
   color: #F57215 !important;

@@ -1,16 +1,18 @@
 {% assign status = site.data.info.state %}
 {% assign title = site.data.info.title %}
 {% assign description = site.data.info.description %}
+{% assign date = site.data.info.date %}
 {% assign note = site.data.info.note %}
 <div class="container mt-4 mt-md-3">
   <div class="alert alert-{{ status }} alert-dismissible fade show text-left" role="alert">
     <small>
     <strong>{{ title }}</strong><br>
-    {{ description }}
+    {{ description }}<br>
     {% if note != nil %}
-      <br><hr style="margin:0.3rem 0 0.1rem 0;">
       {{ note }}
     {% endif %}
+    <hr style="margin:0.3rem 0 0.1rem 0;">
+    {{ date }}
     </small>
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
       <span aria-hidden="true">&times;</span>

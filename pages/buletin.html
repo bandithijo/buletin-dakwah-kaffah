@@ -4,12 +4,25 @@ title: Buletin
 permalink: /buletin/
 ---
 
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+  <div style="clear:both;" class="mt-4">
+    <h2><i class="fas fa-calendar-alt"></i>&nbsp;<b>{{ year.name }}</b></h2>
+  </div><!-- clear:both -->
+  <div style="clear:both;" class="mb-4">
+    <ul class="buletin text-left pl-0">
+      {% for post in year.items %}
+        <li style="list-style-type:none;">
+          <a href="{{ post.url }}"><b>
+              <span style="font-family:monospace;">{{ post.edisi }}&nbsp;{{ post.date | date: '%Y.%m.%d' }}</span>&nbsp;
+              <span class="text-dark">{{ post.title }}</span>
+          </b></a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div><!-- clear:both -->
+{% endfor %}
 <ul class="buletin text-left pl-0">
-  {% for post in site.posts %}
-    <li style="list-style-type:none;">
-      <a href="{{ post.url }}"><b>{{ post.edisi }} - {{ post.date | date: '%Y.%m.%d' }} - <span class="text-dark">{{ post.title }}</span></b></a>
-    </li>
-  {% endfor %}
   <li style="list-style-type:none;">
     <i>Sedang dalam proses penyalinan...</i>
   </li>
