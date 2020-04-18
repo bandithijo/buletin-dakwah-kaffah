@@ -11,3 +11,31 @@
   font-weight: 500;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'noorehidayat';
+  src: url('/assets/fonts/quran/noorehidayat.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'al_qalam_quran_majeed';
+  src: url('/assets/fonts/quran/al_qalam_quran_majeed.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'al_qalam_quran_majeed_1';
+  src: url('/assets/fonts/quran/al_qalam_quran_majeed_1.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'al_qalam_quran_majeed_2';
+  src: url('/assets/fonts/quran/al_qalam_quran_majeed_2.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
