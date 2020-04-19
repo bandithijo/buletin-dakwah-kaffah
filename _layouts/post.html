@@ -21,7 +21,13 @@ layout: default
   </div>
   <div class="isi">
     <div class="text-center mb-4 mb-md-5 d-flex flex-column justify-content-between">
-      <img src="{{ site.lazyload.image_banner_blank }}" data-echo="/assets/images/cover/{{ page.edisi }}.jpg" class="rounded" style="height:25.5rem;min-width:100%;object-fit:cover;object-position:top;" alt="cover image" onerror="imgBannerError(this);">
+      <!-- Cover logo for desktop screen size -->
+      <img src="{{ site.lazyload.image_banner_blank }}" data-echo="/assets/images/cover/{{ page.edisi }}.jpg" class="rounded d-none d-md-block" style="height:25.5rem;min-width:100%;object-fit:cover;object-position:top;" alt="cover image" onerror="imgBannerError(this);">
+      <!-- END Cover logo for desktop screen size -->
+
+      <!-- Cover logo for mobile screen size -->
+      <img src="{{ site.lazyload.image_banner_blank }}" data-echo="/assets/images/cover/{{ page.edisi }}.jpg" class="rounded d-md-none d-block img-fluid" alt="cover image" onerror="imgBannerError(this);">
+      <!-- END Cover logo for mobile screen size -->
     </div>
     <div class="text-center mb-4 mb-md-4">
       <img src="/assets/images/icons/bismillah.svg" style="height:3.5rem;" alt="bismillah">
