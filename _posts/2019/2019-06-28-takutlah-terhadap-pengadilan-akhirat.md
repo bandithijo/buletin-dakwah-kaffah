@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Takutlah Kepada Pengadilan Akhirat"
-date: 2019-06-28
+date: 2019-06-29
 datem: "29 Juni 2019"
 dateh: "25 Syawal 1441"
 edisi: "095"
