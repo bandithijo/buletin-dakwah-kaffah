@@ -32,6 +32,11 @@
   white-space: nowrap;
 }
 
+/* For marking */
+mark, .mark {
+  background-color: #FFCC00 !important;
+}
+
 /* For handle anchor */
 p a {
   color: #F57215 !important;
