@@ -8,7 +8,7 @@
 
   <div class="collapse navbar-collapse" id="navbarToggler">
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0 mb-3">
-      <li class="nav-item"><a href="/" class="nav-link">Beranda</a></li>
+      <li class="nav-item"><a href="/" class="nav-link {% if page.url == '/' %}active{% endif %}">Beranda</a></li>
       {% for item in site.navigation %}
         {% assign class = nil %}
         {% if page.url contains item.url %}
@@ -25,7 +25,7 @@
 <!-- Navbar for desktop screen -->
 <div class="d-none d-md-block">
   <ul class="nav justify-content-end nav-border-bottom">
-    <li class="nav-item"><a href="/" class="nav-link">Beranda</a></li>
+  <li class="nav-item"><a href="/" class="nav-link {% if page.url == '/' %}active{% endif %}">Beranda</a></li>
     {% for item in site.navigation %}
       {% assign class = nil %}
       {% if page.url contains item.url %}
