@@ -6,7 +6,7 @@ datem: "17 Juli 2020"
 dateh: "25 Dzulqa'dah 1441"
 edisi: "150"
 pdf: "http://bit.ly/kaffah150"
-pdfm: "https://buletinkaffah.id/wp-content/uploads/2020/08/Kaffah-Mobile-150.pdf"
+pdfm: "https://bit.ly/kaffah150m"
 podcast: "https://buletinkaffah.id/wp-content/uploads/2020/08/150-Audio-Reading-Kaffah.mp3"
 permalink: "/buletin/:title"
 categories: buletin
