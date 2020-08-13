@@ -7,29 +7,33 @@ layout: default
   <hr>
   <div class="tanggal mb-4 mb-md-3">
     <div class="row d-flex justify-content-between">
-      <div class="col-md-9 text-md-left tanggal">
+      <div class="col-md-8 text-md-left tanggal">
         <ul>
           <li>
             <i class="fas fa-calendar-alt"></i> Edisi: <b>{{ page.edisi }}</b> | <b>{{ page.datem }}</b> | <b>{{ page.dateh }} </b>
           </li>
         </ul>
       </div>
-      <div class="col-md-3 text-md-right">
-        <i class="fas fa-download"></i> <a href="{{ page.pdf }}" target="_blank">Unduh versi PDF</a>
+      <div class="col-md-4 text-md-right">
+        <i class="fas fa-download"></i> <a href="{{ page.pdf }}" target="_blank">PDF Original</a>
+        {% unless page.pdfm == nil %} | <a href="{{ page.pdfm }}" target="_blank">PDF Mobile</a>{% endunless %}
       </div>
     </div>
   </div>
   <div class="isi">
     <div class="text-center mb-4 mb-md-5 d-flex flex-column justify-content-between">
       <!-- Cover logo for desktop screen size -->
-      <img src="{{ site.lazyload.image_banner_blank }}" data-echo="/assets/images/cover/{{ page.edisi }}.jpg" class="rounded d-none d-md-block" style="height:25.5rem;min-width:100%;object-fit:cover;object-position:top;" alt="cover image" onerror="imgBannerError(this);">
+      <img src="{{ site.lazyload.image_banner_blank }}" data-echo="/assets/images/cover/{{ page.edisi }}.jpg" class="d-none d-md-block" style="height:25.5rem;min-width:100%;object-fit:cover;object-position:top;" alt="cover image" onerror="imgBannerError(this);">
       <!-- END Cover logo for desktop screen size -->
 
       <!-- Cover logo for mobile screen size -->
-      <img src="{{ site.lazyload.image_banner_blank }}" data-echo="/assets/images/cover/{{ page.edisi }}.jpg" class="rounded d-md-none d-block img-fluid" alt="cover image" onerror="imgBannerError(this);">
+      <img src="{{ site.lazyload.image_banner_blank }}" data-echo="/assets/images/cover/{{ page.edisi }}.jpg" class="d-md-none d-block img-fluid" alt="cover image" onerror="imgBannerError(this);">
       <!-- END Cover logo for mobile screen size -->
     </div>
-    <div class="text-center mb-4 mb-md-4">
+    {% unless page.podcast == nil %}
+      {% include podcast.html %}
+    {% endunless %}
+    <div class="bismillah text-center my-4 my-md-4">
       <img src="/assets/images/icons/bismillah.svg" style="height:3.5rem;" alt="bismillah">
     </div>
     {{ content }}

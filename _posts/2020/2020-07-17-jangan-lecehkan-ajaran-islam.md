@@ -6,11 +6,13 @@ datem: "17 Juli 2020"
 dateh: "25 Dzulqa'dah 1441"
 edisi: "150"
 pdf: "http://bit.ly/kaffah150"
+pdfm: "https://buletinkaffah.id/wp-content/uploads/2020/08/Kaffah-Mobile-150.pdf"
+podcast: "https://buletinkaffah.id/wp-content/uploads/2020/08/150-Audio-Reading-Kaffah.mp3"
 permalink: "/buletin/:title"
 categories: buletin
 ---
 
-audaraku, sebagai seorang Mukmin, tentu kita semua mengimani bahwa Allah SWT itu ada. Alam semesta yang indah dengan gugusan planet, bulan, bintang dan galaksi membuktikan bahwa Allah SWT itu ada. Saat mencermati diri kita sebagai manusia dengan seluruh anatomi dan fisiologisnya, kita menyadari bahwa semua itu tidak terjadi dengan sendirinya. Pasti ada Pencipta dan Pengaturnya. Dialah Allah SWT.
+Saudaraku, sebagai seorang Mukmin, tentu kita semua mengimani bahwa Allah SWT itu ada. Alam semesta yang indah dengan gugusan planet, bulan, bintang dan galaksi membuktikan bahwa Allah SWT itu ada. Saat mencermati diri kita sebagai manusia dengan seluruh anatomi dan fisiologisnya, kita menyadari bahwa semua itu tidak terjadi dengan sendirinya. Pasti ada Pencipta dan Pengaturnya. Dialah Allah SWT.
 
 Allah SWT tak sekadar menciptakan manusia. Allah SWT pun menyediakan fasilitas yang lengkap di dunia ini agar manusia dapat memenuhi kebutuhan hidupnya. Allah SWT menyiapkan udara, air, alam dengan seisinya agar dapat dinikmati oleh manusia. Inilah bentuk kasih sayang Allah SWT yang luas tak bertepi kepada manusia.
 

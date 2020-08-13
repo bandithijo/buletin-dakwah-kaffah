@@ -179,3 +179,14 @@ ul.pagination li.page-item > a.page-link {
   color: #ffffff !important;
   text-decoration: none !important;
 }
+
+/* For bismillah */
+.bismillah img {
+  margin-top:-40px;
+}
+
+@media only screen and (max-width: 768px) {
+  .bismillah img {
+    margin-top: -10px;
+  }
+}

@@ -6,6 +6,7 @@ datem: "10 Juli 2020"
 dateh: "18 Dzulqa'dah 1441"
 edisi: "149"
 pdf: "http://bit.ly/kaffah149"
+podcast: "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-6-10/89017480-44100-2-2029d6572337a.m4a"
 permalink: "/buletin/:title"
 categories: buletin
 ---

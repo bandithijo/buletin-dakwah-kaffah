@@ -14,8 +14,14 @@ permalink: /buletin/
       {% for post in year.items %}
         <li style="list-style-type:none;">
           <a href="{{ post.url }}"><b>
-              <span style="font-family:monospace;">{{ post.edisi }}&nbsp;{{ post.date | date: '%Y.%m.%d' }}</span>&nbsp;
-              <span class="text-dark">{{ post.title }}</span>
+              <span class="col" style="padding-left:0;padding-right:0;">
+                <span class="col-md-6 text-left" style="padding-left:0;padding-right:0;">
+                  <span style="font-family:monospace;">{{ post.edisi }}&nbsp;{{ post.date | date: '%Y.%m.%d' }}</span>&nbsp;
+                </span>
+                <span class="col-md-6 text-left" style="padding-left:0;padding-right:0;">
+                  <span class="text-dark">{{ post.title }}</span>
+                </span>
+              </span>
           </b></a>
         </li>
       {% endfor %}
