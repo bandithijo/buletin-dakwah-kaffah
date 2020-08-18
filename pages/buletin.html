@@ -13,7 +13,7 @@ permalink: /buletin/
     <ul class="buletin text-left pl-0">
       {% for post in year.items %}
         <li style="list-style-type:none;">
-          <a href="{{ post.url }}"><b>
+          <a href="{{ post.baseurl }}"><b>
               <span class="col" style="padding-left:0;padding-right:0;">
                 <span class="col-md-6 text-left" style="padding-left:0;padding-right:0;">
                   <span style="font-family:monospace;">{{ post.edisi }}&nbsp;{{ post.date | date: '%Y.%m.%d' }}</span>&nbsp;
