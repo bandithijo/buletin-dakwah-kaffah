@@ -3,9 +3,9 @@
 <meta name="generator" content="Jekyll v4.0.0" />
 <meta property="og:title" content="{% if page.title and page.edisi %}Edisi {{ page.edisi }} - {{ page.title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}" />
-<link rel="canonical" href="{% if page.title %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}" />
-<meta property="og:url" content="{% if page.title %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}" />
-<meta property="og:image" content="{% if page.edisi %}{{ site.url }}/assets/images/cover/{{ page.edisi }}.jpg{% else %}{{ site.url }}{{ site.logo_author }}{% endif %}" />
+<link rel="canonical" href="{% if page.title %}{{ site.baseurl }}{{ page.url }}{% else %}{{ site.baseurl }}{% endif %}" />
+<meta property="og:url" content="{% if page.title %}{{ site.baseurl }}{{ page.url }}{% else %}{{ site.baseurl }}{% endif %}" />
+<meta property="og:image" content="{% if page.edisi %}{{ site.baseurl }}/assets/images/cover/{{ page.edisi }}.jpg{% else %}{{ site.baseurl }}{{ site.logo_author }}{% endif %}" />
 <meta property="og:image:width" content="{{ site.image.width }}" />
 <meta property="og:image:height" content="{{ site.image.height }}" />
 <meta property="og:site_name" content="{{ site.title }}" />
@@ -13,6 +13,6 @@
 <meta property="og:locale" content="{{ site.locale }}" />
 <meta property="og:country-name" content="Indonesia"/>
 <meta name="twitter:text:title" content="{% if page.title and page.edisi %}Edisi {{ page.edisi }} - {{ page.title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-<meta name="twitter:image" content="{% if page.edisi %}{{ site.url }}/assets/images/cover/{{ page.edisi }}.jpg{% else %}{{ site.url }}{{ site.logo_author }}{% endif %}" />
+<meta name="twitter:image" content="{% if page.edisi %}{{ site.baseurl }}/assets/images/cover/{{ page.edisi }}.jpg{% else %}{{ site.baseurl }}{{ site.logo_author }}{% endif %}" />
 <meta name="twitter:card" content="summary_large_image" />
 <!-- End Jekyll SEO tag -->
