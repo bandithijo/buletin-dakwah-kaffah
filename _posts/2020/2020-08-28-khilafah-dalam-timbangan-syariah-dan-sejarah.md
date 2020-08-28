@@ -139,7 +139,7 @@ Ulama Nusantara, Syaikh Sulaiman Rasyid, dalam kitab berjudul *Fiqih Islam*, jug
 
 <div class="card-body">
 <p class="text-center">
-Imam as-Syafii *rahimahulLah* berkata:
+Imam as-Syafii <i>rahimahulLah</i> berkata:
 </p>
 
 <p class="text-center-arabic">
